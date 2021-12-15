@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "40bbbb5df5ab59d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c548c0819a03b8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Presentations/December.md",
+            "mode": "source"
+          }
+        },
+        "group": "7ff1b7558c5ce21d"
+      },
+      {
+        "id": "71b2cfb324112462",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Presentations/December.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7ff1b7558c5ce21d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c3b4f8589e9d38f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd0192b2d3a41ff6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "494a9bbe796de145",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e021da7db74e10bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa826788e6703207",
+    "type": "split",
+    "children": [
+      {
+        "id": "146c86aa13f4a31a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97ff19ab2d29b859",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Presentations/December.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "285365adb04ce92a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "22c548c0819a03b8",
+  "lastOpenFiles": [
+    "Presentations/December.md",
+    "Presentations/December.script.md",
+    "Bibliography.md",
+    "Table of Contents.md",
+    "Meeting November.md",
+    "Research Questions.md",
+    "Chapters/Talking to Computers.md",
+    "Chapters/Hello World.md",
+    "Abstract.md",
+    "Random Ideas.md"
+  ]
+}
