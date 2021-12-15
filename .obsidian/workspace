@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Presentations/December.md",
+            "file": "Random.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Presentations/December.md",
+            "file": "Random.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentations/December.md",
+                "file": "Random.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "22c548c0819a03b8",
   "lastOpenFiles": [
+    "Random.md",
+    "Research Questions.md",
+    "Table of Contents.md",
+    "Meeting November.md",
     "Presentations/December.md",
     "Presentations/December.script.md",
     "Bibliography.md",
-    "Table of Contents.md",
-    "Meeting November.md",
-    "Research Questions.md",
     "Chapters/Talking to Computers.md",
     "Chapters/Hello World.md",
-    "Abstract.md",
-    "Random Ideas.md"
+    "Abstract.md"
   ]
 }
