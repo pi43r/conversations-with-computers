@@ -1,4 +1,7 @@
 [
   "obsidian-plugin-toc",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-citation-plugin",
+  "obsidian-footnotes",
+  "obsidian-tidy-footnotes"
 ]

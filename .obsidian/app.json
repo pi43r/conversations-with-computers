@@ -10,5 +10,13 @@
   },
   "defaultViewMode": "preview",
   "strictLineBreaks": false,
-  "attachmentFolderPath": "Images"
+  "attachmentFolderPath": "Images",
+  "legacyEditor": true,
+  "livePreview": true,
+  "spellcheckDictionary": [
+    "convolutional",
+    "dataset",
+    "operant",
+    "counterintuitive"
+  ]
 }

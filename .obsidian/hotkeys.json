@@ -1,1 +1,10 @@
-{}
+{
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ]
+}

@@ -4,28 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "22c548c0819a03b8",
+        "id": "88c9c6439eafd6c3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Random.md",
-            "mode": "source"
-          }
-        },
-        "group": "7ff1b7558c5ce21d"
-      },
-      {
-        "id": "71b2cfb324112462",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Random.md",
+            "file": "Chapters/Hello World.md",
             "mode": "preview"
           }
-        },
-        "group": "7ff1b7558c5ce21d"
+        }
+      },
+      {
+        "id": "8652cd9f0635cec5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Table of Contents.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random.md",
+                "file": "Chapters/Hello World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +105,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "22c548c0819a03b8",
+  "active": "88c9c6439eafd6c3",
   "lastOpenFiles": [
-    "Random.md",
-    "Research Questions.md",
-    "Table of Contents.md",
-    "Meeting November.md",
-    "Presentations/December.md",
-    "Presentations/December.script.md",
-    "Bibliography.md",
-    "Chapters/Talking to Computers.md",
     "Chapters/Hello World.md",
-    "Abstract.md"
+    "Notes/@kernighanProgrammingLanguage1988.md",
+    "Chapters/Talking to Computers.md",
+    "Table of Contents.md",
+    "Generated/Table of Content.md",
+    "Presentations/December.script.md",
+    "Abstract.md",
+    "Bibliography.md",
+    "Meeting November.md",
+    "Random.md"
   ]
 }
