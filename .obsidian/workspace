@@ -6,7 +6,7 @@
       {
         "id": "161fd991f1f43daa",
         "type": "leaf",
-        "dimension": 27.17023675310034,
+        "dimension": 42.73049645390071,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,11 +18,11 @@
       {
         "id": "53b412e33b6368f1",
         "type": "leaf",
-        "dimension": 72.82976324689966,
+        "dimension": 57.26950354609929,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapters/Hello World.md",
+            "file": "Random.md",
             "mode": "source"
           }
         }
@@ -81,9 +81,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/Hello World.md",
+                "file": "Random.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -96,10 +96,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "53b412e33b6368f1",
   "lastOpenFiles": [
+    "Random.md",
     "Chapters/Hello World.md",
     "Abstract.md",
     "Table of Contents.md",
@@ -107,8 +109,7 @@
     "Presentations/December.md",
     "Revision Needed.md",
     "Research Questions.md",
-    "Random.md",
-    "Meeting November.md",
+    "Presentations/Meeting November.md",
     "Chapters/Talking to Computers.md"
   ]
 }
