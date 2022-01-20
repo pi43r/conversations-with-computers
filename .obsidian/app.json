@@ -23,7 +23,11 @@
     "microcontroller",
     "vocoder",
     "anonymization",
-    "mysoginistic"
+    "mysoginistic",
+    "Voder",
+    "Commonvoice",
+    "chatbot"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

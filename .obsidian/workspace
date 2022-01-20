@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "161fd991f1f43daa",
+        "id": "2ae24c44609001ff",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Chapters/Talking to Computers.md",
             "mode": "source"
           }
-        },
-        "group": "448f7f07c1b5a5fa"
-      },
-      {
-        "id": "17d2f5290894f6f5",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Chapters/Talking to Computers.md",
-            "mode": "preview"
-          }
-        },
-        "group": "448f7f07c1b5a5fa"
+        }
       }
     ],
     "direction": "vertical"
@@ -101,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "161fd991f1f43daa",
+  "active": "2ae24c44609001ff",
   "lastOpenFiles": [
     "Chapters/Talking to Computers.md",
-    "Table of Contents.md",
-    "Abstract.md",
-    "Revision Needed.md",
-    "Research Questions.md",
-    "Random.md",
     "Chapters/Hello World.md",
-    "Presentations/December.script.md",
-    "Presentations/December.md",
-    "Presentations/Meeting November.md"
+    "Notes/@krizhevskyOneWeirdTrick2014.md",
+    "Abstract.md",
+    "Table of Contents.md",
+    "Chapters/endoftext.md",
+    "Chapters/Co-Intelligence.md",
+    "Chapters/Stochastic Gods.md",
+    "Chapters/Piles of Data.md",
+    "Revision Needed.md"
   ]
 }
