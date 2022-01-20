@@ -24,5 +24,6 @@
     "vocoder",
     "anonymization",
     "mysoginistic"
-  ]
+  ],
+  "promptDelete": false
 }

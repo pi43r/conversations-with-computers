@@ -6,26 +6,28 @@
       {
         "id": "161fd991f1f43daa",
         "type": "leaf",
-        "dimension": 42.73049645390071,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Table of Contents.md",
+            "file": "Chapters/Talking to Computers.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "448f7f07c1b5a5fa"
       },
       {
-        "id": "53b412e33b6368f1",
+        "id": "17d2f5290894f6f5",
         "type": "leaf",
-        "dimension": 57.26950354609929,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Random.md",
-            "mode": "source"
+            "file": "Chapters/Talking to Computers.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "448f7f07c1b5a5fa"
       }
     ],
     "direction": "vertical"
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random.md",
+                "file": "Chapters/Talking to Computers.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "53b412e33b6368f1",
+  "active": "161fd991f1f43daa",
   "lastOpenFiles": [
-    "Random.md",
-    "Chapters/Hello World.md",
-    "Abstract.md",
+    "Chapters/Talking to Computers.md",
     "Table of Contents.md",
-    "Presentations/December.script.md",
-    "Presentations/December.md",
+    "Abstract.md",
     "Revision Needed.md",
     "Research Questions.md",
-    "Presentations/Meeting November.md",
-    "Chapters/Talking to Computers.md"
+    "Random.md",
+    "Chapters/Hello World.md",
+    "Presentations/December.script.md",
+    "Presentations/December.md",
+    "Presentations/Meeting November.md"
   ]
 }
