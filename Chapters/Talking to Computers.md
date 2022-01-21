@@ -41,7 +41,7 @@ It is interesting how the term AI is used in the context of voice computer inter
 
 ## Artificial Voices
 
-I want to explain the advancements in voice synthesis since Wolfgang von Kempelen's speaking machine on actual dolls for children. The toy manufacturer Mattel released a doll with the name Chatty Cathy in 1959, which was similarly popular to Barbie by the same manufacturer. The dolls trademark was a string, coming out of the back of the body, that could be pulled to 
+I want to explain the advancements in voice synthesis since Wolfgang von Kempelen's speaking machine on actual dolls for children. The toy manufacturer Mattel released a doll with the name Chatty Cathy in 1959, which was similarly popular to the companies other best seller Barbie. Cathy’s trademark was a string, coming out of the back of it’s body, that could be pulled to wind up a mechanism tha
 
 ---
 
