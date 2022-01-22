@@ -41,7 +41,7 @@ It is interesting how the term AI is used in the context of voice computer inter
 
 ## Artificial Voices
 
-I want to explain the advancements in voice synthesis since Wolfgang von Kempelen's speaking machine on actual dolls for children. The toy manufacturer Mattel released a doll with the name Chatty Cathy in 1959, which was similarly popular to the companies other best seller Barbie. Cathy’s trademark was a string, coming out of the back of it’s body, that could be pulled to wind up the mechanism of a simple phonograph. Like a record player it plays short strips with sentences like “I love you ” or “Tell me a story”. It was not the first toy using phonograph records, but it’s success led to many pull string toys flooding the market well into the 60s and 70s. 
+I want to explain the advancements in voice synthesis since Wolfgang von Kempelen's speaking machine on actual dolls for children. The toy manufacturer Mattel released a doll with the name Chatty Cathy in 1959, which was similarly popular to the companies other best seller Barbie. Cathy’s trademark was a string, coming out of the back of it’s body, that could be pulled to wind up the mechanism of a simple phonograph. Like a record player it plays short strips with sentences like “I love you ” or “Tell me a story”. It was not the first toy using phonograph records, but it’s success led to many pull string toys flooding the market well into the 60s and 70s. But before dolls and puppets were designed to talk back to us, children and adults have been talking to figurines and other inanimate objects. 
 
 
 ---
