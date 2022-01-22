@@ -47,7 +47,7 @@ The systems engineer and science writer George Zarkadakis traces back the modern
 
 In the beginning of “In Our Own Image” by George Zarkadakis, he tells the story of how the fictional character Robby the Robot from the movie *Forbidden Planet* impressed him as child so much, that he would imagine the robot as a playmate that could walk, talk and obey orders. When he later on decided to study engineering and exchanging thoughts on artificial intelligence with other researchers, they all seemed to relate to the same sci-fi movies, books and stories. 
 Inspired by this revelation I asked the other participants at the *Silicon Friend Camp* of what their first contact with a robot was. My own memories brought me to a picture of myself, proudly holding a plastic toy robot in my hand. The doll—or should I say action figure—had a battery compartment, which were the power source for tiny wheels underneath it’s feed and shiny light bulbs that it had for eyes. It could not talk, but I clearly remember that it made noises that resemble guns or a lasers. In the 80s and 90s the bleak vision of boxy humanoid robots carrying guns was very prominent, next to movies like *The Transformer* and *RoboCop*, they fueled the male fantasy for power and destruction.
-The other first encounters were a little less militaristic, one artist remembering a robot dog that he got as a present and was very proud to show around to others.  
+The other first encounters were a little less militaristic, one artist remembering a robot dog that he got as a present and was very proud to show around to others. In the early 2000s digital pets with integrated sensors became cheap enough for consumers. *Tekno the Robotic Puppy*[^25] by Manley Toy Quest was one of the more affordable robot dogs in the market and with light and proximity sensors, buttons and even a microphone it was well equipped to learn some ‘tricks’ by pressing the right combination of buttons. And even though it already featured rudimentary voice recognition, not unlike Chatty Cathy, it was blasting pre-recorded bark sounds out of it’s speaker. Another artist was sharing an image of the *Tamagotchi* and while it was not a robot, the LCD screen in an egg-like plastic shell displayed a simulation of a pet. With 3 buttons children could interact with the virtual pet and fulfill it’s needs for food, affection and sleep.
 
 ---
 
@@ -98,3 +98,5 @@ The other first encounters were a little less militaristic, one artist rememberi
 [^23]: Link to the LDC Switchboard-1 Release 2: https://catalog.ldc.upenn.edu/LDC97S62
 
 [^24]: [@zarkadakesOurOwnImage2016]
+
+[^25]: The robot puppy was featured on the TIME magazine cover with the title “Tech comes to Toyland”. Link: http://content.time.com/time/covers/europe/0,16641,20001211,00.html
