@@ -41,7 +41,9 @@ It is interesting how the term AI is used in the context of voice computer inter
 
 ## Artificial Voices
 
-I want to explain the advancements in voice synthesis since Wolfgang von Kempelen's speaking machine on actual dolls for children. The toy manufacturer Mattel released a doll with the name Chatty Cathy in 1959, which was similarly popular to the companies other best seller Barbie. Cathy’s trademark was a string, coming out of the back of it’s body, that could be pulled to wind up the mechanism of a simple phonograph. Like a record player it plays short strips with sentences like “I love you ” or “Tell me a story”. It was not the first toy using phonograph records, but it’s success led to many pull string toys flooding the market well into the 60s and 70s. But obviously before dolls and puppets were designed to talk back to us, children and adults have been talking to figurines and other inanimate objects. And by their imagination alone these objects did talk back 
+I want to explain the advancements in voice synthesis since Wolfgang von Kempelen's speaking machine on actual dolls for children. The toy manufacturer Mattel released a doll with the name Chatty Cathy in 1959, which was similarly popular to the companies other best seller Barbie. Cathy’s trademark was a string, coming out of the back of it’s body, that could be pulled to wind up the mechanism of a simple phonograph. Like a record player it plays short strips with sentences like “I love you ” or “Tell me a story”. It was not the first toy using phonograph records, but it’s success led to many pull string toys flooding the market well into the 60s and 70s. But obviously before dolls and puppets were designed to talk back to us, children and adults have been talking to figurines and other inanimate objects forever. 
+
+The systems engineer and science writer George Zarkadakis traces back the modern human mind to a pre-historic figurine of a Lion-Man (Löwenmensch), carved out of ivory and found in the cave Hohenstein-Stadel in southern Germany.[^24] The figure dates back 40.000 to 35.000 years and clearly depicts a human body with an animal head. It was found next to other carved objects and jewelry and it is assumed that the figurine was used in shamanistic rituals. What fascinates Zarkadakis is that modern humans have existed 360.000 before, but no evidence exists that they have been making non-utalitarian objects or figurative depictions of things. Only when the first cave paintings were drawn and figures like the Lion-Man were carved it assumed that humans have developed general purpose language. Language that could contain all kinds of symbolism 
 
 
 ---
@@ -91,3 +93,4 @@ I want to explain the advancements in voice synthesis since Wolfgang von Kempele
 [^22]: Link to LibriVox: https://librivox.org/ and [@panayotovLibrispeechASRCorpus2015]
 
 [^23]: Link to the LDC Switchboard-1 Release 2: https://catalog.ldc.upenn.edu/LDC97S62 
+[^24]: [@zarkadakesOurOwnImage2016]

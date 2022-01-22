@@ -27,7 +27,8 @@
     "Voder",
     "Commonvoice",
     "chatbot",
-    "audiobooks"
+    "audiobooks",
+    "anthropomorphized"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true
