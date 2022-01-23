@@ -29,7 +29,8 @@
     "chatbot",
     "audiobooks",
     "anthropomorphized",
-    "formant"
+    "formant",
+    "demisyllables"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true
