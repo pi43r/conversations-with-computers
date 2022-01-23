@@ -28,7 +28,8 @@
     "Commonvoice",
     "chatbot",
     "audiobooks",
-    "anthropomorphized"
+    "anthropomorphized",
+    "formant"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true
