@@ -63,10 +63,42 @@ This scripted denial of a capitalist logic ironically uses the same technique as
 
 The tedious process of mapping out all questions and creating answers for them is mostly done through creative writing, but also utilizes careful statistical analysis of the questions users send to the cloud.
 
-It is interesting how the term AI is used in the context of voice computer interfaces, because there is nothing “smart” about it, just a winding flowchart of if-else conditions. What might be clever is the nefarious way of how companies trick people into the belief of computer personalities, encouraging people to interact with the device like children playing with dolls. And when a company like Microsoft has experimented with a more sophisticated chatbot, like Tay[^42], it started to repeat the racist and misogynistic slurs of twitter users and consequently must be heavily filtered. But more on this in a later chapter on stochastic text generation.
+It is interesting how the term AI is used in the context of voice computer interfaces, because there is nothing “smart” about it, just a winding flowchart of if-else conditions. What might be clever is the nefarious way of how companies trick people into the belief of computer personalities, encouraging people to interact with the device like children playing with dolls. And when a company like Microsoft has experimented with a more sophisticated chatbot, like Tay[^42], it started to repeat the racist and misogynistic slurs of twitter users and consequently has to be heavily filtered. But more on this in a later chapter on stochastic text generation.
 
 ## Leewa
 
+The artist duo *Ekheo* consisting of Aude Langlois and Belinda Sykora explore the crosslines of musical, visual and sonic art performances. They met at the Sound Studies program at the Universität der Künste in Berlin, where they created musical improvisations and theoretical frameworks on the voice and music. They started their research on voice, gender and identity in relation to AI systems in 2019 and held talks at the MUK[^43] and other institutions to share their insights. 
+At the *Silicon Friend Camp* they wanted to extend their already existing improvisation and research practice by integrating a form of embodied AI. But the main focus was the voice itself: How is gender perceived through it? How do we navigate the tension between what is considered an artificial voice and an authentic voice? 
+To tackle these issues during the camp they wanted to create and record soundscapes based on vocal improvisation and use AI systems in the form of synthetic voices, generative composition tools, robotic elements and so on. 
+So we prepared the attic of the house with a small sound studio that they could work in. And during the week they found inspiration in using a multitude of AI systems and human collaborators that they used to create an improvisation and finally 6-minute video and audio composition.
+To come up with the identity of their AI collaborator, they used the *Oracle*[^44] to ask questions of their name, gender, favorite instrument etc. which reads like this:
+
+> You: how old is she?
+> Oracle:  Today she will be 11.
+> You: what is her favourite musical instrument? 
+> Oracle:  her greatest pleasure is to whisper to the sounds of trumpets and the beating of tympani 
+> You: is she happy?
+> Oracle:  It is a mystery and a great sadness.
+> You: What is Leewa's surname?
+> Oracle:  It was suggested that her human's name was /u/Seattle_Celtics.
+> You: does she like to sing?
+> Oracle:  I have no voice
+> You: No I mean Leewa
+> Oracle:  Query : Have you ever cheated?
+> You: Does Leewa have a voice?
+> Oracle:  Yoow!
+> You: what is Leewa's favourite poem?
+> Oracle:  Leaves of Grass
+> You: What is Leewa's favourite book?
+> Oracle:  Leewa does joke around and loves to give sarcastic responses. She also loves to read books, especially horror novels.
+> You: What gender does Leewa have?
+> Oracle:  She is female.
+> You: which music does Leewa like?
+> Oracle:  Leewa likes to sing and most of all Leewa likes to dance.
+> You: What is art for her?
+> Oracle:  art is the process of iterating through consciousness generation.
+	
+This served as inspiration for further experiments using a whispering voice and 3D printing a female doll. To recreate the voice I for tools to do voice synthesis and found an open source toolbox from Corentin Jemine that claimed to do Real-Time Voice Cloning. After trying out the method that essentially used transfer learning on 
 
 
 
@@ -156,3 +188,6 @@ It is interesting how the term AI is used in the context of voice computer inter
 
 [^42]: Tay was the name of a chat bot Microsoft intended to have a teenage personality and could be interacted with over multiple channels. Twitter trolls co-opted the bot with sexist, racist and antisemitic questions that the bot replied to with generic answers. They also made use of a repeat-after-me phrase to make it look like the bot is spewing hateful comments itself. After only 16 hours Microsoft deleted all accounts and the PR disaster was immense, with headlines happily personifying the AI that has learned to be racist. But no continuous learning algorithm was involved. Link to a blog post by Russel Cameron Thomas explaining the technology stack behind Tay:[ https://exploringpossibilityspace.blogspot.com/2016/03/microsoft-tayfail-smoking-gun-alice.html](https://exploringpossibilityspace.blogspot.com/2016/03/microsoft-tayfail-smoking-gun-alice.html)
 
+[^43]: [@GENDERDIVERSITYGastvortrag]
+
+[^44]: The Oracle was a terminal computer connected to GPT-3 with a generic Q&A prompt.
