@@ -30,7 +30,8 @@
     "audiobooks",
     "anthropomorphized",
     "formant",
-    "demisyllables"
+    "demisyllables",
+    "concatenative"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true
