@@ -70,7 +70,7 @@ It is interesting how the term AI is used in the context of voice computer inter
 The artist duo *Ekheo* consisting of Aude Langlois and Belinda Sykora explore the crosslines of musical, visual and sonic art performances. They met at the Sound Studies program at the Universität der Künste in Berlin, where they created musical improvisations and theoretical frameworks on the voice and music. They started their research on voice, gender and identity in relation to AI systems in 2019 and held talks at the MUK[^43] and other institutions to share their insights. 
 At the *Silicon Friend Camp* they wanted to extend their already existing improvisation and research practice by integrating a form of embodied AI. But the main focus was the voice itself: How is gender perceived through it? How do we navigate the tension between what is considered an artificial voice and an authentic voice? 
 To tackle these issues during the camp they wanted to create and record soundscapes based on vocal improvisation and use AI systems in the form of synthetic voices, generative composition tools, robotic elements and so on. 
-So we prepared the attic of the house with a small sound studio that they could work in. And during the week they found inspiration in using a multitude of AI systems and human collaborators that they used to create an improvisation and finally 6-minute video and audio composition.
+So we prepared the attic of the house with a small sound studio that they could work in and during the week they found inspiration in using a multitude of AI systems and human collaborators that they used to create an improvisation and finally a 6-minute video and audio composition.
 To come up with the identity of their AI collaborator, they used the *Oracle*[^44] to ask questions of their name, gender, favorite instrument etc. which reads like this:
 
 > You: how old is she?
@@ -98,7 +98,7 @@ To come up with the identity of their AI collaborator, they used the *Oracle*[^4
 > You: What is art for her?
 > Oracle:  art is the process of iterating through consciousness generation.
 	
-This served as inspiration for further experiments using a whispering voice and 3D printing a female doll. To recreate the voice I for tools to do voice synthesis and found an open source toolbox from Corentin Jemine that claimed to do Real-Time Voice Cloning. After trying out the method that essentially used transfer learning on 
+This served as inspiration for further experiments using a whispering voice and 3D printing a female doll. To recreate the voice I searched for tools to do voice synthesis and found an open source toolbox from Corentin Jemine that claimed to do Real-Time Voice Cloning. The method that essentially used transfer learning on 
 
 
 
