@@ -126,6 +126,23 @@
   note = {Includes index}
 }
 
+@article{krizhevskyImageNetClassificationDeep2017,
+  title = {{{ImageNet}} Classification with Deep Convolutional Neural Networks},
+  author = {Krizhevsky, Alex and Sutskever, Ilya and Hinton, Geoffrey E.},
+  date = {2017-05-24},
+  journaltitle = {Commun. ACM},
+  volume = {60},
+  number = {6},
+  pages = {84--90},
+  issn = {0001-0782, 1557-7317},
+  doi = {10.1145/3065386},
+  url = {https://dl.acm.org/doi/10.1145/3065386},
+  urldate = {2022-01-24},
+  abstract = {We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes. On the test data, we achieved top-1 and top-5 error rates of 37.5\% and 17.0\% which is considerably better than the previous state-of-the-art. The neural network, which has 60 million parameters and 650,000 neurons, consists of five convolutional layers, some of which are followed by max-pooling layers, and three fully-connected layers with a final 1000-way softmax. To make training faster, we used non-saturating neurons and a very efficient GPU implementation of the convolution operation. To reduce overfitting in the fully-connected layers we employed a recently-developed regularization method called “dropout” that proved to be very effective. We also entered a variant of this model in the ILSVRC-2012 competition and achieved a winning top-5 test error rate of 15.3\%, compared to 26.2\% achieved by the second-best entry.},
+  langid = {english},
+  file = {/home/mtths/Zotero/storage/P3W6G2DH/Krizhevsky et al. - 2017 - ImageNet classification with deep convolutional ne.pdf}
+}
+
 @online{krizhevskyOneWeirdTrick2014,
   title = {One Weird Trick for Parallelizing Convolutional Neural Networks},
   author = {Krizhevsky, Alex},
@@ -216,6 +233,23 @@
   urldate = {2022-01-16},
   abstract = {How neural networks build up their understanding of images},
   langid = {english}
+}
+
+@online{oordWaveNetGenerativeModel2016,
+  title = {{{WaveNet}}: {{A Generative Model}} for {{Raw Audio}}},
+  shorttitle = {{{WaveNet}}},
+  author = {van den Oord, Aaron and Dieleman, Sander and Zen, Heiga and Simonyan, Karen and Vinyals, Oriol and Graves, Alex and Kalchbrenner, Nal and Senior, Andrew and Kavukcuoglu, Koray},
+  date = {2016-09-19},
+  eprint = {1609.03499},
+  eprinttype = {arxiv},
+  primaryclass = {cs},
+  url = {http://arxiv.org/abs/1609.03499},
+  urldate = {2022-01-24},
+  abstract = {This paper introduces WaveNet, a deep neural network for generating raw audio waveforms. The model is fully probabilistic and autoregressive, with the predictive distribution for each audio sample conditioned on all previous ones; nonetheless we show that it can be efficiently trained on data with tens of thousands of samples per second of audio. When applied to text-to-speech, it yields state-ofthe-art performance, with human listeners rating it as significantly more natural sounding than the best parametric and concatenative systems for both English and Mandarin. A single WaveNet can capture the characteristics of many different speakers with equal fidelity, and can switch between them by conditioning on the speaker identity. When trained to model music, we find that it generates novel and often highly realistic musical fragments. We also show that it can be employed as a discriminative model, returning promising results for phoneme recognition.},
+  archiveprefix = {arXiv},
+  langid = {english},
+  keywords = {Computer Science - Machine Learning,Computer Science - Sound},
+  file = {/home/mtths/Zotero/storage/SIAAXZCB/Oord et al. - 2016 - WaveNet A Generative Model for Raw Audio.pdf}
 }
 
 @inproceedings{panayotovLibrispeechASRCorpus2015,
