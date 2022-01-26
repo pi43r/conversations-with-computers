@@ -135,6 +135,17 @@
   file = {/home/mtths/Zotero/storage/JNVUEWWZ/Jemine - Master thesis  Automatic Multispeaker Voice Cloni.pdf}
 }
 
+@software{jemineRealTimeVoiceCloning2022,
+  title = {Real-{{Time Voice Cloning}}},
+  author = {Jemine, Corentin},
+  date = {2022-01-26T14:01:33Z},
+  origdate = {2019-05-26T08:56:15Z},
+  url = {https://github.com/CorentinJ/Real-Time-Voice-Cloning},
+  urldate = {2022-01-26},
+  abstract = {Clone a voice in 5 seconds to generate arbitrary speech in real-time},
+  keywords = {deep-learning,python,pytorch,tensorflow,tts,voice-cloning}
+}
+
 @article{jeremijenkoDialogueMonologueVoice,
   title = {Dialogue with a {{Monologue}}: {{Voice Chips}} and the {{Products}} of {{Abstract Speech}}},
   author = {Jeremijenko, Natalie},
@@ -142,6 +153,23 @@
   abstract = {This paper examines the use of integrated circuits that produce speech in consumer products, commonly called voice chips. The goal of this paper is to document what these products actually say and to try to understand what the voices of these products represent, specifically, what they say about techno-social relations. The paper describes how voice chip technology differs from other 'talking hardware' of the recording and communications industries, and places it in a unique social position. I then survey the voice chip patent literature and sample the products currently on the market. Finally, I investigate how the voices of these products can be interpreted as speech and interaction, drawing largely upon Suchman's examination of human-machine interaction. I conclude by using the chips’ voice to question their performance of abstract speech, if they demonstrate preprogrammable interaction, and therefore what we mean when we attribute speech as literal agency to technological products.},
   langid = {english},
   file = {/home/mtths/Zotero/storage/HPIRFENX/Jeremijenko - Dialogue with a Monologue Voice Chips and the Pro.pdf}
+}
+
+@online{jiaTransferLearningSpeaker2019,
+  title = {Transfer {{Learning}} from {{Speaker Verification}} to {{Multispeaker Text-To-Speech Synthesis}}},
+  author = {Jia, Ye and Zhang, Yu and Weiss, Ron J. and Wang, Quan and Shen, Jonathan and Ren, Fei and Chen, Zhifeng and Nguyen, Patrick and Pang, Ruoming and Moreno, Ignacio Lopez and Wu, Yonghui},
+  date = {2019-01-02},
+  eprint = {1806.04558},
+  eprinttype = {arxiv},
+  primaryclass = {cs, eess},
+  url = {http://arxiv.org/abs/1806.04558},
+  urldate = {2022-01-26},
+  abstract = {We describe a neural network-based system for text-to-speech (TTS) synthesis that is able to generate speech audio in the voice of different speakers, including those unseen during training. Our system consists of three independently trained components: (1) a speaker encoder network, trained on a speaker verification task using an independent dataset of noisy speech without transcripts from thousands of speakers, to generate a fixed-dimensional embedding vector from only seconds of reference speech from a target speaker; (2) a sequence-to-sequence synthesis network based on Tacotron 2 that generates a mel spectrogram from text, conditioned on the speaker embedding; (3) an auto-regressive WaveNet-based vocoder network that converts the mel spectrogram into time domain waveform samples. We demonstrate that the proposed model is able to transfer the knowledge of speaker variability learned by the discriminatively-trained speaker encoder to the multispeaker TTS task, and is able to synthesize natural speech from speakers unseen during training. We quantify the importance of training the speaker encoder on a large and diverse speaker set in order to obtain the best generalization performance. Finally, we show that randomly sampled speaker embeddings can be used to synthesize speech in the voice of novel speakers dissimilar from those used in training, indicating that the model has learned a high quality speaker representation.},
+  archiveprefix = {arXiv},
+  langid = {english},
+  keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning,Computer Science - Sound,Electrical Engineering and Systems Science - Audio and Speech Processing},
+  note = {Comment: NeurIPS 2018},
+  file = {/home/mtths/Zotero/storage/5VZZTST8/Jia et al. - 2019 - Transfer Learning from Speaker Verification to Mul.pdf}
 }
 
 @book{kernighanProgrammingLanguage1988,
@@ -463,6 +491,23 @@
   file = {/home/mtths/Zotero/storage/VXAT5EST/Wang - 2019 - On Defining Artificial Intelligence.pdf}
 }
 
+@online{wanGeneralizedEndtoEndLoss2020,
+  title = {Generalized {{End-to-End Loss}} for {{Speaker Verification}}},
+  author = {Wan, Li and Wang, Quan and Papir, Alan and Moreno, Ignacio Lopez},
+  date = {2020-11-09},
+  eprint = {1710.10467},
+  eprinttype = {arxiv},
+  primaryclass = {cs, eess, stat},
+  url = {http://arxiv.org/abs/1710.10467},
+  urldate = {2022-01-26},
+  abstract = {In this paper, we propose a new loss function called generalized end-to-end (GE2E) loss, which makes the training of speaker verification models more efficient than our previous tuple-based endto-end (TE2E) loss function. Unlike TE2E, the GE2E loss function updates the network in a way that emphasizes examples that are difficult to verify at each step of the training process. Additionally, the GE2E loss does not require an initial stage of example selection. With these properties, our model with the new loss function decreases speaker verification EER by more than 10\%, while reducing the training time by 60\% at the same time. We also introduce the MultiReader technique, which allows us to do domain adaptation —training a more accurate model that supports multiple keywords (i.e., “OK Google” and “Hey Google”) as well as multiple dialects.},
+  archiveprefix = {arXiv},
+  langid = {english},
+  keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning,Electrical Engineering and Systems Science - Audio and Speech Processing,Statistics - Machine Learning},
+  note = {Comment: Published at ICASSP 2018},
+  file = {/home/mtths/Zotero/storage/KWSS9QLC/Wan et al. - 2020 - Generalized End-to-End Loss for Speaker Verificati.pdf}
+}
+
 @online{wangTacotronEndtoEndSpeech2017,
   title = {Tacotron: {{Towards End-to-End Speech Synthesis}}},
   shorttitle = {Tacotron},
@@ -479,6 +524,24 @@
   keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning,Computer Science - Sound},
   note = {Comment: Submitted to Interspeech 2017. v2 changed paper title to be consistent with our conference submission (no content change other than typo fixes)},
   file = {/home/mtths/Zotero/storage/8LBZTJI6/Wang et al. - 2017 - Tacotron Towards End-to-End Speech Synthesis.pdf}
+}
+
+@online{wangTacotronEndtoEndSpeech2017a,
+  title = {Tacotron: {{Towards End-to-End Speech Synthesis}}},
+  shorttitle = {Tacotron},
+  author = {Wang, Yuxuan and Skerry-Ryan, R. J. and Stanton, Daisy and Wu, Yonghui and Weiss, Ron J. and Jaitly, Navdeep and Yang, Zongheng and Xiao, Ying and Chen, Zhifeng and Bengio, Samy and Le, Quoc and Agiomyrgiannakis, Yannis and Clark, Rob and Saurous, Rif A.},
+  date = {2017-04-06},
+  eprint = {1703.10135},
+  eprinttype = {arxiv},
+  primaryclass = {cs},
+  url = {http://arxiv.org/abs/1703.10135},
+  urldate = {2022-01-26},
+  abstract = {A text-to-speech synthesis system typically consists of multiple stages, such as a text analysis frontend, an acoustic model and an audio synthesis module. Building these components often requires extensive domain expertise and may contain brittle design choices. In this paper, we present Tacotron, an end-to-end generative text-to-speech model that synthesizes speech directly from characters. Given {$<$}text, audio{$>$} pairs, the model can be trained completely from scratch with random initialization. We present several key techniques to make the sequence-tosequence framework perform well for this challenging task. Tacotron achieves a 3.82 subjective 5-scale mean opinion score on US English, outperforming a production parametric system in terms of naturalness. In addition, since Tacotron generates speech at the frame level, it’s substantially faster than sample-level autoregressive methods.},
+  archiveprefix = {arXiv},
+  langid = {english},
+  keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning,Computer Science - Sound},
+  note = {Comment: Submitted to Interspeech 2017. v2 changed paper title to be consistent with our conference submission (no content change other than typo fixes)},
+  file = {/home/mtths/Zotero/storage/JWMBYXP4/Wang et al. - 2017 - Tacotron Towards End-to-End Speech Synthesis.pdf}
 }
 
 @online{WaveNetLaunchesGoogle,

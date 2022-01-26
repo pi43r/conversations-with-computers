@@ -31,7 +31,8 @@
     "anthropomorphized",
     "formant",
     "demisyllables",
-    "concatenative"
+    "concatenative",
+    "crosslines"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true
