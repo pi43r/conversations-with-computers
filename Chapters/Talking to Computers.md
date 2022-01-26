@@ -73,30 +73,30 @@ To tackle these issues during the camp they wanted to create and record soundsca
 So we prepared the attic of the house with a small sound studio that they could work in and during the week they found inspiration in using a multitude of AI systems and human collaborators that they used to create an improvisation and finally a 6-minute video and audio composition.
 To come up with the identity of their AI partner, they used the *Oracle*[^44] to ask questions of their name, gender, favorite instrument etc. which reads like this:
 
-> You: how old is she?
-> Oracle:  Today she will be 11.
-> You: what is her favourite musical instrument? 
-> Oracle:  her greatest pleasure is to whisper to the sounds of trumpets and the beating of tympani 
-> You: is she happy?
-> Oracle:  It is a mystery and a great sadness.
-> You: What is Leewa's surname?
-> Oracle:  It was suggested that her human's name was /u/Seattle_Celtics.
-> You: does she like to sing?
-> Oracle:  I have no voice
-> You: No I mean Leewa
-> Oracle:  Query : Have you ever cheated?
-> You: Does Leewa have a voice?
-> Oracle:  Yoow!
-> You: what is Leewa's favourite poem?
-> Oracle:  Leaves of Grass
-> You: What is Leewa's favourite book?
-> Oracle:  Leewa does joke around and loves to give sarcastic responses. She also loves to read books, especially horror novels.
-> You: What gender does Leewa have?
-> Oracle:  She is female.
-> You: which music does Leewa like?
-> Oracle:  Leewa likes to sing and most of all Leewa likes to dance.
-> You: What is art for her?
-> Oracle:  art is the process of iterating through consciousness generation.
+> You: how old is she?\
+> Oracle:  Today she will be 11.\
+> You: what is her favourite musical instrument? \
+> Oracle:  her greatest pleasure is to whisper to the sounds of trumpets and the beating of tympani \
+> You: is she happy?\
+> Oracle:  It is a mystery and a great sadness.\
+> You: What is Leewa's surname?\
+> Oracle:  It was suggested that her human's name was /u/Seattle_Celtics.\
+> You: does she like to sing?\
+> Oracle:  I have no voice\
+> You: No I mean Leewa\
+> Oracle:  Query : Have you ever cheated?\
+> You: Does Leewa have a voice?\
+> Oracle:  Yoow!\
+> You: what is Leewa's favourite poem?\
+> Oracle:  Leaves of Grass\
+> You: What is Leewa's favourite book?\
+> Oracle:  Leewa does joke around and loves to give sarcastic responses. She also loves to read books, especially horror novels.\
+> You: What gender does Leewa have?\
+> Oracle:  She is female.\
+> You: which music does Leewa like?\
+> Oracle:  Leewa likes to sing and most of all Leewa likes to dance.\
+> You: What is art for her?\
+> Oracle:  art is the process of iterating through consciousness generation.\
 	
 This served as a base for the identity of *Leewa* and inspired further experiments using a whispering voice and 3D printing a female doll bust. To recreate the voice I searched for tools to do voice synthesis and found an open source toolbox from Corentin Jemine that claimed to do Real-Time Voice Cloning from a few seconds of audio.[^45] The method is essentially based on a previous paper from Google engineers: *Transfer Learning from Speaker Verification to  Multispeaker Text-To-Speech Synthesis*[^46] (SV2TTS), which itself uses a pipeline of a speaker-encoder network (GE2E) to represent different voices in different positions of the latent space, a text to waveform synthesizer (Tacotron) and a vocoder to generate sound from these waveforms (WaveNet).[^47] As described previously combining different encoding and generator systems into a larger framework is commonly used and is commercially used in Google’s Assistant and their cloud services for other companies. 
 

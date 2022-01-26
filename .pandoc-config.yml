@@ -1,8 +1,10 @@
 ---
-bibliography: ["zotero.bib"]
+bibliography: "zotero.bib"
 link-citations: true
 lang: en-US
+reference-location: chapter
 linkReferences: true
 nameInLink: true
 papersize: a4
+margin-right: 5cm
 ---
