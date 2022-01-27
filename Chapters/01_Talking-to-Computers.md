@@ -108,8 +108,6 @@ Now that we used a commercial product, we were limited to their API, but because
 
 In my opinion the example of *Leewa* illustrates the collective efforts that go into building “an AI” quite nicely: it shows the process of using open source and proprietary code developed by people reliant on previous research, the creation of collective datasets through the recording of our voices and finally the human performers hiding behind screens. At the same time *Leewa* is a self-referential project that makes the collective experience throughout the camp audible, by using our synthetic voice, the interaction with the *Oracle* and snippets of anecdotes from the camp.
 
-
-
 ---
 
 [^1]: Metadata and references to the account are deleted before the review. Complete anonymization of the voice is not performed.
@@ -130,7 +128,7 @@ In my opinion the example of *Leewa* illustrates the collective efforts that go 
 
 [^9]: Project description of Reflections of HAL and Samantha online. Link:[ https://tillmannohm.com/reflections-of-hal-and-samantha/](https://tillmannohm.com/reflections-of-hal-and-samantha/)
 
-[^10]: [@zarkadakesOurOwnImage2016]
+[^10]: @zarkadakesOurOwnImage2016
 
 [^11]: The robot puppy was featured on the TIME magazine cover with the title “Tech comes to Toyland”. Link: http://content.time.com/time/covers/europe/0,16641,20001211,00.html
 

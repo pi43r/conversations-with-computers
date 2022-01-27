@@ -1,0 +1,3 @@
+\newpage
+\printendnotes
+\newpage

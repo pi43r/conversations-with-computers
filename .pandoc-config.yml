@@ -1,10 +1,18 @@
 ---
-bibliography: "zotero.bib"
+documentclass: scrbook
+bibliography: ["./zotero.bib"]
+table-of-contents: true
 link-citations: true
 lang: en-US
-reference-location: chapter
+reference-location: document
 linkReferences: true
 nameInLink: true
+colorlinks: true
 papersize: a4
-margin-right: 5cm
+header-includes: |
+  \usepackage{enotez}
+  \setenotez{split=chapter, split-title={\thechapter}, reset=true, backref=true, totoc=chapter}
+  \let\footnote=\endnote
+metadata:
+  - title: "Conversations with Computers"
 ---
