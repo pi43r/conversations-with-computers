@@ -128,15 +128,15 @@ In my opinion the example of *Leewa* illustrates the collective efforts that go 
 
 [^9]: Project description of Reflections of HAL and Samantha online. Link:[ https://tillmannohm.com/reflections-of-hal-and-samantha/](https://tillmannohm.com/reflections-of-hal-and-samantha/)
 
-[^10]: @zarkadakesOurOwnImage2016
+[^10]: | @zarkadakesOurOwnImage2016
 
 [^11]: The robot puppy was featured on the TIME magazine cover with the title “Tech comes to Toyland”. Link: http://content.time.com/time/covers/europe/0,16641,20001211,00.html
 
-[^12]: [@shipmanAnimalConnectionHuman2010] 
+[^12]: | @shipmanAnimalConnectionHuman2010 
 
 [^13]: Sean Riddle requested the Furby source code from the US patent office and uploaded it on his webpage. Link: http://www.seanriddle.com/furbysource.pdf 
 
-[^14]: [@lukoseTextSpeechSynthesizerFormant2017]
+[^14]: | @lukoseTextSpeechSynthesizerFormant2017
 
 [^15]: To make the demo work, engineers had to use a prototype Mac that was more powerful than the retail version. It said: “Hello, I am Macintosh. It sure is great to get out of that bag!  Unaccustomed as I am to public speaking, I'd like to share with you a maxim I thought of the first time I met an IBM mainframe: Never trust a computer that you can't lift!  Obviously, I can talk, but right now I'd like to sit back and listen. So it is with considerable pride that I introduce a man who has been like a father to me... Steve Jobs!”. Link: https://www.folklore.org/StoryView.py?project=Macintosh&story=Intro_Demo.txt
 
@@ -144,66 +144,66 @@ In my opinion the example of *Leewa* illustrates the collective efforts that go 
 
 [^17]:  Interview by the Guardian with multiple voice actors for Siri. Link: https://www.theguardian.com/technology/2015/aug/12/siri-real-voices-apple-ios-assistant-jon-briggs-susan-bennett-karen-jacobsen
 
-[^18]:[@oordWaveNetGenerativeModel2016] 
+[^18]:| @oordWaveNetGenerativeModel2016
 
 [^19]: Usually referred to as Convolutional **Neural** Networks 
 
-[^20]: CNNs are used in AlexNet for example. [@krizhevskyImageNetClassificationDeep2017]
+[^20]: CNNs are used in AlexNet for example. @krizhevskyImageNetClassificationDeep2017
 
 [^21]: Lyrebird changed their name to Descript. Link: https://www.descript.com/
 
-[^22]: [@PoliticiansDiscussingLyrebird]
+[^22]: | @PoliticiansDiscussingLyrebird
 
 [^23]: Apparently fraudsters were able to use a synthetic voice to instruct a bank transfer of 220.000€. [@stuppFraudstersUsedAI2019]
 
-[^24]: In 2019 an app with the name DeepNude got public attention due to a Vice article and was taken down by the author shortly after. Link: [@coleThisHorrifyingApp2019]
+[^24]: In 2019 an app with the name DeepNude got public attention due to a Vice article and was taken down by the author shortly after. @coleThisHorrifyingApp2019
 
 [^25]: Examples of deepfake political comedy can be found on the YouTube Channel of Speaking of AI. Link: https://www.youtube.com/channel/UCID5qusrF32kSj-oSGq3rJg
 
-[^26]: [@pierceHowAppleFinally]
+[^26]: | @pierceHowAppleFinally
 
-[^27]:[@WaveNetLaunchesGoogle]
+[^27]: | @WaveNetLaunchesGoogle
 
-[^28]: [@wangTacotronEndtoEndSpeech2017]
+[^28]: | @wangTacotronEndtoEndSpeech2017
 
 [^29]: As described in the introduction I use "weighted" instead of "neural".
 
-[^30]: Hinton et al. 2012
+[^30]: | @hintonDeepNeuralNetworks2012b
 
 [^31]: Google AI Blog article about “Speech Recognition and Deep Learning”. Link: https://ai.googleblog.com/2012/08/speech-recognition-and-deep-learning.html
 
 [^32]: Tatman 2017, did a study on Gender and Dialect Bias in YouTube’s Automatic Captions that shows a higher error rate for women and non-American speakers. Facebook’s AI research department created a dataset of people with different skin tones, gender and age to evaluate speech recognition models for biases and found significant differences between lighter and darker skin tones  (Liu et al. 2021).
 
-[^33]: [@amodeiDeepSpeechEndtoEnd2015]
+[^33]: Ref: @amodeiDeepSpeechEndtoEnd2015
 
 [^34]: The first Alexa recording in a court case was handed over after the defendant agreed handing over his data. The Independent, Amazon Echo could become key witness in murder investigation after data turned over to police, 2017. Link:[ https://www.independent.co.uk/news/world/americas/amazon-echo-murder-investigation-data-police-a7621261.html](https://www.independent.co.uk/news/world/americas/amazon-echo-murder-investigation-data-police-a7621261.html)
 
 [^35]: Link:[ https://commonvoice.mozilla.org/de](https://commonvoice.mozilla.org/de)
 
-[^36]: Link to LibriVox: https://librivox.org/ and [@panayotovLibrispeechASRCorpus2015]
+[^36]: Link to LibriVox: https://librivox.org/ and @panayotovLibrispeechASRCorpus2015
 
 [^37]: Link to the LDC Switchboard-1 Release 2: https://catalog.ldc.upenn.edu/LDC97S62
 
 [^38]: The title “I’d blush if I could” is also the response Siri gives to the insult “You’re a bitch”
 
-[^39]: Nadine Alessio’s project website. Link:[ http://nadinelessio.com/projects.html](http://nadinelessio.com/projects.html)
+[^39]: Nadine Alessio’s project website. Link: [http://nadinelessio.com/projects.html](http://nadinelessio.com/projects.html)
 
-[^40]: Vlahos, 2020.
+[^40]: | @vlahosTalkMeAmazon2020
 
-[^41]: Ibid. p. 117.
+[^41]: | @vlahosTalkMeAmazon2020 p.117
 
 [^42]: Tay was the name of a chat bot Microsoft intended to have a teenage personality and could be interacted with over multiple channels. Twitter trolls co-opted the bot with sexist, racist and antisemitic questions that the bot replied to with generic answers. They also made use of a repeat-after-me phrase to make it look like the bot is spewing hateful comments itself. After only 16 hours Microsoft deleted all accounts and the PR disaster was immense, with headlines happily personifying the AI that has learned to be racist. But no continuous learning algorithm was involved. Link to a blog post by Russel Cameron Thomas explaining the technology stack behind Tay:[ https://exploringpossibilityspace.blogspot.com/2016/03/microsoft-tayfail-smoking-gun-alice.html](https://exploringpossibilityspace.blogspot.com/2016/03/microsoft-tayfail-smoking-gun-alice.html)
 
-[^43]: [@GENDERDIVERSITYGastvortrag]
+[^43]: | @GENDERDIVERSITYGastvortrag
 
 [^44]: The Oracle was a terminal computer connected to GPT-3 with a generic Q&A prompt.
 
 [^45]: From the github repository CorentinJ/Real-Time-Voice-Cloning. Link: [@jemineRealTimeVoiceCloning2022]. and his master thesis:  [@jemineMasterThesisAutomatic]
 
-[^46]: [@jiaTransferLearningSpeaker2019]
+[^46]: | @jiaTransferLearningSpeaker2019
 
-[^47]:  The SV2TTS pipeline is based on these previous papers: [@wanGeneralizedEndtoEndLoss2020] → [@wangTacotronEndtoEndSpeech2017] → [@oordWaveNetGenerativeModel2016] 
+[^47]:  The SV2TTS pipeline is based on these previous papers: @wanGeneralizedEndtoEndLoss2020 → @wangTacotronEndtoEndSpeech2017 → @oordWaveNetGenerativeModel2016 
 
-[^48]: [@CloneSyntheticAI]
+[^48]: | @CloneSyntheticAI
 
 [^49]: Hydra was developed by Olivia Jack. Link: https://hydra.ojack.xyz
