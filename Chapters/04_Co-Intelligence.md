@@ -1,3 +1,3 @@
 # Co-Intelligence
 
-When looking at hard problems
+After looking into 

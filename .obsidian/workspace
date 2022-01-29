@@ -6,6 +6,7 @@
       {
         "id": "2ae24c44609001ff",
         "type": "leaf",
+        "dimension": 60.65848214285714,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,11 +18,12 @@
       {
         "id": "64133e83befb6a50",
         "type": "leaf",
+        "dimension": 39.341517857142854,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Table of Contents.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -100,14 +102,14 @@
   "active": "2ae24c44609001ff",
   "lastOpenFiles": [
     "Chapters/04_Co-Intelligence.md",
-    "Table of Contents.md",
-    "Chapters/03_Stochastic Gods.md",
-    "Chapters/02_Piles of Data.md",
     "Chapters/01_Talking-to-Computers.md",
+    "Generated/Table of Content.md",
+    "Table of Contents.md",
     "Chapters/00_Hello-World.md",
+    "Chapters/03_Stochastic Gods.md",
+    "Chapters/02_Piles-of-Data.md",
     "Chapters/Talking to Computers.md",
     "Chapters/Hello World.md",
-    "Notes/@krizhevskyOneWeirdTrick2014.md",
-    "Abstract.md"
+    "Notes/@krizhevskyOneWeirdTrick2014.md"
   ]
 }
