@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapters/01_Talking-to-Computers.md",
+            "file": "Chapters/04_Co-Intelligence.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "64133e83befb6a50",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Table of Contents.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/01_Talking-to-Computers.md",
+                "file": "Chapters/04_Co-Intelligence.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -88,15 +99,15 @@
   },
   "active": "2ae24c44609001ff",
   "lastOpenFiles": [
+    "Chapters/04_Co-Intelligence.md",
+    "Table of Contents.md",
+    "Chapters/03_Stochastic Gods.md",
+    "Chapters/02_Piles of Data.md",
     "Chapters/01_Talking-to-Computers.md",
     "Chapters/00_Hello-World.md",
     "Chapters/Talking to Computers.md",
-    "Table of Contents.md",
     "Chapters/Hello World.md",
     "Notes/@krizhevskyOneWeirdTrick2014.md",
-    "Abstract.md",
-    "Chapters/endoftext.md",
-    "Chapters/Co-Intelligence.md",
-    "Chapters/Stochastic Gods.md"
+    "Abstract.md"
   ]
 }
