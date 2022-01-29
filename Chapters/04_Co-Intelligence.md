@@ -1,3 +1,3 @@
 # Co-Intelligence
 
-After looking into 
+Ubuntu: I am because you
