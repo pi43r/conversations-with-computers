@@ -6,12 +6,24 @@
       {
         "id": "2ae24c44609001ff",
         "type": "leaf",
-        "dimension": 60.65848214285714,
+        "dimension": 30.32924107142857,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Chapters/04_Co-Intelligence.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b184c60867d142a6",
+        "type": "leaf",
+        "dimension": 30.32924107142857,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapters/04_Co-Intelligence.md",
+            "mode": "preview"
           }
         }
       },

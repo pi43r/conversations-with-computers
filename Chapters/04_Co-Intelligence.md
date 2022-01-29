@@ -1,3 +1,4 @@
 # Co-Intelligence
 
-Ubuntu: I am because you
+> Ubuntu: I am because you are
+
