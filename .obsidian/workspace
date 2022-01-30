@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table of Contents.md",
+                "file": "Chapters/04_Co-Intelligence.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,11 +99,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64133e83befb6a50",
+  "active": "2ae24c44609001ff",
   "lastOpenFiles": [
+    "Chapters/04_Co-Intelligence.md",
     "Table of Contents.md",
     "Chapters/05_endoftext.md",
-    "Chapters/04_Co-Intelligence.md",
     "Chapters/03_Stochastic Gods.md",
     "Chapters/02_Piles-of-Data.md",
     "Chapters/01_Talking-to-Computers.md",
