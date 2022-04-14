@@ -6,24 +6,11 @@
       {
         "id": "2ae24c44609001ff",
         "type": "leaf",
-        "dimension": 43.919999999999995,
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "Chapters/04_Co-Intelligence.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "64133e83befb6a50",
-        "type": "leaf",
-        "dimension": 56.08,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Table of Contents.md",
-            "mode": "source"
+            "file": "Chapters/01_Talking-to-Computers.md",
+            "staged": false
           }
         }
       }
@@ -81,7 +68,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/04_Co-Intelligence.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -91,25 +77,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "9b345fa723bbf591",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "2ae24c44609001ff",
   "lastOpenFiles": [
-    "Chapters/04_Co-Intelligence.md",
     "Table of Contents.md",
+    "diff/01_Talking.md",
+    "diff/00_HW.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Chapters/00_Hello-World.md",
+    "Chapters/04_Co-Intelligence.md",
     "Chapters/05_endoftext.md",
     "Chapters/03_Stochastic Gods.md",
-    "Chapters/02_Piles-of-Data.md",
-    "Chapters/01_Talking-to-Computers.md",
-    "Generated/Table of Content.md",
-    "Chapters/00_Hello-World.md",
-    "Chapters/Talking to Computers.md",
-    "Chapters/Hello World.md"
+    "Chapters/02_Piles-of-Data.md"
   ]
 }

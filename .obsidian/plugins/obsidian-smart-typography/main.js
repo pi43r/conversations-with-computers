@@ -420,13 +420,13 @@ const guillemetRules = [
     {
         trigger: "<",
         from: "<<",
-        to: "«",
+        to: "« ",
         contextMatch: /<$/,
     },
     {
         trigger: ">",
         from: ">>",
-        to: "»",
+        to: " »",
         contextMatch: />$/,
     },
 ];
@@ -1018,7 +1018,7 @@ class SmartTypographySettingTab extends obsidian.PluginSettingTab {
         });
     }
 }
-const ignoreListRegEx = /frontmatter|code|math|templater/;
+const ignoreListRegEx = /frontmatter|code|math|templater|hashtag/;
 function shouldCheckTextAtPos(instance, pos) {
     // Empty line
     if (!instance.getLine(pos.line)) {
