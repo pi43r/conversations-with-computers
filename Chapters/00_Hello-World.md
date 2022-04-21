@@ -28,7 +28,7 @@ I have been deliberately using quotation marks around some of the previous words
 3. 'Neural Network' => 'Weighted Network'
 4. ‘Deep Learning’ => ‘Deep Conditioning’
 5. ‘Neuron’ => ‘Weight’ or ‘Node’ \
- -[ @databaseculture](https://twitter.com/databaseculture) [^14]
+ [^14] 
 
 In an accompanying talk[^15] he explains the aim of those terms is to invoke passivity, that we deal with machines and humans set those machines in motion, even when in the end we form "human-machine assemblages". I like many of the proposed terms, even though they are still closely associated with biological operations. The conditioning of machines, for example, reminds me of Pavlov's dog experiments or B.F. Skinner's box to modify pigeon behavior by reinforcement or punishment.[^16] This analogy, though, serves the purpose of creating an image of the machine as a system, that can be controlled by changing the parameters of it's virtual environment. Therefor I will use "conditioning" and "weighted networks", where it is applicable. Using "Automated Pattern Recognition" instead of "Artificial Intelligence", however, becomes too narrow of a definition and is counterintuitive to me, as AI serves exactly the function of being ill-defined. Pei Wang has made a great effort in defining the different strands of AI research and their working definitions.[^17] He clusters them into Structure-AI (recreating the human brain), Behavior-AI (recreating human actions), Capability-AI (domain problem solving), Function-AI (developing cognitive functions) and Principle-AI (finding underlying principles) and comes up with his own working definition to where AI research should be headed and how it can be unified. My initial goal for this thesis was to completely avoid the term "Artificial Intelligence", but as I have already failed in that task and coming up with a less anthropomorphic term does not seem feasible to convey the research in the field and it's media reception, therefore I will keep using the abbreviation AI. Contrary to articles and sci-fi novels I will not use the personification of "an AI", but will rather talk of AI systems, meaning emergent complex programs. Many of the systems today use statistical modeling, yet nobody would ask the question, if statistics can be creative, which is why I decided not to engage with philosophical questions of consciousness and creativity. Instead I want to explore how AI systems can include the human knowledge and work that goes into building them, which is challenging the AI ideology of machine autonomy and proposes human-centric goals, rather than building a machine as a goal in itself.
 
@@ -67,15 +67,15 @@ I structured this thesis around 4 chapters, which combine historical, computatio
 
 [^11]: Mordvintsev himself was inspired by a previous paper exploring the generative potential of CNNs from Karen Simonyan: Simonyan, Vedaldi, and Zisserman 2014.
 
-[^12]: Translated from the article 'AAA - Art, Algorithmen, Artificial Intelligence' at Kunstforum Bd. 278 Link:[ https://www.kunstforum.de/artikel/aaa/](https://www.kunstforum.de/artikel/aaa/)
+[^12]: Translated from the article 'AAA - Art, Algorithmen, Artificial Intelligence' at Kunstforum Bd. 278 Link: [ https://www.kunstforum.de/artikel/aaa/](https://www.kunstforum.de/artikel/aaa/)
 
-[^13]: Referring to typical AI stock images. Counter imagery is currently built by[ https://betterimagesofai.org/](https://betterimagesofai.org/)
+[^13]: Referring to typical AI stock images. Counter imagery is currently built by [ https://betterimagesofai.org/](https://betterimagesofai.org/)
 
-[^14]: Twitter post by @databasecultures. Link:[ https://twitter.com/databaseculture/status/1413462059291975680](https://twitter.com/databaseculture/status/1413462059291975680)
+[^14]: Twitter post by \@databasecultures. Link: [ https://twitter.com/databaseculture/status/1413462059291975680](https://twitter.com/databaseculture/status/1413462059291975680)
 
 [^15]: Unhype AI, Link:[ http://www.irmielin.org/unhype-ai/](http://www.irmielin.org/unhype-ai/)
 
 [^16]: In behaviorist psychology Ivan Pavlov's experiments with dogs is known as classical conditioning and B.F. Skinner who experimented on rats and pigeons using lever machines is called operant conditioning. 
 
-[^17]: Wang 2019.
+[^17]: ^ [@wangDefiningArtificialIntelligence2019]
 

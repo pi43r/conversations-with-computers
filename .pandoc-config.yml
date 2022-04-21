@@ -3,6 +3,7 @@ documentclass: scrbook
 bibliography: ["./zotero.bib"]
 table-of-contents: true
 link-citations: true
+title: "Conversations with Computers"
 lang: en-US
 reference-location: document
 linkReferences: true
@@ -13,6 +14,5 @@ header-includes: |
   \usepackage{enotez}
   \setenotez{split=chapter, split-title={\thechapter}, reset=true, backref=true, totoc=chapter}
   \let\footnote=\endnote
-metadata:
-  - title: "Conversations with Computers"
+
 ---
