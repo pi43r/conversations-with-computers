@@ -1,7 +1,6 @@
 # **Co-Intelligence**
 
-
-    Ubuntu: I am, because you are
+> Ubuntu: I am, because you are
 [^1]
 
 The cognitive scientist Abeba Birhane takes the South African humanist philosophy of _Ubuntu_ as an argument against a western tradition of the _self_ as autonomous beings.[^2] According to _Ubuntu_ philosophy a person becomes a person, only through the relationships with others. The personality is shaped by the interactions with each other and is fluidly shifting between different states. I am a different person, when talking to my mother, my friends and strangers on the street. At the same time, my upbringing and cultural influences define my own self-image. Birhane traces back the flaws in western theories of the mind to René Descartes ‘cogito ergo sum’ – I think, therefore I am. In his famous meditation the French philosopher tried to strip back all things of uncertainty to arrive at the foundation of inner thoughts as proof of existence. In turn this individualistic ‘I’ and the method of logical reasoning have become a successful story in western sciences. First, cartesian dualism, the idea of a separate mind and body and secondly the scientific method of breaking down complex natural phenomenons into simplified quantifiable parts. For more than 200 years scientists, philosophers and theologists stood in front of the ‘body-mind problem’, coming up with theories of how the immaterial ‘soul’ interacts with the fleshy human body: Why are we conscious of the world around us, ourselves and others?
