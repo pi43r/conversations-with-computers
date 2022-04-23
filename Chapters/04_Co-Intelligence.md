@@ -20,8 +20,51 @@ By embedding current machine learning algorithms back into the social structure,
 
 In October 2020 I participated in *Freeport 1: Anatomies of a black box* [^6] and was part of a group with Gabriela Gordillo, Mario Romera and Fabian Frei in which we started a conversation about computers, which ended up in computers talking about themselves.
 
-*Anatomies of a black box* was a laboratory curated by Bani Brusadin for Matadero Madrid about about mapping contemporary complex systems and infrastructures of exploitation. With Vladan Joler, we explored the conceptual map ‘Anatomy of an AI system’ [^7] that he created with the researcher Kate Crawford to create a simplified map of the life cycle of an Amazon Alexa device, from unearthing the raw components to it’s networked software components. 
+*Anatomies of a black box* was a laboratory curated by Bani Brusadin for Matadero Madrid about about mapping contemporary complex systems and infrastructures of exploitation. During the month long program we met in video conferences with Vladan Joler and other groups to explore mapping as a form of non-linear storytelling.  The starting point was the conceptual map ‘Anatomy of an AI system’ [^7] that he created with the researcher Kate Crawford as a case study of the life cycle of an Amazon Echo device, from unearthing the raw materials to its networked software components. 
 
+During the Freeport program we, like most others at the time, have only engaged with each other through our screens. In the beginning we decided to look closer into the way we communicate with technological devices. First we wanted to place our focus on conversations in natural language—Speaking to computers seems to be an emerging phenomenon which is not quite functional yet. After discussions on Signal[^8] and Jitsi[^9] that opened more questions than we could ever answer, we seemed to end up in high dimensional constructions. Our thoughts revolved around the heuristic measures of current machine learning models. Specifically those dealing with language. Large language models, which use texts from the internet to approximate a pattern in word tokens. Patterns that can generate endless amounts of coherent sounding text. Even though there are many flaws with these models, we wanted to understand how we can use these prediction machines to understand what we were chatting about. A traditional approach of text analysis would center around creating graphs and networks from the dataset we have collectively created through our conversations. Instead, we chose to mix it up with the pre-existing language model GPT-2 and analyze the output it generates instead. These outputs come in the form of a chat log. Statistical beings from the hyperspace conversing about mostly nonsensical topics, often getting stuck in repetition. We asked ourselves what we could learn about us from these synthetic conversations.
+
+The interpretation of ourselves through this machine learning lens was straight forward: quite often the patterns of who speaks and what we speak about seemed logical and in line with the conversations we had and our real characters. Yet, we know that we are biased towards finding our own images in these generated text blocks.
+The model acts as a parrot that lets us rediscover what we spoke about and creates a distance through which we can interpret our written conversations, as if they were someone else’s. The output is not coherent, but this imprecision is what makes reading the generated exchanges attractive.
+
+As a way of communicating this process, we re-enacted the computer generated phrases in one of our weekly online meetings. The performance makes a full circle by completing the generated output with the appearance and experiences of our bodies in front of our computers. 
+
+The exercise of using an algorithmic model in combination with our dataset, is a way of looking towards our group process, with a tool that exposes its statistics as a probability projection in the form of verbal language. The output reflects the rhythms and patterns in our communication, that worked as a fictional mirror for us. Resembling the logic of dreams, we complete their meaning with our own interpretation and connotations, we observe we want to see.
+
+
+> How exactly do these black box systems work and how are they perceived by a user.txt
+```
+Mr: I might be too absorbed in my project to finish our Q&A
+Mr: lets make of it what we see is funny
+G: Happily.
+G: No homework tomorrow, tomorrow for science!
+G: I leave you with a cartoon I did a while back about the mind of a button : https://m.youtube.com/watch?v=h7BFToUaq4Y
+F: what is the scientific word for "intelligent" ... is it cognitive, is it behavioral, semantic, artistic, etc.? is it hard to pin down, or is it a mix?
+G: I can't think of a good one right now. My favourites are "of theses" and "tractations" - they're not tied to a research topic, but can be applied to any scientific question Mining Simulations: Theory and Experiment Design Automatic Feature Selection: Experimental Methods Multidimensional Pruning: Descriptive Bayes Categories: Human-Computer Interaction
+G: :)
+Ma: I think "multidimensional" is misleading. There are actually 3 dimensions to everything: a physical thing, an process of information and control, and a human interaction element. These 3 dimensions can be broken down into "physical" (things we are) "mathematical" (computations & algorithms used to make them) and "social" (the way humans interact with other humans).
+G: sorry
+G: (I am using "multidimensional" in a cartoony way)
+Ma: Cartoons are multidimensional. Most people are tall and thin. Most people are also obese.
+G: Ahh yes. "multidimentional" is a nice word to describe this kind of thing.
+G: (I think "multidimensional" is a bit narrow)
+Ma: (I am using the term "multidimensional" in a cartoony way)
+Ma: (I am using the term "multidimensional" in a cartoony way)
+Ma: (using the word "multidimensional" in a scientific way)
+G: (I think the other 2 are just fine for me)
+Ma: Mixture: Theory Iteration: Experiment Design Image Identification: Feature Selection: Topic Analysis: Language Creation: Syntax Fish: Multidimensional Belief Systems: Belief Records for Computer Aided Speech (Basescim): Multidimensional Validation: The Bell Curve: SphereMapping: Element relations: Graphs: Anonymous scripting: Language models: Language learning: Syntax blind: Interactives: Syntax escapists: Syntax junkies: (I didn't type much) (I should change the last line) (I am tired) (I am sleepy) (I have nothing to say)
+G: Ahh, I love it. Now I have to take care of the bad lines
+G: I love it when he writes in his slowness
+Mr: https://twitter.com/awokehuman/status/1328183467595718656
+Mr: hi
+G: hi
+G: do we send it as a jpeg?
+F: i think on inet message is enough
+G: colors...
+Mr: just in case
+Mr: green, black, yellow, red, green, yellow, black, red
+Mr: these
+```
 
 ## **Silicon Friend Camp**
 
@@ -29,9 +72,9 @@ The Silicon Friend Camp was a 5-day working retreat in Gosau, Upper Austria, for
 
 Due to changing pandemic conditions, a vacation home in the mountains was rented so that, despite close contact between participants, the risk of infection from the outside could be kept to a minimum. So instead of holding the program as a hackathon in the city in spring, it was moved to the summer and took place from July 20th to July 25th.
 
-To create a selection of artists, we published an Open Call that was distributed as a website, designed by Alyona Ciobanu, on mailing lists and social media. Inspired by a previous call for a residency at Babycastles[^8], we decided to create a form that does not ask for CVs or portfolios, but focuses on a project idea and what kind of knowledge the participant is seeking from others and is able to share. To our delight 31 artists from Europe, North and South America responded to the call, of which 12 were selected by the jury. The artists were chosen with a view to diversity of their projects, origin and gender. Among others, people from China, Japan, USA, Brazil, Colombia, Russia, Germany, Poland and Slovenia should come together in Austria. The planned projects ranged from remote-controlled robots, to philosophical debates, to music pieces with embodied AI.
+To create a selection of artists, we published an Open Call that was distributed as a website, designed by Alyona Ciobanu, on mailing lists and social media. Inspired by a previous call for a residency at Babycastles[^10], we decided to create a form that does not ask for CVs or portfolios, but focuses on a project idea and what kind of knowledge the participant is seeking from others and is able to share. To our delight 31 artists from Europe, North and South America responded to the call, of which 12 were selected by the jury. The artists were chosen with a view to diversity of their projects, origin and gender. Among others, people from China, Japan, USA, Brazil, Colombia, Russia, Germany, Poland and Slovenia should come together in Austria. The planned projects ranged from remote-controlled robots, to philosophical debates, to music pieces with embodied AI.
 
-But before we physically met in Gosau, an internet forum[^9] was set up for participants to introduce themselves and initiate discussions and suggestions on content. The forum also served to communicate organizational behaviors in an easily accessible and quick manner. We also held two video conferences in which Rosi read a story on narratives of AI that served as a basis for discussion.
+But before we physically met in Gosau, an internet forum[^11] was set up for participants to introduce themselves and initiate discussions and suggestions on content. The forum also served to communicate organizational behaviors in an easily accessible and quick manner. We also held two video conferences in which Rosi read a story on narratives of AI that served as a basis for discussion.
 
 Through the forum and video conferencing, we also maintained contact with a participant from Colombia who joined us from the Andes mountains during the project week.
 
@@ -75,7 +118,7 @@ After lunch, there was a meeting where we reviewed the schedule to plan workshop
 
 In front of the _digital campfire_ Dasha Ilina presented her work dealing with inconveniences of technological devices. Also, Naoto Hieda showed improvised choreographies created with dance and live code.
 
-On the morning of Day 4, three texts were presented for discussion in a reading circle before dinner. The texts dealt with self-representations in global networks, intelligence without cognition, and root networks as a metaphor for the mind.[^10]
+On the morning of Day 4, three texts were presented for discussion in a reading circle before dinner. The texts dealt with self-representations in global networks, intelligence without cognition, and root networks as a metaphor for the mind.[^12]
 
 Since this was the last full day to finish our projects, the day was used intensively. Many sat in front of their laptops working, for example, on a film they had previously made or trying out AI systems, such as VoiceCloning and generative image models, with which to realize their visions.
 
@@ -98,8 +141,10 @@ We spent the rest of the afternoon at a mountain lake, where we got caught in a 
 [^5]: The simulation argument was first proposed by Nick Bostrom, where he argues that if we were able to create realistic simulated minds and worlds in the future, it is likely that we already live in a simulation. [@bostromAreYouLiving2001] The theory was 
 [^6]: @FREEPORTANATOMIESBLACK
 [^7]: @AnatomyAISystem2018
-[^8]: Babycastles is a NYC based collective fostering and amplifying diverse voices in videogame culture. Babycastles provides artists support to actualize ideas and expose that work to new audiences. @Babycastles 
+[^8]: Signal is an encrypted messaging app. See: https://www.signal.org
+[^9]: Jitsi Meet is an open source video conferencing software. See: https://meet.jit.si/
+[^10]: Babycastles is a NYC based collective fostering and amplifying diverse voices in videogame culture. Babycastles provides artists support to actualize ideas and expose that work to new audiences. @Babycastles 
 
-[^9]: The open source forum software _Discourse_ was hosted at the local servus.at data center.
+[^11]: The open source forum software _Discourse_ was hosted at the local servus.at data center.
 
-[^10]: Bogna Konior, _The Dark Forest Theory of the Internet_; Rodney Brooks, I_ntelligence without Representation_; Matteo Pasquinelli, _The Arborescent Mind: The Intelligence of an Inverted Tree_
+[^12]: Bogna Konior, _The Dark Forest Theory of the Internet_; Rodney Brooks, I_ntelligence without Representation_; Matteo Pasquinelli, _The Arborescent Mind: The Intelligence of an Inverted Tree_
