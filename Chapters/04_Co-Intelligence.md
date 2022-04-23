@@ -31,9 +31,10 @@ As a way of communicating this process, we re-enacted the computer generated phr
 
 The exercise of using an algorithmic model in combination with our dataset, is a way of looking towards our group process, with a tool that exposes its statistics as a probability projection in the form of verbal language. The output reflects the rhythms and patterns in our communication, that worked as a fictional mirror for us. Resembling the logic of dreams, we complete their meaning with our own interpretation and connotations, we observe we want to see.
 
-
-> How exactly do these black box systems work and how are they perceived by a user.txt
 ```
+How exactly do these black box systems work and how are they perceived by a user.txt
+
+
 Mr: I might be too absorbed in my project to finish our Q&A
 Mr: lets make of it what we see is funny
 G: Happily.
