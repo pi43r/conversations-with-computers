@@ -12,13 +12,15 @@ Dualism continues to have a major impact on the way we think about Artificial In
 Computational neuroscientists use and develop instruments to quantify electric impulses in the brain and create massive amounts of experimental data, which in turn need statistical models and ever growing computing power to be analyzed. On the other spectrum, simplified models of the brain in the form of artificial ‘neural networks’ are used to compute and sort higher order abstractions. This focus on the individual brain in the search to replicate intelligence leaves aside a physical and social environment, in which conscious beings are embodied.
 
 In order to understand human cognition and intelligence, we need to explore the complex dialogic connections between human actors. Current machine learning programs abstract intelligence into simplified task solving mechanisms and make us believe that the underlying algorithm becomes a rational agent. But on closer examination, the program reveals an astonishing amount of human collaboration: from the creation of programming languages as protocols for interaction to the enormous amounts of data aggregation and labeling. Instead of looking at AI systems and seeing them as a subjective entity, we can also see them as artifacts of collective intelligence.
-By embedding current machine learning algorithms back into the social structure, I hope to gain experimental insight on how these new forms of collective computations are used as a creative medium.
+By embedding current machine learning algorithms back into the social structure, I hope to gain experimental insight on how these new forms of collective computations are used as a creative medium. In the following I will present my experiences working within Co-Intelligent systems in different constellations.
 
 
 ## **Metaconversations with Computers**
 ![Metaconversations, Miro Flowchart](Flowchart---Metaconversation-Piece-stitch.jpg.png)
 
+In October 2020 I participated in *Freeport 1: Anatomies of a black box* [^6] and was part of a group with Gabriela Gordillo, Mario Romera and Fabian Frei in which we started a conversation about computers, which ended up in computers talking about themselves.
 
+*Anatomies of a black box* was a laboratory curated by Bani Brusadin for Matadero Madrid about about mapping contemporary complex systems and infrastructures of exploitation. With Vladan Joler, we explored the conceptual map ‘Anatomy of an AI system’ [^7] that he created with the researcher Kate Crawford to create a simplified map of the life cycle of an Amazon Alexa device, from unearthing the raw components to it’s networked software components. 
 
 
 ## **Silicon Friend Camp**
@@ -27,9 +29,9 @@ The Silicon Friend Camp was a 5-day working retreat in Gosau, Upper Austria, for
 
 Due to changing pandemic conditions, a vacation home in the mountains was rented so that, despite close contact between participants, the risk of infection from the outside could be kept to a minimum. So instead of holding the program as a hackathon in the city in spring, it was moved to the summer and took place from July 20th to July 25th.
 
-To create a selection of artists, we published an Open Call that was distributed as a website, designed by Alyona Ciobanu, on mailing lists and social media. Inspired by a previous call for a residency at Babycastles[^6], we decided to create a form that does not ask for CVs or portfolios, but focuses on a project idea and what kind of knowledge the participant is seeking from others and is able to share. To our delight 31 artists from Europe, North and South America responded to the call, of which 12 were selected by the jury. The artists were chosen with a view to diversity of their projects, origin and gender. Among others, people from China, Japan, USA, Brazil, Colombia, Russia, Germany, Poland and Slovenia should come together in Austria. The planned projects ranged from remote-controlled robots, to philosophical debates, to music pieces with embodied AI.
+To create a selection of artists, we published an Open Call that was distributed as a website, designed by Alyona Ciobanu, on mailing lists and social media. Inspired by a previous call for a residency at Babycastles[^8], we decided to create a form that does not ask for CVs or portfolios, but focuses on a project idea and what kind of knowledge the participant is seeking from others and is able to share. To our delight 31 artists from Europe, North and South America responded to the call, of which 12 were selected by the jury. The artists were chosen with a view to diversity of their projects, origin and gender. Among others, people from China, Japan, USA, Brazil, Colombia, Russia, Germany, Poland and Slovenia should come together in Austria. The planned projects ranged from remote-controlled robots, to philosophical debates, to music pieces with embodied AI.
 
-But before we physically met in Gosau, an internet forum[^7] was set up for participants to introduce themselves and initiate discussions and suggestions on content. The forum also served to communicate organizational behaviors in an easily accessible and quick manner. We also held two video conferences in which Rosi read a story on narratives of AI that served as a basis for discussion.
+But before we physically met in Gosau, an internet forum[^9] was set up for participants to introduce themselves and initiate discussions and suggestions on content. The forum also served to communicate organizational behaviors in an easily accessible and quick manner. We also held two video conferences in which Rosi read a story on narratives of AI that served as a basis for discussion.
 
 Through the forum and video conferencing, we also maintained contact with a participant from Colombia who joined us from the Andes mountains during the project week.
 
@@ -73,7 +75,7 @@ After lunch, there was a meeting where we reviewed the schedule to plan workshop
 
 In front of the _digital campfire_ Dasha Ilina presented her work dealing with inconveniences of technological devices. Also, Naoto Hieda showed improvised choreographies created with dance and live code.
 
-On the morning of Day 4, three texts were presented for discussion in a reading circle before dinner. The texts dealt with self-representations in global networks, intelligence without cognition, and root networks as a metaphor for the mind.[^8]
+On the morning of Day 4, three texts were presented for discussion in a reading circle before dinner. The texts dealt with self-representations in global networks, intelligence without cognition, and root networks as a metaphor for the mind.[^10]
 
 Since this was the last full day to finish our projects, the day was used intensively. Many sat in front of their laptops working, for example, on a film they had previously made or trying out AI systems, such as VoiceCloning and generative image models, with which to realize their visions.
 
@@ -94,8 +96,10 @@ We spent the rest of the afternoon at a mountain lake, where we got caught in a 
 
 [^4]: @zarkadakesOurOwnImage2016 p.189
 [^5]: The simulation argument was first proposed by Nick Bostrom, where he argues that if we were able to create realistic simulated minds and worlds in the future, it is likely that we already live in a simulation. [@bostromAreYouLiving2001] The theory was 
-[^6]: Babycastles is a NYC based collective fostering and amplifying diverse voices in videogame culture. Babycastles provides artists support to actualize ideas and expose that work to new audiences. @Babycastles 
+[^6]: @FREEPORTANATOMIESBLACK
+[^7]: @AnatomyAISystem2018
+[^8]: Babycastles is a NYC based collective fostering and amplifying diverse voices in videogame culture. Babycastles provides artists support to actualize ideas and expose that work to new audiences. @Babycastles 
 
-[^7]: The open source forum software _Discourse_ was hosted at the local servus.at data center.
+[^9]: The open source forum software _Discourse_ was hosted at the local servus.at data center.
 
-[^8]: Bogna Konior, _The Dark Forest Theory of the Internet_; Rodney Brooks, I_ntelligence without Representation_; Matteo Pasquinelli, _The Arborescent Mind: The Intelligence of an Inverted Tree_
+[^10]: Bogna Konior, _The Dark Forest Theory of the Internet_; Rodney Brooks, I_ntelligence without Representation_; Matteo Pasquinelli, _The Arborescent Mind: The Intelligence of an Inverted Tree_
