@@ -22,7 +22,7 @@ In October 2020 I participated in *Freeport 1: Anatomies of a black box* [^6] an
 
 *Anatomies of a black box* was a laboratory curated by Bani Brusadin for Matadero Madrid about about mapping contemporary complex systems and infrastructures of exploitation. During the month long program we met in video conferences with Vladan Joler and other groups to explore mapping as a form of non-linear storytelling.  The starting point was the conceptual map ‘Anatomy of an AI system’ [^7] that he created with the researcher Kate Crawford as a case study of the life cycle of an Amazon Echo device, from unearthing the raw materials to its networked software components. 
 
-During the Freeport program we, like most others at the time, have only engaged with each other through our screens. In the beginning we decided to look closer into the way we communicate with technological devices. First we wanted to place our focus on conversations in natural language—Speaking to computers seems to be an emerging phenomenon which is not quite functional yet. After discussions on Signal[^8] and Jitsi[^9] that opened more questions than we could ever answer, we seemed to end up in high dimensional constructions. Our thoughts revolved around the heuristic measures of current machine learning models. Specifically those dealing with language. Large language models, which use texts from the internet to approximate a pattern in word tokens. Patterns that can generate endless amounts of coherent sounding text. Even though there are many flaws with these models, we wanted to understand how we can use these prediction machines to understand what we were chatting about. A traditional approach of text analysis would center around creating graphs and networks from the dataset we have collectively created through our conversations. Instead, we chose to mix it up with the pre-existing language model GPT-2 and analyze the output it generates instead. These outputs come in the form of a chat log. Statistical beings from the hyperspace conversing about mostly nonsensical topics, often getting stuck in repetition. We asked ourselves what we could learn about us from these synthetic conversations.
+During the *Freeport* program we, like most others during continuous lockdowns, have only engaged with each other through our screens. In the beginning we decided to look closer into the way we communicate with technological devices. First we wanted to place our focus on conversations in natural language—Speaking to computers seems to be an emerging phenomenon which is not quite functional yet. After discussions on Signal[^8] and Jitsi[^9] that opened more questions than we could ever answer, we seemed to end up in high dimensional constructions. Our thoughts revolved around the heuristic measures of current machine learning models. Specifically those dealing with language. Large language models, which use texts from the internet to approximate a pattern in word tokens. Patterns that can generate endless amounts of coherent sounding text. Even though there are many flaws with these models, we wanted to understand how we can use these prediction machines to understand what we were chatting about. A traditional approach of text analysis would center around creating graphs and networks from the dataset we have collectively created through our conversations. Instead, we chose to mix it up with the pre-existing language model GPT-2 and analyze the output it generates instead. These outputs come in the form of a chat log. Statistical beings from the hyperspace conversing about mostly nonsensical topics, often getting stuck in repetition. We asked ourselves what we could learn about us from these synthetic conversations.
 
 The interpretation of ourselves through this machine learning lens was straight forward: quite often the patterns of who speaks and what we speak about seemed logical and in line with the conversations we had and our real characters. Yet, we know that we are biased towards finding our own images in these generated text blocks.
 The model acts as a parrot that lets us rediscover what we spoke about and creates a distance through which we can interpret our written conversations, as if they were someone else’s. The output is not coherent, but this imprecision is what makes reading the generated exchanges attractive.
@@ -83,33 +83,33 @@ Our preparation for the schedule of the physical work session involved the parti
 
 The first day got off to a leisurely start with 10 participants: arriving at the train station throughout the day and being picked up and brought to the house. Together we slowly cleaned the garage, attic and living room. All while a dinner was prepared by Hess Jeon, who took care of the food for the next 5 days. We set up a table in the garden and used the time to introduce the project and welcome everyone. Before dinner, I generated a daily meal prayer with GPT-3 that was recited by us together.
 
-
-> 	Eating is a sacred, human right <br> 
-> 	But food is getting scarce <br>
-> 	There are humans who are hungry <br>
-> 	And there are humans who are fat <br>
-> 	We must ask ourselves, <br>
-> 	Who are the humans? <br>
-> 	I am the human <br>
-> 	You are the human <br>
-> 	We are the human <br>
-> 	Because I am the human, <br>
-> 	You are the human <br>
-> 	We are the human <br>
-> 	Because you are the human, <br>
-> 	I am the human <br>
-> 	Because we are the human, <br>
-> 	You are the human <br>
-> 	Because I am the human
-
+```
+Eating is a sacred, human right
+But food is getting scarce
+There are humans who are hungry
+And there are humans who are fat
+We must ask ourselves,
+Who are the humans?
+I am the human
+You are the human
+We are the human
+Because I am the human,
+You are the human
+We are the human
+Because you are the human,
+I am the human
+Because we are the human,
+You are the human
+Because I am the human
+```
 
 The morning of the second day was used for a group meeting in which we established general rules and defined the goals of the camp together. The participants presented their projects and what they would like to achieve in the next days.
 
 In the afternoon the time could be used independently. While some sank into their laptops, others explored the surroundings around the house. We built up an area-wide network and cleared the attic and the garage so that they could be used as working places.
 
-Towards the evening, a daily _Group Validation_ took place, in which the participants individually summarized what they had done today, what they planned to do next and what they needed help with.
+Towards the evening, a daily *Group Validation* took place, in which the participants individually summarized what they had done today, what they planned to do next and what they needed help with.
 
-After dinner, time was spent together in the attic, where carpets, mattresses, speakers and a projector were installed as a _Digital Campfire_. On the first evening we were engaged in storytelling around anthropomorphic beings. In between, EKHEO played live electronic music.
+After dinner, time was spent together in the attic, where carpets, mattresses, speakers and a projector were installed as a *Digital Campfire*. On the first evening we were engaged in storytelling around anthropomorphic beings. In between, EKHEO played live electronic music.
 
 Day 3 began without electricity. This was especially tragic because we had a video call scheduled with researcher and artist Caroline Sinders.
 
@@ -117,7 +117,7 @@ With some delay we got reception back to the internet and could follow Caroline'
 
 After lunch, there was a meeting where we reviewed the schedule to plan workshops and ventures for the next few days. The rest of the day was self-organized.
 
-In front of the _digital campfire_ Dasha Ilina presented her work dealing with inconveniences of technological devices. Also, Naoto Hieda showed improvised choreographies created with dance and live code.
+In front of the *digital campfire* Dasha Ilina presented her work dealing with inconveniences of technological devices. Also, Naoto Hieda showed improvised choreographies created with dance and live code.
 
 On the morning of Day 4, three texts were presented for discussion in a reading circle before dinner. The texts dealt with self-representations in global networks, intelligence without cognition, and root networks as a metaphor for the mind.[^12]
 
@@ -125,9 +125,9 @@ Since this was the last full day to finish our projects, the day was used intens
 
 The digital campfire in the attic also got intense in the evening: after an introduction to artificial neural networks by Błażej Kotowski, Giacomo Piazzi gave a presentation on Thinking Beings. Mariana Marangoni spoke about esoteric programming languages that challenge accepted definitions of code and language. Lastly, Davide Bevilacqua gave a presentation highlighting Green Washing methods used by well-known Internet companies.
 
-The last day together was used in the morning to prepare final presentations, which were shown after lunch. Dasha Ilina, Erica Jewell and Lina Schwarzenberg presented _GRAVE_ a video in the form of a Public Service Announcement to prepare access to digital devices and services for posterity. Naoto Hieda and So Kanno explained a work in which they rebuilt a toy robot and made it controllable via the Internet. EKHEO performed a piece for which they developed synthetic voices from all participants. Błażej Kotowski showed a video about a fictional deity in which text and images were generated using machine learning algorithms. Yuxi Liu explained how she used a camera to create a dataset of birds. Mariana Marangoni thought about a programming language that could be built like a tree.
+The last day together was used in the morning to prepare final presentations, which were shown after lunch. Dasha Ilina, Erica Jewell and Lina Schwarzenberg presented *GRAVE* a video in the form of a Public Service Announcement to prepare access to digital devices and services for posterity. Naoto Hieda and So Kanno explained a work in which they rebuilt a toy robot and made it controllable via the Internet. EKHEO performed a piece for which they developed synthetic voices from all participants. Błażej Kotowski showed a video about a fictional deity in which text and images were generated using machine learning algorithms. Yuxi Liu explained how she used a camera to create a dataset of birds. Mariana Marangoni thought about a programming language that could be built like a tree.
 
-We spent the rest of the afternoon at a mountain lake, where we got caught in a storm, which, at least for me, was the most terrifying experience I ever encountered. But after drying up in the house and eating freshly baked pizzas, the rest of the evening turned into a dance party. Still Maks Valenčič gave another lecture on _The End of Philosophy_ with a soundtrack by Błażej. Sebastián Mira also joined us from Colombia and showed us a digital world in which he connected the Andes with the Alps. Finally I used GPT-3 again to print texts for Certificates of Excellence that were handed out in a ceremony.
+We spent the rest of the afternoon at a mountain lake, where we got caught in a storm, which, at least for me, was the most terrifying experience I ever encountered. But after drying up in the house and eating freshly baked pizzas, the rest of the evening turned into a dance party. Still Maks Valenčič gave another lecture on *The End of Philosophy* with a soundtrack by Błażej. Sebastián Mira also joined us from Colombia and showed us a digital world in which he connected the Andes with the Alps. Finally I used GPT-3 again to print texts for Certificates of Excellence that were handed out in a ceremony.
 
 
 ---
