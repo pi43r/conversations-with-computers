@@ -32,7 +32,8 @@
     "formant",
     "demisyllables",
     "concatenative",
-    "crosslines"
+    "crosslines",
+    "lockdowns"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true
