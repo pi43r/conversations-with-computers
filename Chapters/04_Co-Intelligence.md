@@ -133,7 +133,16 @@ The next day we cleaned the house and already parted. Although our short encount
 
 The exhibition took place in the WHA Gallery from 10th to 19th of November, 2021. It tied the projects we developed during the summer camp together into a coherent presentation, where the distinction between individual artist and collective effort gets broken down. To achieve this, Davide Bevilacqua and Giacomo Piazzi created an exhibition design that takes inspiration from camping trips. With metal rods, camping stools, tarp, rocks and string they literally tied the works together. We intentionally left out exhibition signage that explains each of the works, so that a visitor would find themselves exploring the exhibition, trying to make sense of it holistically. The information about individual artists and their works was presented online, where the exhibition was mirrored for a global audience.
 
-I worked on the visual identity and took inspiration from an
+I worked on the visual identity and was inspired by the design of an old computer, the Canon Cat from 1987. It was the creation of Jef Raskin, who also invented the user interface of the first Apple Macintosh.[^13] The Canon Cat however was not a commercial success. It took away the mouse and streamlined the user interface to be centered around word processing with extra keys for fast shortcuts. It was mainly marketed as a productivity tool for office workers. The gray and beige color scheme with accents in red and blue and the hand written signature gave the computer a remarkably friendly face. I transformed this color scheme into a contemporary website with a simple generative logo that randomly exchanges some characters with emoticons, like smiley faces and hearts. The posters were also generated in the browser and embedded a QR code to the website itself. With a generative text-to-image model RuDALL-E[^14] I created uncanny ‘stock images’ that were randomly placed and stretched.
+
+![Canon Cat with extracted colors](20211004_171321.jpg)
+
+![Example of a Poster](13%20Camping%20with%20Computers.jpg)
+
+The connection between online and offline was most notable in the work of So Kanno with the title *Crawler*. It was a continuation of the remotely controlled toy robot, he developed during the camp and a body of work he calls *Avatars*[^15]. This time he modified an Apple Macbook, so that it can be controlled from the internet. On a custom laptop stand he attached wheels, so that a visitor to the website could roll around the exhibition space. Additionally the user interface was heavily customized, using notifications, web browsers and two separate webcams with face tracking to cover the faces of our visitors. 
+The *Crawler*  functioned as an autonomous object inside of the gallery space and could be seen as ‘an AI’ for video surveillance, because the actual people who control the device are hidden inside of this gray square.
+
+I
 
 ---
 
@@ -154,3 +163,6 @@ I worked on the visual identity and took inspiration from an
 [^11]: The open source forum software _Discourse_ was hosted at the local servus.at data center.
 
 [^12]: Bogna Konior, _The Dark Forest Theory of the Internet_; Rodney Brooks, I_ntelligence without Representation_; Matteo Pasquinelli, _The Arborescent Mind: The Intelligence of an Inverted Tree_
+[^13]:  See: @CanonCatMac2014
+[^14]: See: @RuDALLE
+[^15]: Together with the artist yang02, So Kanno modified multiple objects that could be remotely controlled from the web. See: @Avatars
