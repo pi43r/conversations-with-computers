@@ -140,7 +140,13 @@ I worked on the visual identity and was inspired by the design of an old compute
 ![Example of a Poster](13%20Camping%20with%20Computers.jpg)
 
 The connection between online and offline was most notable in the work of So Kanno with the title *Crawler*. It was a continuation of the remotely controlled toy robot, he developed during the camp and a body of work he calls *Avatars*[^15]. This time he modified an Apple Macbook, so that it can be controlled from the internet. On a custom laptop stand he attached wheels, so that a visitor to the website could roll around the exhibition space. Additionally the user interface was heavily customized, using notifications, web browsers and two separate webcams with face tracking to cover the faces of our visitors. 
-The *Crawler*  functioned as an autonomous object inside of the gallery space and could be seen as ‘an AI’ for video surveillance, because the actual people who control the device are hidden inside of this gray square. With this, it resembles the faux AI practice by the Colombian-owned startup Kiwi Campus, which builds a ‘self-driving’ delivery robot for US Universities. The Kiwibot is first filled by a regular delivery driver on a bicycle and then slowly rolls a few hundred meters to its destination under supervision of a human operator.[^16]
+The *Crawler*  functioned as an autonomous object inside of the gallery space and could be seen as ‘an AI’ for video surveillance, because the actual people who control the device are hidden inside of this gray rectangle. With this, it resembles the faux AI practice by the Colombian-owned startup Kiwi Campus, which builds a ‘self-driving’ delivery robot for US Universities. The Kiwibot is first filled by a regular delivery driver on a bicycle and then slowly rolls a few hundred meters to its destination under supervision of a human operator.[^16]
+
+![Screenshot of the Crawler Interface](crawling.jpg)
+
+Another work that created a juxtaposition of digital and physical elements was from Sebastián Mira. The Colombian artist created 3D reconstructions of our laptops as avatars to be used in a fictional place where the Andes and the Alps meet. Throughout the exhibition space, laptops were arranged as sculptural objects with self referential video loops, wher you could see a laptop randomly rolling around computer generated landscapes. The videos were taken from the game *Everything*[^17], in which a player can  control various lifeforms and inanimate objects in procedurally generated worlds.
+
+Naoto Hieda in turn took the 3D models of our laptop avatars and created a collage—a sort of ‘group photo’ of the participants and the toy robot mascot with me in the background—and turned it into a large banner. When I asked him, if this might be too much of an inside joke, he replied that he does not care if anyone else understands it, because he wants to make art for us.
 
 
 
@@ -167,3 +173,4 @@ The *Crawler*  functioned as an autonomous object inside of the gallery space an
 [^14]: See: @RuDALLE
 [^15]: Together with the artist yang02, So Kanno modified multiple objects that could be remotely controlled from the web. See: @Avatars
 [^16]: See: @HumanguidedBurritoBots2019
+[^17]: Everything is an interactive experience by David OReilly from 2017. See: @EverythingDLVIDOREILLY
