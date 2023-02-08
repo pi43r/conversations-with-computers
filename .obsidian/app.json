@@ -11,7 +11,7 @@
   "defaultViewMode": "preview",
   "strictLineBreaks": false,
   "attachmentFolderPath": "Images",
-  "legacyEditor": true,
+  "legacyEditor": false,
   "livePreview": true,
   "spellcheckDictionary": [
     "convolutional",
