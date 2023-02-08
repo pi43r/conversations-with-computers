@@ -12,7 +12,7 @@
 	- Silicon Friend Camp
 	- Camping with Computers
 
-02_Talking to Computers (make shorter)
+02_Talking to Computers (kürzen)
 	- Human Automata
 	- Artificial Voices
 	- Conversational Agents
@@ -24,7 +24,9 @@
 	- The case of This Person Does Exist
 	- 11k Hands
 	- empty.photos
-	- scrapism: doggg.art
+	- scrapism: 
+		- doggg.art
+		- A study on the Characteristics of Douyin
 
 04_Stochastic Meaning
 	- Predicting Text (transformers)
@@ -34,6 +36,5 @@
 
 05_Addendum (Infrastructure and Networks) 
 	- Infields / Cloud
-	- A study on the Characteristics of Douyin
 	- Cybersquat
 	- Recommended Hashtags & More of the same

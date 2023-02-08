@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/02_Piles-of-Data.md",
+                "file": "Chapters/04_Co-Intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ddf850d432d57537",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentations/February 23.md",
+                "file": "Chapters/04_Co-Intelligence.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,12 +148,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4f8f0945341f56df",
+  "active": "169bda236a8c2087",
   "lastOpenFiles": [
-    "Presentations/December.md",
     "Chapters/02_Piles-of-Data.md",
-    "Presentations/December.script.md",
     "Presentations/February 23.md",
+    "Presentations/December.md",
+    "Presentations/December.script.md",
     "Chapters/01_Talking-to-Computers.md",
     "Chapters/04_Co-Intelligence.md",
     "Chapters/00_Hello-World.md",
