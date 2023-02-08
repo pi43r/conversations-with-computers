@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "endnotes.md",
+            "file": "Chapters/04_Co-Intelligence.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "endnotes.md",
+                "file": "Chapters/04_Co-Intelligence.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
