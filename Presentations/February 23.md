@@ -10,7 +10,7 @@
 01_Co-Intellgence
 	- Metaconversations (talking with/about/through computers)
 	- Silicon Friend Camp
-	- Camping with Computers
+	- Camping with Computers (need to finish)
 
 02_Talking to Computers (kürzen)
 	- Human Automata
@@ -18,8 +18,8 @@
 	- Conversational Agents
 	- Leewa
 
-03_Piles of Data
-	- Scraping knowledge
+03_Piles of Data (noch nicht angefangen)
+	- Webscraping
 	- Informed Consent
 	- The case of This Person Does Exist
 	- 11k Hands
@@ -27,14 +27,18 @@
 	- scrapism: 
 		- doggg.art
 		- A study on the Characteristics of Douyin
+		- Recommended Hashtags & More of the same
 
-04_Stochastic Meaning
+04_Stochastic Meaning (noch nicht angefangen)
 	- Predicting Text (transformers)
 	- The Chiromancer
 	- Prayers to GPT
 	- Random Forest
 
-05_Addendum (Infrastructure and Networks) 
+05_endoftext
+	- Conclusion
+	- Connecting with Computers
+
+06_Addendum (Infrastructure???) 
 	- Infields / Cloud
 	- Cybersquat
-	- Recommended Hashtags & More of the same

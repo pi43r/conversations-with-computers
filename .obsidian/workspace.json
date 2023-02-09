@@ -42,13 +42,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "ddf850d432d57537",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "4f8f0945341f56df",
             "type": "leaf",
@@ -56,12 +50,13 @@
               "type": "markdown",
               "state": {
                 "file": "Presentations/February 23.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/04_Co-Intelligence.md",
+                "file": "Presentations/February 23.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,17 +143,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "169bda236a8c2087",
+  "active": "4f8f0945341f56df",
   "lastOpenFiles": [
-    "Chapters/02_Piles-of-Data.md",
-    "Presentations/February 23.md",
-    "Presentations/December.md",
-    "Presentations/December.script.md",
+    "Presentations/Meeting November.md",
     "Chapters/01_Talking-to-Computers.md",
     "Chapters/04_Co-Intelligence.md",
     "Chapters/00_Hello-World.md",
-    "Presentations/Meeting November.md",
+    "Presentations/February 23.md",
     "Chapters/03_Stochastic Gods.md",
-    "Generated/Table of Content.md"
+    "Chapters/05_endoftext.md",
+    "Chapters/02_Piles-of-Data.md",
+    "Presentations/December.md",
+    "Presentations/December.script.md"
   ]
 }
