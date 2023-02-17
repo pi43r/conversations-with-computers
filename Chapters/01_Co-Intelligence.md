@@ -162,7 +162,28 @@ For the exhibition I wanted to make something with the images we collected and s
 
 The best viewing angle for my work was from a sunbed, which had a stereo speaker setup that played “LEEWA” from Ekheo. In this experimental sound piece, the artists used recordings of our voices to create a communal voice clone. With the *Oracle* they came up with a name and backstory for this new character and added anecdotal field recordings from the camp. Together these works create an eerie experience based on the digitally altered collective memories of our week in the alps.
 
-Next to these pieces, we find a 
+Next to these pieces is a CRT TV displaying a fire with a contraption for a pot hanging above it. The pot contains a printed recipe, created by Hess Jeon with GPT-3 that we didn’t dare to cook for the opening.
+
+```
+Chocolate Milk Pasta
+The following is an algorithm for a vegetarian One-Pot-Wonder that was served at the "Camping with Computers" art exhibitions for silicon friends.
+
+Ingredients:
+
+1 stick butter
+
+4 cups fresh veggies, chopped (see below)
+
+1 cup dry pasta or broken spaghetti noodles
+
+12 ounces water or chicken broth (chicken broth is better)
+
+2 cups milk (chocolate milk is even better)
+
+3/4 cup cheese (cheddar is best)
+
+Assemble the ingredients and place them in a large pot over medium heat. Wait until the butter melts. Then turn up the heat. By now the butter should be sizzling and popping as it heats up the veggies and pasta. At this point you can add garlic, onions, corn, peas, or whatever else strikes your fancy. The key is to use fresh veggies that you like; this way you won't notice that you're eating veggies at all. Once the veggies and pasta are nice and hot (and they will be), add the water/broth and stir them thoroughly. Now the cooking begins! Put on a movie or text message competition with your friends and let them know you'll be cooking for about five minutes. The trick here is to make sure that the pasta isn't too soft; you don't want it to disintegrate into a big blob of mush like most of your ex-girlfriends did. Now make sure you have a timer handy on your phone or on a wall clock or something. After five minutes have elapsed, turn off the heat, but leave the pot on the stove. Now for the next step: pour in the milk/chocolate milk and stir it vigorously for about 15 seconds. This will ensure that the cheese melts properly so that all its flavor can be absorbed by your tastebuds. Stir in the cheese until it's completely melted, then serve it up! Serve with crusty bread so that you can sop up all of those yummy juices, but only use one piece of bread per person because it will fill you up fast. You want to save room for dessert! This recipe tastes best cold because then you can use that leftover cold chocolate milk to drink with it! If any is left over, put it in the fridge overnight so that it absorbs more of those yummy flavors. Then eat it cold for breakfast with a side of bacon or ham! Yum yum!!
+```
 
 ---
 
