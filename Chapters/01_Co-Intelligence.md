@@ -73,11 +73,13 @@ The Silicon Friend Camp was a 5-day working retreat in Gosau, Upper Austria, for
 
 Due to changing pandemic conditions, a vacation home in the mountains was rented so that, despite close contact between participants, the risk of infection from the outside could be kept to a minimum. So instead of holding the program as a hackathon in the city in spring, it was moved to the summer and took place from July 20th to July 25th.
 
-To create a selection of artists, we published an Open Call that was distributed as a website, designed by Alyona Ciobanu, on mailing lists and social media. Inspired by a previous call for a residency at Babycastles[^10], we decided to create a form that does not ask for CVs or portfolios, but focuses on a project idea and what kind of knowledge the participant is seeking from others and is able to share. 31 artists based in Europe and the Americas responded to the call, of which 12 were selected by us. The artists were chosen with a view to diversity of their projects, origin and gender. Among others, people from China, Japan, USA, Brazil, Colombia, Russia, Germany, Poland and Slovenia would come together in Austria. The planned projects ranged from remote-controlled robots, to philosophical debates, to music pieces with embodied AI.
+To create a selection of artists we published an Open Call that was distributed as a website designed by Alyona Ciobanu. Inspired by a previous call for a residency at Babycastles[^10], we decided to create a form that does not ask for CVs or portfolios, but focuses on a project idea and what kind of knowledge the participant is seeking from others and is able to share. 31 artists based in Europe and the Americas responded to the call of which 12 were selected by us. The artists were chosen with a view to diversity of their projects, origin and gender. Among others, people from China, Japan, USA, Brazil, Colombia, Russia, Germany, Poland and Slovenia were invited to gather in Austria. The planned projects ranged from remote-controlled robots, to philosophical debates, to music pieces with embodied AI.
 
-But before we physically met in Gosau, an internet forum[^11] was set up for participants to introduce themselves and initiate discussions and suggestions on content. The forum also served to communicate organizational behaviors in an easily accessible and quick manner. Apart from the asynchronous text-based interaction, we held two video conferences in which Rosi read a story on narratives of AI that served as a basis for discussion.
+But before we physically met in Gosau an internet forum[^11] was set up for participants to introduce themselves and initiate discussions and suggestions on content. The forum also served to communicate organizational necessities in an easily accessible and quick manner. Apart from the asynchronous text-based interaction, we held two video conferences in which Rosi read a story on narratives of AI that served as a basis for discussion.
 
 One participant from Colombia joined us from the Andes mountains during the project week and would stay in contact with us only through the forum and video conferences.
+
+![Video Call with Sebastián Mira|150](Screenshot_20210721-201648_Instagram.jpg)
 
 Our preparation for the schedule of the physical work session involved the participants by asking them to contribute discussions, workshops and presentations. But also gave them enough flexibility to decide on individual and group projects.
 
@@ -102,7 +104,7 @@ Because we are the human,
 You are the human
 Because I am the human
 ```
-
+![Meal Prayer | 400](IMG_0336.jpg)
 The morning of the second day was used for a group meeting in which we established general rules and defined the goals of the camp together. The participants presented their projects and what they would like to achieve in the next days.
 
 In the afternoon the time could be used independently. While some sank into their laptops, others explored the surroundings around the house. We built up an area-wide network and cleared the attic and the garage so that they could be used as working places.
@@ -110,6 +112,8 @@ In the afternoon the time could be used independently. While some sank into thei
 Towards the evening, a daily *Group Validation* took place, in which the participants individually summarized what they had done today, what they planned to do next and what they needed help with.
 
 After dinner, time was spent together in the attic, where carpets, mattresses, speakers and a projector were installed as a *Digital Campfire*. On the first evening we were engaged in storytelling around anthropomorphic beings. In between, the sound duo EKHEO played live electronic music.
+
+![Self Organizatioon](2021_07_22_selforga_brighter.jpeg)
 
 Day 3 began without electricity. This was especially tragic because we had a video call scheduled with researcher and artist Caroline Sinders.
 With some delay we got reception back to the internet and could follow Caroline's talk about the impact, misuse and politics of ‘artificial intelligence’ on society. This was followed by a discussion on how models of machine learning can be looked at through a feminist lens.
@@ -120,7 +124,11 @@ On the morning of Day 4, three texts were presented for discussion in a reading 
 
 Since this was the last full day to finish our projects, the day was used intensively. Many sat in front of their laptops working, for example, on a film they had previously made or trying out AI systems, such as voice cloning and generative image models, with which to realize their visions.
 
+![Artists working | 350](210721-SFC-_0010660.jpg)
+
 The *digital campfire* in the attic also got intense in the evening: after an introduction to artificial neural networks by Błażej Kotowski, Giacomo Piazzi gave a presentation on the history of AI. Mariana Marangoni spoke about esoteric programming languages that challenge accepted definitions of code and language. Lastly, Davide Bevilacqua highlighted green washing methods used by well-known internet companies.
+
+![The Marvelous World of Esolangs | 300](IMG_20210723_234140.jpg)
 
 The last day together was used in the morning to finalize our projects, which were shown after lunch. Dasha Ilina, Erica Jewell and Lina Schwarzenberg presented *GRAVE* a video in the form of a Public Service Announcement to prepare access to digital devices and services for posterity. Naoto Hieda and So Kanno explained a work in which they rebuilt a toy robot and made it controllable via the Internet. EKHEO performed a piece for which they developed synthetic voices from all participants. Błażej Kotowski showed a video about a fictional deity in which text and images were generated using machine learning algorithms. Yuxi Liu explained how she used a camera to create a dataset of birds. Mariana Marangoni conceptualized a programming language that could be grown like a tree.
 
@@ -135,22 +143,24 @@ The exhibition took place in the WHA Gallery from 10th to 19th of November, 2021
 
 I worked on the visual identity and was inspired by the design of an old computer, the Canon Cat from 1987. It was the creation of Jef Raskin, who also invented the user interface of the first Apple Macintosh.[^13] The Canon Cat however was not a commercial success. It took away the mouse and streamlined the user interface to be centered around word processing with extra keys for fast shortcuts. It was mainly marketed as a productivity tool for office workers. The gray and beige color scheme with accents in red and blue and the hand written signature gave the computer a remarkably friendly face. I transformed this color scheme into a contemporary website with a simple generative logo that randomly exchanges some characters with emoticons, like smiley faces and hearts. The posters were also generated in the browser and embedded a QR code to the website itself. With a generative text-to-image model RuDALL-E[^14] I created uncanny ‘stock images’ that were randomly placed and stretched.
 
-![Canon Cat with extracted colors](20211004_171321.jpg)
+![Canon Cat with extracted colors | 300](20211004_171321.jpg)
 
-![Example of a Poster](13%20Camping%20with%20Computers.jpg)
+![Example of a Poster | 300](13%20Camping%20with%20Computers.jpg)
 
 The connection between online and offline was most notable in the work of So Kanno with the title *Crawler*. It was a continuation of the remotely controlled toy robot, he developed during the camp and a body of work he calls *Avatars*[^15]. This time he modified an Apple Macbook, so that it can be controlled from the internet. On a custom laptop stand he attached wheels, so that a visitor to the website could roll around the exhibition space. Additionally the user interface was heavily customized, using notifications, web browsers and two separate webcams with face tracking to cover the faces of our visitors. 
-The *Crawler*  functioned as an autonomous object inside of the gallery space and could be seen as ‘an AI’ for video surveillance, because the actual people who control the device are hidden inside of this gray rectangle. With this, it resembles the faux AI practice by the Colombian-owned startup Kiwi Campus, which builds a ‘self-driving’ delivery robot for US Universities. The Kiwibot is first filled by a regular delivery driver on a bicycle and then slowly rolls a few hundred meters to its destination under supervision of a human operator.[^16]
+The *Crawler*  functioned as an autonomous object inside of the gallery space and could be seen as ‘an AI’ for video surveillance, because the actual people who control the device are hidden inside of this gray box. With this, it resembles the faux AI practice by the Colombian-owned startup Kiwi Campus, which builds a ‘self-driving’ delivery robot for US Universities. The Kiwibot is first filled by a regular delivery driver on a bicycle and then slowly rolls a few hundred meters to its destination under supervision of a human operator.[^16]
 
 ![Screenshot of the Crawler Interface](crawling.jpg)
 
-Another work that created a juxtaposition of digital and physical elements was from Sebastián Mira. The Colombian artist created 3D reconstructions of our laptops as avatars to be used in a fictional place where the Andes and the Alps meet. Throughout the exhibition space, laptops were arranged as sculptural objects with self referential video loops, wher you could see a laptop randomly rolling around computer generated landscapes. The videos were taken from the game *Everything*[^17], in which a player can  control various lifeforms and inanimate objects in procedurally generated worlds.
+Another work that created a juxtaposition of digital and physical elements was from Sebastián Mira. The Colombian artist created 3D reconstructions of our laptops as avatars to be used in a fictional place where the Andes and the Alps meet. Throughout the exhibition space, laptops were arranged as sculptural objects with self referential video loops, where you could see a laptop randomly rolling around computer generated landscapes. The videos were taken from the game *Everything*[^17], in which a player can  control various lifeforms and inanimate objects in procedurally generated worlds.
 
-Naoto Hieda in turn took the 3D models of our laptop avatars and created a collage—a sort of ‘group photo’ of the participants and the toy robot mascot with me in the background—and turned it into a large banner. When I asked him, if this might be too much of an inside joke, he replied that he does not care if anyone outside the group understands it, because he wants to make art for us. This made me think about the audience I try address with my artworks. When I work on projects, I think of a fuzzy global audience, something that can be written into history books and shown in museums, but what if I just make artworks for my friends? Something so niche that only selected people understand it. This idea is so innocent and simple, yet it caught me surprise.
+Naoto Hieda in turn took the 3D models of our laptop avatars and created a collage—a sort of ‘group photo’ of the participants and the toy robot mascot with me in the background—and turned it into a large banner. When I asked him if this might be too much of an inside joke, he replied that he does not care if anyone outside the group understands it, because he wants to make art for us. This made me think about the audience I try to address with my artworks. When I work on projects, I think of a fuzzy global audience, something that can be written into history books and shown in museums, but what if I just make artworks for my friends? Something so niche that only selected people understand it. This idea is so innocent and simple, yet it caught me by surprise.
 
-For the exhibition I wanted to make something with the images we collected and shared online. Images that were shared on the forum, in our group chat and pictures that were uploaded to the cloud, which document our time together. My initial thought was to train a GAN and create abstract synthetic images that fail to represent our collective experience. When I looked through the photo
+For the exhibition I wanted to make something with the images we collected and shared online. Pictures that document our time togehter, which we shared on the forum, in our group chat and uploaded to the cloud. My initial thought was to train a GAN and create abstract synthetic images that fail to represent our collective experience. When I looked through the photo archive as a dataset, first as a large grid of images and then in rapid succession to identify outliers, I became awestruck: even though I spent less than a second with each image, some of them would trigger deep emotional states and immediately transport me back to the house in Gosau. Thinking about Naoto’s satement of “making art for my friends” I decided to use all 767 images in a rapid slideshow of 32 seconds. Each of the 24 frames per second a different image, stretched to fit a 16:9 TV that got damaged on the way to the camp. I disassembled the TV and separated the LCD panel from it’s backlight, making the images only visible from a certain angle. The title of the work “we are the human” is borrowed from one of the meal prayers. All these elements make up the work, which is both a slide show and movie, documentation and narrative, digital and analog.
 
+![we are the human | 300](Exhibition(17).jpg)
 
+The best viewing angle for my work was from a sunbed, which had a stereo speaker setup that played “LEEWA” from Ekheo. In this experimental sound piece, the artists used recordings of our voices to create a communal voice clone. With the *Oracle* they came up with a name and backstory for this new character and added anecdotal field recordings from the camp. Together these works create an eerie 
 
 ---
 
