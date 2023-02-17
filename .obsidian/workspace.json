@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/04_Co-Intelligence.md",
+                "file": "Chapters/01_Co-Intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/01_Talking-to-Computers.md",
+                "file": "Chapters/02_Talking-to-Computers.md",
                 "mode": "preview",
                 "source": false
               }
@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d022d2eda7495dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/05_endoftext.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1a94d192b83093d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/01_Co-Intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -86,7 +110,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -114,8 +138,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentations/February 23.md",
-                "collapseAll": false,
+                "file": "Chapters/01_Co-Intelligence.md",
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -143,17 +167,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4f8f0945341f56df",
+  "active": "f1a94d192b83093d",
   "lastOpenFiles": [
-    "Presentations/Meeting November.md",
-    "Chapters/01_Talking-to-Computers.md",
-    "Chapters/04_Co-Intelligence.md",
     "Chapters/00_Hello-World.md",
+    "Chapters/01_Co-Intelligence.md",
+    "Chapters/06_Addendum.md",
     "Presentations/February 23.md",
-    "Chapters/03_Stochastic Gods.md",
     "Chapters/05_endoftext.md",
-    "Chapters/02_Piles-of-Data.md",
-    "Presentations/December.md",
-    "Presentations/December.script.md"
+    "Chapters/04_Stochastic-Meaning.md",
+    "Chapters/03_Piles-of-Data.md",
+    "Chapters/02_Talking-to-Computers.md",
+    "Presentations/Meeting November.md",
+    "Presentations/December.md"
   ]
 }
