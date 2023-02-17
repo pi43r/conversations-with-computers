@@ -160,7 +160,9 @@ For the exhibition I wanted to make something with the images we collected and s
 
 ![we are the human | 300](Exhibition(17).jpg)
 
-The best viewing angle for my work was from a sunbed, which had a stereo speaker setup that played “LEEWA” from Ekheo. In this experimental sound piece, the artists used recordings of our voices to create a communal voice clone. With the *Oracle* they came up with a name and backstory for this new character and added anecdotal field recordings from the camp. Together these works create an eerie 
+The best viewing angle for my work was from a sunbed, which had a stereo speaker setup that played “LEEWA” from Ekheo. In this experimental sound piece, the artists used recordings of our voices to create a communal voice clone. With the *Oracle* they came up with a name and backstory for this new character and added anecdotal field recordings from the camp. Together these works create an eerie experience based on the digitally altered collective memories of our week in the alps.
+
+Next to these pieces, we find a 
 
 ---
 
