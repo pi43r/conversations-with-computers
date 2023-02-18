@@ -73,9 +73,9 @@ The Silicon Friend Camp was a 5-day working retreat in Gosau, Upper Austria, for
 
 Due to changing pandemic conditions, a vacation home in the mountains was rented so that, despite close contact between participants, the risk of infection from the outside could be kept to a minimum. So instead of holding the program as a hackathon in the city in spring, it was moved to the summer and took place from July 20th to July 25th.
 
-To create a selection of artists we published an Open Call that was distributed as a website designed by Alyona Ciobanu. Inspired by a previous call for a residency at Babycastles[^10], we decided to create a form that does not ask for CVs or portfolios, but focuses on a project idea and what kind of knowledge the participant is seeking from others and is able to share. 31 artists based in Europe and the Americas responded to the call of which 12 were selected by us. The artists were chosen with a view to diversity of their projects, origin and gender. Among others, people from China, Japan, USA, Brazil, Colombia, Russia, Germany, Poland and Slovenia were invited to gather in Austria. The planned projects ranged from remote-controlled robots, to philosophical debates, to music pieces with embodied AI.
+To create a selection of artists we published an Open Call that was distributed as a website[^10] designed by Alyona Ciobanu. Inspired by a previous call for a residency at Babycastles[^11], we decided to create a form that does not ask for CVs or portfolios, but focuses on a project idea and what kind of knowledge the participant is seeking from others and is able to share. 31 artists based in Europe and the Americas responded to the call of which 12 were selected by us. The artists were chosen with a view to diversity of their projects, origin and gender. Among others, people from China, Japan, USA, Brazil, Colombia, Russia, Germany, Poland and Slovenia were invited to gather in Austria. The planned projects ranged from remote-controlled robots, to philosophical debates, to music pieces with embodied AI.
 
-But before we physically met in Gosau an internet forum[^11] was set up for participants to introduce themselves and initiate discussions and suggestions on content. The forum also served to communicate organizational necessities in an easily accessible and quick manner. Apart from the asynchronous text-based interaction, we held two video conferences in which Rosi read a story on narratives of AI that served as a basis for discussion.
+But before we physically met in Gosau an internet forum[^12] was set up for participants to introduce themselves and initiate discussions and suggestions on content. The forum also served to communicate organizational necessities in an easily accessible and quick manner. Apart from the asynchronous text-based interaction, we held two video conferences in which Rosi read a story on narratives of AI that served as a basis for discussion.
 
 One participant from Colombia joined us from the Andes mountains during the project week and would stay in contact with us only through the forum and video conferences.
 
@@ -120,7 +120,7 @@ With some delay we got reception back to the internet and could follow Caroline'
 
 The rest of the day was self structured and people used it to prototype their projects. At night in front of the *digital campfire* Dasha Ilina presented her work dealing with inconveniences of technological devices. Afterwards Naoto Hieda showed improvised choreographies created with dance and live code.
 
-On the morning of Day 4, three texts were presented for discussion in a reading circle before dinner. The texts dealt with self-representations in global networks, intelligence without cognition, and root networks as a metaphor for the mind.[^12]
+On the morning of Day 4, three texts were presented for discussion in a reading circle before dinner. The texts dealt with self-representations in global networks, intelligence without cognition, and root networks as a metaphor for the mind.[^13]
 
 Since this was the last full day to finish our projects, the day was used intensively. Many sat in front of their laptops working, for example, on a film they had previously made or trying out AI systems, such as voice cloning and generative image models, with which to realize their visions.
 
@@ -141,26 +141,33 @@ The next day we cleaned the house and already parted. Although our short encount
 
 The exhibition took place in the WHA Gallery from 10th to 19th of November, 2021. It tied the projects we developed during the summer camp together into a coherent presentation, where the distinction between individual artist and collective effort gets broken down. To achieve this, Davide Bevilacqua and Giacomo Piazzi created an exhibition design that takes inspiration from camping trips. With metal rods, camping stools, tarp, rocks and string they literally tied the works together. We intentionally left out exhibition signage that explains each of the works, so that a visitor would find themselves exploring the exhibition, trying to make sense of it holistically. The information about individual artists and their works was presented online, where the exhibition was mirrored for a global audience.
 
-I worked on the visual identity and was inspired by the design of an old computer, the Canon Cat from 1987. It was the creation of Jef Raskin, who also invented the user interface of the first Apple Macintosh.[^13] The Canon Cat however was not a commercial success. It took away the mouse and streamlined the user interface to be centered around word processing with extra keys for fast shortcuts. It was mainly marketed as a productivity tool for office workers. The gray and beige color scheme with accents in red and blue and the hand written signature gave the computer a remarkably friendly face. I transformed this color scheme into a contemporary website with a simple generative logo that randomly exchanges some characters with emoticons, like smiley faces and hearts. The posters were also generated in the browser and embedded a QR code to the website itself. With a generative text-to-image model RuDALL-E[^14] I created uncanny ‘stock images’ that were randomly placed and stretched.
+I worked on the visual identity and was inspired by the design of an old computer, the Canon Cat from 1987. It was the creation of Jef Raskin, who also invented the user interface of the first Apple Macintosh.[^14] The Canon Cat however was not a commercial success. It took away the mouse and streamlined the user interface to be centered around word processing with extra keys for fast shortcuts. It was mainly marketed as a productivity tool for office workers. The gray and beige color scheme with accents in red and blue and the hand written signature gave the computer a remarkably friendly face. I transformed this color scheme into a contemporary website with a simple generative logo that randomly exchanges some characters with emoticons, like smiley faces and hearts. The posters were also generated in the browser and embedded a QR code to the website itself. With a generative text-to-image model RuDALL-E[^15] I created uncanny ‘stock images’ that were randomly placed and stretched.
 
 ![Canon Cat with extracted colors | 300](20211004_171321.jpg)
 
 ![Example of a Poster | 300](13%20Camping%20with%20Computers.jpg)
 
-The connection between online and offline was most notable in the work of So Kanno with the title *Crawler*. It was a continuation of the remotely controlled toy robot, he developed during the camp and a body of work he calls *Avatars*[^15]. This time he modified an Apple Macbook, so that it can be controlled from the internet. On a custom laptop stand he attached wheels, so that a visitor to the website could roll around the exhibition space. Additionally the user interface was heavily customized, using notifications, web browsers and two separate webcams with face tracking to cover the faces of our visitors. 
-The *Crawler*  functioned as an autonomous object inside of the gallery space and could be seen as ‘an AI’ for video surveillance, because the actual people who control the device are hidden inside of this gray box. With this, it resembles the faux AI practice by the Colombian-owned startup Kiwi Campus, which builds a ‘self-driving’ delivery robot for US Universities. The Kiwibot is first filled by a regular delivery driver on a bicycle and then slowly rolls a few hundred meters to its destination under supervision of a human operator.[^16]
+The connection between online and offline was most notable in the work of So Kanno with the title *Crawler*. It was a continuation of the remotely controlled toy robot, he developed during the camp and a body of work he calls *Avatars*[^16]. This time he modified an Apple Macbook, so that it can be controlled from the internet. On a custom laptop stand he attached wheels, so that a visitor to the website could roll around the exhibition space. Additionally the user interface was heavily customized, using notifications, web browsers and two separate webcams with face tracking to cover the faces of our visitors. 
+The *Crawler*  functioned as an autonomous object inside of the gallery space and could be seen as ‘an AI’ for video surveillance, because the actual people who control the device are hidden inside of this gray box. With this, it resembles the faux AI practice by the Colombian-owned startup Kiwi Campus, which builds a ‘self-driving’ delivery robot for US Universities. The Kiwibot is first filled by a regular delivery driver on a bicycle and then slowly rolls a few hundred meters to its destination under supervision of a human operator.[^17]
 
 ![Screenshot of the Crawler Interface](crawling.jpg)
 
-Another work that created a juxtaposition of digital and physical elements was from Sebastián Mira. The Colombian artist created 3D reconstructions of our laptops as avatars to be used in a fictional place where the Andes and the Alps meet. Throughout the exhibition space, laptops were arranged as sculptural objects with self referential video loops, where you could see a laptop randomly rolling around computer generated landscapes. The videos were taken from the game *Everything*[^17], in which a player can  control various lifeforms and inanimate objects in procedurally generated worlds.
+Another work that created a juxtaposition of digital and physical elements was from Sebastián Mira. The Colombian artist created 3D reconstructions of our laptops as avatars to be used in a fictional place where the Andes and the Alps meet. Throughout the exhibition space, laptops were arranged as sculptural objects with self referential video loops, where you could see a laptop randomly rolling around computer generated landscapes. The videos were taken from the game *Everything*[^18], in which a player can  control various lifeforms and inanimate objects in procedurally generated worlds.
+
+![A visitor viewing one of the laptops by Sebastián Miras | 300](Opening_10.11.21(21).jpg)
 
 Naoto Hieda in turn took the 3D models of our laptop avatars and created a collage—a sort of ‘group photo’ of the participants and the toy robot mascot with me in the background—and turned it into a large banner. When I asked him if this might be too much of an inside joke, he replied that he does not care if anyone outside the group understands it, because he wants to make art for us. This made me think about the audience I try to address with my artworks. When I work on projects, I think of a fuzzy global audience, something that can be written into history books and shown in museums, but what if I just make artworks for my friends? Something so niche that only selected people understand it. This idea is so innocent and simple, yet it caught me by surprise.
+
+![Naoto Hiedas Banner and Laptop showing the exhibition website | 300](Exhibition(22).jpg)
 
 For the exhibition I wanted to make something with the images we collected and shared online. Pictures that document our time togehter, which we shared on the forum, in our group chat and uploaded to the cloud. My initial thought was to train a GAN and create abstract synthetic images that fail to represent our collective experience. When I looked through the photo archive as a dataset, first as a large grid of images and then in rapid succession to identify outliers, I became awestruck: even though I spent less than a second with each image, some of them would trigger deep emotional states and immediately transport me back to the house in Gosau. Thinking about Naoto’s satement of “making art for my friends” I decided to use all 767 images in a rapid slideshow of 32 seconds. Each of the 24 frames per second a different image, stretched to fit a 16:9 TV that got damaged on the way to the camp. I disassembled the TV and separated the LCD panel from it’s backlight, making the images only visible from a certain angle. The title of the work “we are the human” is borrowed from one of the meal prayers. All these elements make up the work, which is both a slide show and movie, documentation and narrative, digital and analog.
 
 ![we are the human | 300](Exhibition(17).jpg)
 
 The best viewing angle for my work was from a sunbed, which had a stereo speaker setup that played “LEEWA” from Ekheo. In this experimental sound piece, the artists used recordings of our voices to create a communal voice clone. With the *Oracle* they came up with a name and backstory for this new character and added anecdotal field recordings from the camp. Together these works create an eerie experience based on the digitally altered collective memories of our week in the alps.
+
+![A visitor listening to LEEWA| 300](Opening_10.11.21(16).jpg)
+![View from the sunbed | 300](Opening_10.11.21(18).jpg)
 
 Next to these pieces is a CRT TV displaying a fire with a contraption for a pot hanging above it. The pot contains a printed recipe, created by Hess Jeon with GPT-3 that we didn’t dare to cook for the opening.
 
@@ -185,27 +192,33 @@ Ingredients:
 Assemble the ingredients and place them in a large pot over medium heat. Wait until the butter melts. Then turn up the heat. By now the butter should be sizzling and popping as it heats up the veggies and pasta. At this point you can add garlic, onions, corn, peas, or whatever else strikes your fancy. The key is to use fresh veggies that you like; this way you won't notice that you're eating veggies at all. Once the veggies and pasta are nice and hot (and they will be), add the water/broth and stir them thoroughly. Now the cooking begins! Put on a movie or text message competition with your friends and let them know you'll be cooking for about five minutes. The trick here is to make sure that the pasta isn't too soft; you don't want it to disintegrate into a big blob of mush like most of your ex-girlfriends did. Now make sure you have a timer handy on your phone or on a wall clock or something. After five minutes have elapsed, turn off the heat, but leave the pot on the stove. Now for the next step: pour in the milk/chocolate milk and stir it vigorously for about 15 seconds. This will ensure that the cheese melts properly so that all its flavor can be absorbed by your tastebuds. Stir in the cheese until it's completely melted, then serve it up! Serve with crusty bread so that you can sop up all of those yummy juices, but only use one piece of bread per person because it will fill you up fast. You want to save room for dessert! This recipe tastes best cold because then you can use that leftover cold chocolate milk to drink with it! If any is left over, put it in the fridge overnight so that it absorbs more of those yummy flavors. Then eat it cold for breakfast with a side of bacon or ham! Yum yum!!
 ```
 
+![Hess Jeon “Chocolate Milk Pasta”|300](Exhibition(6).jpg)
+
+On another set of monitors Yuxi Liu showed a 3-channel video installation in which she is exploring the non-human world. During the first Covid-19 lockdown she used a motion-sensor camera to capture the birds visiting her balcony. This served as a image set for a GAN model, which after finetuning was supposed to recreate the images of the visiting birds but instead abstracted the animal so much that merely the surrounding was visible. This served as an interesting metaphor of how the digitization of the natural world and statistical operations on it sometimes disregard the life within. During her stay at the camp Yuxi wanted to capture more animals with a DIY raspberry pi camera, and even though she tried her best to lure more birds, in the end the camera did not sense any.  This got us to discuss the role of human and non-human connections within cities and outside of them. While inner cities objectively have less animal life, the scarcity of resources make them live closer to humans. In her last installment she was recording birds over the rooftops and on the port of Rotterdam, where they adapted to human living conditions, overlooking the city and it’s environment.
+
+![Yuxi Liu](Exhibition(31).jpg)
+
+Davide Bevilacquas *POND*, a 4-channel video installation also addresses the digitization of natural phenomenons. The screens are lying flat on the floor on a tarp resembling a small pond inside of the exhibition space. The images of the water surface are morphing between each other creating an unusual and oddly familiar ripple effect. It looks both like the scattering of sunlight on top of a water surface and the glitch artifacts we know when a video file is not loading properly. 
+
+![Exhibition view of POND by Davide Bevilacqua](Exhibition(25).jpg)
+
 ---
 
 [^1]: The term Ubuntu originates from southern Africa and is used to describe a humanist philosophy according to which persons are interconnected. It is often used in phrases such as the Zulu ‘Umuntu ngumuntu ngabantu’, which translates to ‘A person is a person through other persons’. The term for personhood (ubuntu) itself is not clearly defined and has different meanings in different areas. @gadeWhatUbuntuDifferent2012 
-
 [^2]: @DescartesWasWrong2017
-
 [^3]: In the story _On Having No Head_ D.E. Harding describes the realization that one can never experience their own head, because the most important sensual organs are embedded in it. I don’t remember where I read it, but there is an argument that the reason we place consciousness in the brain is because we mostly experience the world from the position of our head.
-
 [^4]: @zarkadakesOurOwnImage2016 p.189
 [^5]: The simulation argument was first proposed by Nick Bostrom, where he argues that if we were able to create realistic simulated minds and worlds in the future, it is likely that we already live in a simulation. [@bostromAreYouLiving2001] The theory was 
 [^6]: @FREEPORTANATOMIESBLACK
 [^7]: @AnatomyAISystem2018
 [^8]: Signal is an encrypted messaging app. See: https://www.signal.org
 [^9]: Jitsi Meet is an open source video conferencing software. See: https://meet.jit.si/
-[^10]: Babycastles is a NYC based collective fostering and amplifying diverse voices in videogame culture. Babycastles provides artists support to actualize ideas and expose that work to new audiences. @Babycastles 
-
-[^11]: The open source forum software _Discourse_ was hosted at the local servus.at data center.
-
-[^12]: Bogna Konior, _The Dark Forest Theory of the Internet_; Rodney Brooks, I_ntelligence without Representation_; Matteo Pasquinelli, _The Arborescent Mind: The Intelligence of an Inverted Tree_
-[^13]:  See: @CanonCatMac2014
-[^14]: See: @RuDALLE
-[^15]: Together with the artist yang02, So Kanno modified multiple objects that could be remotely controlled from the web. See: @Avatars
-[^16]: See: @HumanguidedBurritoBots2019
-[^17]: Everything is an interactive experience by David OReilly from 2017. See: @EverythingDLVIDOREILLY
+[^10]: See: https://cwc.radical-openness.org/siliconfriendcamp/
+[^11]: Babycastles is a NYC based collective fostering and amplifying diverse voices in videogame culture. Babycastles provides artists support to actualize ideas and expose that work to new audiences. @Babycastles 
+[^12]: The open source forum software _Discourse_ was hosted at the local servus.at data center.
+[^13]: Bogna Konior, _The Dark Forest Theory of the Internet_; Rodney Brooks, Intelligence without Representation_; Matteo Pasquinelli, _The Arborescent Mind: The Intelligence of an Inverted Tree_
+[^14]:  See: @CanonCatMac2014
+[^15]: See: @RuDALLE
+[^16]: Together with the artist yang02, So Kanno modified multiple objects that could be remotely controlled from the web. See: @Avatars
+[^17]: See: @HumanguidedBurritoBots2019
+[^18]: Everything is an interactive experience by David OReilly from 2017. See: @EverythingDLVIDOREILLY
