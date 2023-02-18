@@ -198,9 +198,19 @@ On another set of monitors Yuxi Liu showed a 3-channel video installation in whi
 
 ![Yuxi Liu](Exhibition(31).jpg)
 
-Davide Bevilacquas *POND*, a 4-channel video installation also addresses the digitization of natural phenomenons. The screens are lying flat on the floor on a tarp resembling a small pond inside of the exhibition space. The images of the water surface are morphing between each other creating an unusual and oddly familiar ripple effect. It looks both like the scattering of sunlight on top of a water surface and the glitch artifacts we know when a video file is not loading properly. 
+Davide Bevilacquas *POND*, a 4-channel video installation also addresses the digitization of natural phenomena. The screens are lying flat on the floor on a tarp resembling a small pond inside of the exhibition space. The images of the water surface are morphing between each other creating an unusual and oddly familiar ripple effect. It looks both like the scattering of sunlight on top of a water surface and the glitch artifacts we know when a video file is not loading properly. 
 
 ![Exhibition view of POND by Davide Bevilacqua](Exhibition(25).jpg)
+
+Giacomo Piazzis *The Monkey* is a monolithic work consisting of two rows of red glowing displays continuously changing the pattern of the lit screens. He uses infinite monkey theorem which proclaims that if a monkey were to hit a random letter on a keyboard for an infinite amount of time, it would eventually write the complete works of Shakespears, or almost surely any other finite text. *The Monkey* in Giacomos work is a random number generator that turns a segment of the display either on or off, possibly creating any string of text. While a 7-segment display with it’s 128 possible states is mostly used in digital clocks and meters, because of their ability to show numerical values easily, it is also possible to show most letters of the latin alphabet. Because of their simplicity and due to their widespread use in electronic devices, Giacomo flips the monkey theorem on it’s head and becomes more interested in the human interpretation of the arbitrary values displayed on the screen. 
+
+![Giacomo Piazzi, The Monkeys |300](Exhibition(12).jpg)
+
+Another work that focuses on text and it’s representation in artificial neural neutworks is *Latent Space Divination*[^19] by Błażej Kotowski. In this piece he created an interactive meditation for one person in a tent to reflect on the position of word embeddings and their spacial relation within a sentence. A visitor sits down in front of a tablet computer with headphones and types in their intention. The word embeddings of the sentence in turn impact how a 3 dimensional graph will be created. While the graph is slowly unfolding a sonification is generated for the participant and after around 5 minutes the object rotates around itself to create a solid object representing the intention. 
+
+[Picture Blazej]
+
+1-800-GRAVE
 
 ---
 
@@ -222,3 +232,4 @@ Davide Bevilacquas *POND*, a 4-channel video installation also addresses the dig
 [^16]: Together with the artist yang02, So Kanno modified multiple objects that could be remotely controlled from the web. See: @Avatars
 [^17]: See: @HumanguidedBurritoBots2019
 [^18]: Everything is an interactive experience by David OReilly from 2017. See: @EverythingDLVIDOREILLY
+[^19]: See: http://lsd.blazejkotowski.com/
