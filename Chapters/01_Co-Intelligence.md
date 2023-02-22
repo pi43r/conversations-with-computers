@@ -11,14 +11,14 @@ The groundwork was done by the mathematician Gottfried Wilhelm Leibniz, who prop
 Dualism continues to have a major impact on the way we think about artificial intelligence and consciousness. For example, the influential cyberneticists Norbert Wiener and Claude Shannon both based their work on the assumption that information is a separate entity from matter and energy. This assumption has led to a disembodiment of information, and a false separation of the physical world (the ‘hardware’) from the world of ideas (the ‘software’).[^4] Following a materialist logic, consciousness becomes information embedded in the physical substrate of the brain. In that sense, we only need to measure all physical activities to duplicate and simulate the experience of being human. The metaphor of the brain as a computer defines our present and justifies predictions of ‘downloading’ consciousness and achieving digital immortality. It culminates in the popular simulation hypothesis that proposes we  already live in a simulated environment.[^5]
 Computational neuroscientists use and develop instruments to quantify electric impulses in the brain and create massive amounts of experimental data, which in turn need statistical models and ever growing computing power to be analyzed. On the other spectrum, simplified models of the brain in the form of artificial ‘neural networks’ are used to compute and sort higher order abstractions. This focus on the individual brain in the search to replicate intelligence leaves aside a physical and social environment, in which conscious beings are embodied.
 
-In order to understand human cognition and intelligence, we need to explore the complex dialogic connections between human actors. Current machine learning programs abstract intelligence into simple task solving mechanisms and make us believe that the underlying algorithm becomes a rational agent. But on closer examination, the program reveals an astonishing amount of human collaboration: from the creation of programming languages as protocols for interaction to the enormous amounts of data aggregation and labeling. Instead of looking at AI systems and seeing them as a subjective entity, we can also see them as artifacts of collective intelligence.
-By embedding current machine learning algorithms back into the social structure, I hope to gain experimental insight on how these new forms of collective computations are used as a creative medium. In the following I will present my experiences working within Co-Intelligent systems in different constellations.
+In order to understand human cognition and intelligence, we need to explore the complex dialogic connections between human actors. Current machine learning programs abstract intelligence into simple task solving mechanisms and make us believe that the underlying algorithm becomes a rational agent. But on closer examination the program reveals an astonishing amount of human collaboration: from the creation of programming languages as protocols for interaction to the enormous amounts of data aggregation and labeling. Instead of looking at AI systems and seeing them as a subjective entity we can also see them as artifacts of collective cognition.
+By embedding current machine learning algorithms back into the social structure I hope to gain experimental insight on how these new forms of collective computations are used as a creative medium. In the following I will present my experiences working within Co-Intelligent systems in different constellations.
 
 
 ## **Metaconversations with Computers**
 ![Metaconversations, Miro Flowchart](Flowchart---Metaconversation-Piece-stitch.jpg.png)
 
-In October 2020 I participated in *Freeport 1: Anatomies of a black box* [^6] and was part of a group with Gabriela Gordillo, Mario Romera and Fabian Frei in which we started a conversation about computers, which ended up in computersimulations talking about themselves.
+In October 2020 I participated in *Freeport 1: Anatomies of a black box*[^6] and was part of a group with Gabriela Gordillo, Mario Romera and Fabian Frei in which we started a conversation about computers that ended in simulating our own conversations.
 
 *Anatomies of a black box* was a laboratory curated by Bani Brusadin for Matadero Madrid about mapping contemporary complex systems in infrastructures of exploitation. During the month long program we met in video conferences with Vladan Joler and other groups to explore mapping as a form of non-linear storytelling.  The starting point was the conceptual map ‘Anatomy of an AI system’[^7] that he created with the researcher Kate Crawford as a case study of the life cycle of an Amazon Echo device, from unearthing the raw materials to its networked software components. 
 
@@ -206,11 +206,18 @@ Giacomo Piazzis *The Monkey* is a monolithic work consisting of two rows of red 
 
 ![Giacomo Piazzi, The Monkeys |300](Exhibition(12).jpg)
 
-Another work that focuses on text and it’s representation in artificial neural neutworks is *Latent Space Divination*[^19] by Błażej Kotowski. In this piece he created an interactive meditation for one person in a tent to reflect on the position of word embeddings and their spacial relation within a sentence. A visitor sits down in front of a tablet computer with headphones and types in their intention. The word embeddings of the sentence in turn impact how a 3 dimensional graph will be created. While the graph is slowly unfolding a sonification is generated for the participant and after around 5 minutes the object rotates around itself to create a solid object representing the intention. 
+Another work that focuses on text and it’s representation in artificial neural networks is *Latent Space Divination*[^19] by Błażej Kotowski. In this piece he created an interactive meditation for one person in a tent to reflect on the position of word embeddings and their spacial relation within a sentence. A visitor sits down in front of a tablet computer with headphones and types in their intention. The word embeddings of the sentence in turn impact how a 3 dimensional graph will be created. While the graph is slowly unfolding a sonification is generated for the participant and after around 5 minutes the object rotates around itself to create a solid object representing the intention. 
 
-[Picture Blazej]
+
+![Visitor at the end of Latent Space Divination](Opening_10.11.21(6).jpg)
 
 Finally *1-800-MYGRAVE* by Erica Jewel and Dasha Ilina is an installation in the center of the room that imagines a call center where the visitor becomes a worker for a fictional company that provides digital afterlife service. It is based on a video they made with Lina Schwarzenberg during the camp. The infomercial in the style of a 1980s public service announcement warns the viewer of their accumulated data and offers some simple steps to protect digital files and avoid embarrassment after death. The cubicle in the gallery is fitted with a corded telephone and an inspirational poster where the visitor switches roles and takes on (automated) calls from people who ask or complain about the service. An instruction manual tells the participant how to respond and which buttons to press.  
+
+![1-800-MYGRAVE installation view](Exhibition(21).jpg)
+
+
+The open call for the camp had the goal “to enable embodied networks through the development of new forms of computational intelligence.”[^20] Looking back to the exhibition and the camp after over a year I see a multitude of connections. While the works are separated by space and author they often address the same thing from a different angle. We explored anthropomorphous robots by embodying a virtual friend inside of a plastic toy, but most closely we looked into the process of capturing the world through digital computers and how we relate to and interpret our data bodies. 
+Maybe real AI is the friends we made along the way.[^21]
 
 ---
 
@@ -218,7 +225,7 @@ Finally *1-800-MYGRAVE* by Erica Jewel and Dasha Ilina is an installation in the
 [^2]: @DescartesWasWrong2017
 [^3]: In the story _On Having No Head_ D.E. Harding describes the realization that one can never experience their own head, because the most important sensual organs are embedded in it. I don’t remember where I read it, but there is an argument that the reason we place consciousness in the brain is because we mostly experience the world from the position of our head.
 [^4]: @zarkadakesOurOwnImage2016 p.189
-[^5]: The simulation argument was first proposed by Nick Bostrom, where he argues that if we were able to create realistic simulated minds and worlds in the future, it is likely that we already live in a simulation. [@bostromAreYouLiving2001] The theory was 
+[^5]: The simulation argument was first proposed by Nick Bostrom. He argues that if we were able to create realistic simulated minds and worlds in the future it is likely that we already live in a simulation. [@bostromAreYouLiving2001] The theory was 
 [^6]: @FREEPORTANATOMIESBLACK
 [^7]: @AnatomyAISystem2018
 [^8]: Signal is an encrypted messaging app. See: https://www.signal.org
@@ -233,3 +240,5 @@ Finally *1-800-MYGRAVE* by Erica Jewel and Dasha Ilina is an installation in the
 [^17]: See: @HumanguidedBurritoBots2019
 [^18]: Everything is an interactive experience by David OReilly from 2017. See: @EverythingDLVIDOREILLY
 [^19]: See: http://lsd.blazejkotowski.com/
+[^20]: Generated by GPT3 with some context
+[^21]: Based on a tweet by the user mind_backup https://twitter.com/mind_backup/status/1601131037609730048
