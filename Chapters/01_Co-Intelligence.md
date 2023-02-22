@@ -164,12 +164,12 @@ For the exhibition I wanted to make something with the images we collected and s
 
 ![we are the human | 300](Exhibition(17).jpg)
 
-The best viewing angle for my work was from a sunbed, which had a stereo speaker setup that played “LEEWA” from Ekheo. In this experimental sound piece, the artists used recordings of our voices to create a communal voice clone. With the *Oracle* they came up with a name and backstory for this new character and added anecdotal field recordings from the camp. Together these works create an eerie experience based on the digitally altered collective memories of our week in the alps.
+The best viewing angle for my work was from a sunbed, which had a stereo speaker setup that played “LEEWA” from Ekheo. In this experimental sound piece the artists used recordings of our voices to create a communal voice clone. With the *Oracle* they came up with a name and backstory for a new character and added anecdotal field recordings from the camp. Together these works create an eerie experience based on the digitally altered collective memories of our week in the alps.
 
 ![A visitor listening to LEEWA| 300](Opening_10.11.21(16).jpg)
 ![View from the sunbed | 300](Opening_10.11.21(18).jpg)
 
-Next to these pieces is a CRT TV displaying a fire with a contraption for a pot hanging above it. The pot contains a printed recipe, created by Hess Jeon with GPT-3 that we didn’t dare to cook for the opening.
+Next to these pieces is a CRT TV displaying a fire with a contraption for a pot hanging above it. The pot contains a printed recipe created by Hess Jeon with GPT-3 that we didn’t dare to cook for the opening.
 
 ```
 Chocolate Milk Pasta
@@ -194,7 +194,7 @@ Assemble the ingredients and place them in a large pot over medium heat. Wait un
 
 ![Hess Jeon “Chocolate Milk Pasta”|300](Exhibition(6).jpg)
 
-On another set of monitors Yuxi Liu showed a 3-channel video installation in which she is exploring the non-human world. During the first Covid-19 lockdown she used a motion-sensor camera to capture the birds visiting her balcony. This served as a image set for a GAN model, which after finetuning was supposed to recreate the images of the visiting birds but instead abstracted the animal so much that merely the surrounding was visible. This served as an interesting metaphor of how the digitization of the natural world and statistical operations on it sometimes disregard the life within. During her stay at the camp Yuxi wanted to capture more animals with a DIY raspberry pi camera, and even though she tried her best to lure more birds, in the end the camera did not sense any.  This got us to discuss the role of human and non-human connections within cities and outside of them. While inner cities objectively have less animal life, the scarcity of resources make them live closer to humans. In her last installment she was recording birds over the rooftops and on the port of Rotterdam, where they adapted to human living conditions, overlooking the city and it’s environment.
+On another set of monitors Yuxi Liu showed a 3-channel video installation in which she is exploring the non-human world. During the first Covid-19 lockdown she used a motion-sensor camera to capture the birds visiting her balcony. This served as an image set for a GAN model, which after finetuning was supposed to recreate the images of the visiting birds but instead abstracted the animal so much that merely the surrounding was visible. This served as an interesting metaphor of how the digitization of the natural world and statistical operations on it sometimes disregard the life within. During her stay at the camp Yuxi wanted to capture more animals with a DIY raspberry pi camera, and even though she tried her best to lure more birds, in the end the camera did not sense any. This got us to discuss the role of human and non-human connections within cities and outside of them. While inner cities objectively have less animal life, the scarcity of resources make them live closer to humans. In her last installment she was recording birds over the rooftops and on the port of Rotterdam overlooking the city and it’s environment.
 
 ![Yuxi Liu](Exhibition(31).jpg)
 
@@ -202,7 +202,7 @@ Davide Bevilacquas *POND*, a 4-channel video installation also addresses the dig
 
 ![Exhibition view of POND by Davide Bevilacqua](Exhibition(25).jpg)
 
-Giacomo Piazzis *The Monkey* is a monolithic work consisting of two rows of red glowing displays continuously changing the pattern of the lit screens. He uses infinite monkey theorem which proclaims that if a monkey were to hit a random letter on a keyboard for an infinite amount of time, it would eventually write the complete works of Shakespears, or almost surely any other finite text. *The Monkey* in Giacomos work is a random number generator that turns a segment of the display either on or off, possibly creating any string of text. While a 7-segment display with it’s 128 possible states is mostly used in digital clocks and meters, because of their ability to show numerical values easily, it is also possible to show most letters of the latin alphabet. Because of their simplicity and due to their widespread use in electronic devices, Giacomo flips the monkey theorem on it’s head and becomes more interested in the human interpretation of the arbitrary values displayed on the screen. 
+Giacomo Piazzis *The Monkey* is a monolithic work consisting of two rows of red glowing displays continuously changing the pattern of the lit screens. He uses the infinite monkey theorem which proclaims that if a monkey were to hit a random letter on a keyboard for an infinite amount of time it would eventually write the complete works of Shakespear, or almost surely any other finite text. *The Monkey* in Giacomos work is a random number generator that turns a segment of the display either on or off, possibly creating any string of text. While a 7-segment display with it’s 128 possible states is mostly used in digital clocks and meters because of their ability to show numerical values easily, it is also possible to show most letters of the latin alphabet. Because of their simplicity and due to their widespread use in electronic devices, Giacomo flips the monkey theorem on it’s head and becomes more interested in the human interpretation of the arbitrary values displayed on the screen. 
 
 ![Giacomo Piazzi, The Monkeys |300](Exhibition(12).jpg)
 
@@ -210,7 +210,7 @@ Another work that focuses on text and it’s representation in artificial neural
 
 [Picture Blazej]
 
-1-800-GRAVE
+Finally *1-800-MYGRAVE* by Erica Jewel and Dasha Ilina is an installation in the center of the room that imagines a call center where the visitor becomes a worker for a fictional company that provides a digital afterlife service. 
 
 ---
 
