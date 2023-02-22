@@ -210,7 +210,7 @@ Another work that focuses on text and it’s representation in artificial neural
 
 [Picture Blazej]
 
-Finally *1-800-MYGRAVE* by Erica Jewel and Dasha Ilina is an installation in the center of the room that imagines a call center where the visitor becomes a worker for a fictional company that provides a digital afterlife service. 
+Finally *1-800-MYGRAVE* by Erica Jewel and Dasha Ilina is an installation in the center of the room that imagines a call center where the visitor becomes a worker for a fictional company that provides digital afterlife service. It is based on a video infomercial they made with Lina Schwarzenberg during the camp. In the 
 
 ---
 
