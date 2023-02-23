@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/01_Co-Intelligence.md",
+                "file": "Chapters/03_Piles-of-Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/01_Co-Intelligence.md",
+                "file": "Chapters/03_Piles-of-Data.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,14 +181,14 @@
   },
   "active": "f1a94d192b83093d",
   "lastOpenFiles": [
+    "Chapters/05_endoftext.md",
+    "Chapters/04_Stochastic-Meaning.md",
+    "Chapters/03_Piles-of-Data.md",
     "Chapters/02_Talking-to-Computers.md",
     "Chapters/01_Co-Intelligence.md",
-    "Chapters/05_endoftext.md",
     "Chapters/00_Hello-World.md",
     "Chapters/06_Addendum.md",
     "Presentations/February 23.md",
-    "Chapters/04_Stochastic-Meaning.md",
-    "Chapters/03_Piles-of-Data.md",
     "Presentations/Meeting November.md",
     "Presentations/December.md"
   ]
