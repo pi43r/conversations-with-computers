@@ -1,5 +1,6 @@
 # Piles of Data
 
+The idea behind Artificial Neural Networks is nothing new. 
 
 
 ## Scraping the web
