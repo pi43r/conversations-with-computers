@@ -15,7 +15,7 @@ The main innovation is outlined by Krizhevsky in the paper itself: “To make tr
 - This Person Does Exist
 
 [^1]: [@rosenblattPerceptronProbabilisticModel1958]
-[^2]: Frank Rosenblatt died in a boating accident in 1971. A couple years prior Marvin Minsky heavily criticized the mathematics behind perceptrons and advocated for a symbolic approach. These turn of events might have lead to a lack of funding in the ‘connectionist’ AI research field and ultimately lead to a general disinterest when the symbolic approach could not keep their promises.
+[^2]: Frank Rosenblatt died in a boating accident in 1971. A couple years prior Marvin Minsky heavily criticized the mathematics behind perceptrons and advocated for a symbolic approach. These turn of events might have lead to a lack of funding in the ‘connectionist’ AI research field and ultimately lead to a general disinterest when the symbolic approach could not keep their exaggerated promises.
 [^3]: [@fukushimaCognitronSelforganizingMultilayered1975]
 [^4]: [@fukushimaNeocognitronHierarchicalNeural1988]
 [^5]: [@tappertWhoFatherDeep2019]
