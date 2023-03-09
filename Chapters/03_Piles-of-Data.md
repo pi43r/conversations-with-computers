@@ -30,7 +30,16 @@ My research on the hands dataset in conjunction with esoteric practices and fort
 
 ## In the wild
 
+The process of collecting and creating data has drastically changed since the wide adoption of the internet. Where the 11k hands dataset has invited participants to their office to take a picture specifically for the dataset, other researcher started to search and download huge collections from the internet without any consent.
+Take for example the ImageNet dataset, initiated by Stanford University’s AI professor Fei Fei Li, which was created to tackle object recognition tasks and consists of 14 million images .
+In 2019 the artist Trevor Paglen and researcher Kate Crawford collaborated on an exhibition titled Training Humans, dedicated to human image databases. One of the main exhibits was a vast collection of human images from the ImageNet dataset,  
+Some images of people fall into categories such as “Bad Person, Call Girl, Drug Addict, Closet Queen, Convict” and so on (Crawford and Paglen 2019). The artists used these absurd, racist, and misogynistic labels to train “ImageNet Roulette”, a recognition algorithm that was accessible online and in an interactive installation. A result of the media attention that followed was that 600,000 images were removed from ImageNet and, due to maintenance (Yang et al. 2019).
 
+[i](#sdendnote1anc)See _Fondazione Prada, “KATE CRAWFORD | TREVOR PAGLEN: TRAINING HUMANS”,_ [_http://www.fondazioneprada.org/project/training-humans/?lang=en_](http://www.fondazioneprada.org/project/training-humans/?lang=en)
+
+[ii](#sdendnote2anc)See _Trevor Paglen,_ ImageNet Roulette, [_https://paglen.studio/2020/04/29/imagenet-roulette/_](https://paglen.studio/2020/04/29/imagenet-roulette/)
+
+[iii](#sdendnote3anc)On March 11 the team updated [https://image-net.org/](https://image-net.org/). They addressed the criticism by removing 2,702 synsets and experiment with blurring faces to preserve people’s privacy.
 
 ## Informed Consent
 - This Person Does Exist
