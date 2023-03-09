@@ -23,16 +23,16 @@ This dichotomy between the label and my own narrative inspired me to create a vi
 ![Example of a frame from 11k hands](Matthias%20Schäfer%20-%2011k%20hands%20[snJsKFxPlJ8%20-%20892x669%20-%203m35s].png)
 
 At the 36th Chaos Communication Congress I organized a workshop called “Palm Reading AI” where I invited visitors to read the hands of people from the 11k hands dataset. At first I only introduced them to palmistry using wikihow as a reference.[^15] Then I handed out some prints where a random hand from the dataset was depicted and participants had to fill in a couple of questions. Some questions were short guesses like age, gender, country of origin, for some other they had to come up with fictional stories with only the hand lines as a reference: what is the persons future? How was their childhood? How is their love life?
-After they filled in the form some people shared their stories and then I revealed where these hands came from and how computer scientists are using them to create models that try to predict their gender. Afterwards we had a discussion about the practice of creating large datasets and their ethical considerations. I had a longer talk with one participant that did not want to guess the age or gender of that person and I had told him that this was exactly the point of the workshop: to reflect on our own biases and stereotypes and how they translate into science.
+After they filled in the form some people shared their stories and then I revealed where these hands came from and how computer scientists are using them to create models that try to predict their gender. Afterwards we had a discussion about the practice of creating large datasets and their ethical considerations. I had a longer talk with one participant that did not want to guess the age or gender of that person and I had told them that this was exactly the point of the workshop: to reflect on our own biases and stereotypes and how they translate into science.
 
-After long contemplation on 11k hands and finding datasets that are much more problematic than this one, I don’t think the type of work from Afifi et al is ‘unethical’ or needs to be redacted. They got consent from their participants and share the dataset for the scientific community for “reasonable academic fair use”. The work on biometric identification and comparing CNNs to previous method is interesting and novel, however as I stated above I think the premise behind the gender recognition task is flawed. Unfortunately this is very common in the computer vision field where people are (mis-)labeled that reflect and amplify societal stereotypes.[^16]
+After long contemplation on 11k hands and finding datasets that are much more problematic than this one, I don’t think the type of work from Afifi et al. is ‘unethical’ or needs to be redacted. They got consent from their subjects and share the dataset to the scientific community for “reasonable academic fair use”. The work on biometric identification and comparing CNNs to previous methods is interesting and novel, however as I stated above I think the premise behind the gender recognition task is flawed. Unfortunately this is very common in the computer vision field where people are (mis-)labeled that reflect and amplify societal stereotypes.[^16]
 My research on the hands dataset in conjunction with esoteric practices and fortune-telling informed a later work of mine “The Chiromancer” that I built together with Giacomo Piazzi.
 
-## Scraping the web
+## In the wild
+
 
 
 ## Informed Consent
-- 11k Hands
 - This Person Does Exist
 
 [^1]: [@rosenblattPerceptronProbabilisticModel1958]
@@ -50,4 +50,4 @@ My research on the hands dataset in conjunction with esoteric practices and fort
 [^13]: [@hoelOperativeImagesInroads2018]
 [^14]: See: [@matthiasschafer11kHands2018]
 [^15]: [@HowReadPalms]
-[^16]: 
+[^16]: One particular famous example of this is the work by Michael Kosinski and Yiluna Wang. Their flawed study tried to predict if a person is gay by scraping dating sites and training a classifier on these images. See:[@murphyWhyStanfordResearchers2017]
