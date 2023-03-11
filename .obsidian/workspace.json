@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Krizhevsky",
+                "query": "Turk",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,10 +146,10 @@
   },
   "active": "3e7a9851fb0cbf06",
   "lastOpenFiles": [
-    "Chapters/00_Hello-World.md",
     "Presentations/February 23.md",
-    "Chapters/03_Piles-of-Data.md",
+    "Chapters/00_Hello-World.md",
     "Chapters/02_Talking-to-Computers.md",
+    "Chapters/03_Piles-of-Data.md",
     "output/cwc.md",
     "Chapters/01_Co-Intelligence.md",
     "Presentations/December.md",
