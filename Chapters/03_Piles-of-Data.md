@@ -46,8 +46,8 @@ To conclude the three common issues with CC licensed media is that they are not 
 A dataset using Creative Commons images that I examined more closely was *Flickr Faces HQ (FFHQ)*. In 2018 the research lab of Nvidia, one of the leading companies for visual computing, published a paper introducing a machine learning architecture called StyleGAN.[^33] They improved on generative adversarial networks (GAN) in such a way that it was possible to create controllable synthetic high-resolution images. In simple terms the system is able to abstract large amounts of images with a model that in turn outputs similar-looking pictures. In this case the model is able to generate realistic-looking photographs of human faces. 
 In comparison to other datasets *FFHQ* is fairly small with only 70,000 images. As existing datasets were too low in resolution a new corpus was created by scraping Creative Commons, Public Domain or U.S. Government Works licensed images through Flickr’s API. The dataset itself is published under a CC-BY-NC-SA license and the instructions for use and download are very clear, making it manageable for me in terms of size and effort to discover the underlying characteristics. The dataset consists only of photographic images as it was checked by Amazon Mechanical Turk workers to make sure that statues, paintings, or photos of photos were removed. Using the open-source library dlib, the raw images were automatically aligned and cropped around the face to create a uniform square ratio of 1024px. This library also identifies 68 points outlining the chin, eyebrows, eyes, nose and mouth which are included in the metadata. So the final dataset used for training the GAN consists of a multitude of faces whe the eye and mouth positions are always in the same spot.
 
+![Screenshot of This Person Does Exist](Screen%20Shot%202023-03-15%20at%2020.50.49.png)
 
-  
 One year after Nvidia released its StyleGAN paper the software developer Phillip Wang published the website *thispersondoesnotexist.com* which shows the capabilities of the generative model to create realistic looking photographs of people.[^34] The site quickly took off and alarmed people about potential impact of AI systems in generating cheap synthetic media.  
 As a counter-narrative to the AI image creator, I wanted to showcase the people who were used to train this system. In 2020 I moved the cropped and aligned face images to my server and built my own website with the name *this-person-does-exist.com* which displays the faces from the training set alongside their metadata.[^35] Looking at the individuals faces facilitates an interpersonal connection with the unknown person and evokes a feeling for the images that were used to train the generative model. At the same time it shows the creepy and strange practice of AI researchers using personal images as raw data.
 As Flickr is used mostly by hobbyists and professional photographers, one can find portraits of children and families, speakers at conferences or people on holiday. We can assume that, like other scraped datasets, the photographers of these images are unaware that their images are used for AI analysis. In contrast to other scraped datasets, the Nvidia researchers provide a tool to see if an image is part of the collection and allow the removal of the photograph.[^36] According to Adam Harvey the company does not disclose if any images were requested for removal and has not updated or removed any photos since its release in 2016.[^37]
@@ -64,7 +64,8 @@ As a part of a growing group of artists exploring and exposing research datasets
 
 ## Scrapism
 
-Rather than using existing datasets, the artist Sam Lavigne uses webscraping
+Webscraping is the technique of using automated computer programs to visit links and collect data from the internet. It is the backbone for many of the current machine learning applications. The artist Sam Lavigne describes ‘Scrapism’ as the practice of using webscraping technique to “for artistic, emotional, and critical ends.”[^40]
+Instead of using and exposing datasets made for scientific research, Sam creates his own by downloading and analyzing materials on the internet that revert common power structures.  
 
 [^1]: [@rosenblattPerceptronProbabilisticModel1958]
 [^2]: The Mark I was a electromechanical machine that used motor driven potentiometers to adjust the variable weights.
@@ -105,3 +106,4 @@ Rather than using existing datasets, the artist Sam Lavigne uses webscraping
 [^37]: See ‘FFHQ Dataset’ at [@CreativeCommonsBiometrics]
 [^38]: [@karrasStyleBasedGeneratorArchitecture2019]
 [^39]: [@schaferThisPersonDoes2021]
+[^40]: [@lavigneScrapism]
