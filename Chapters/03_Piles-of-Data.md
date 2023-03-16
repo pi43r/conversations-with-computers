@@ -64,7 +64,7 @@ As a part of a growing group of artists exploring and exposing research datasets
 
 ## Scrapism
 
-Webscraping is the technique of using automated computer programs to visit links and collect data from the internet. It is the backbone for many of the current machine learning applications. The artist Sam Lavigne describes ‘Scrapism’ as the practice of using webscraping technique to “for artistic, emotional, and critical ends.”[^40]
+Web scraping is the technique of using computer programs to automatically visit links and aggregate data from the internet. It is the backbone for many of the current machine learning applications. The artist Sam Lavigne describes ‘Scrapism’ as the practice of using webscraping technique to “for artistic, emotional, and critical ends.”[^40]
 Instead of using and exposing datasets made for scientific research, Sam creates his own by downloading and analyzing materials on the internet that revert common power structures.  
 
 [^1]: [@rosenblattPerceptronProbabilisticModel1958]
