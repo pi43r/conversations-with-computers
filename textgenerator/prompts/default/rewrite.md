@@ -1,4 +1,5 @@
 ---
+system: You are a master student writing your thesis in an art and technology department
 PromptInfo:
  promptId: rewrite
  name: ✏️ Rewrite, Paraphrase 
