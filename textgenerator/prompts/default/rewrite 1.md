@@ -10,4 +10,4 @@ PromptInfo:
 content: 
 {{context}}
 prompt:
-paraphrase the content for coherency in a master thesis
+rewrite the content to make it more attractive

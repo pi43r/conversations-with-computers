@@ -64,8 +64,8 @@ As a part of a growing group of artists exploring and exposing research datasets
 
 ## Scrapism
 
-Web scraping is the technique of using computer programs to automatically visit links and aggregate data from the internet. It is the backbone for many of the current machine learning applications. The artist Sam Lavigne uses the practice web scraping “for artistic, emotional, and critical ends” and describes this form as ‘Scrapism’.[^40]
-Instead of using and exposing datasets made for scientific research, Lavigne creates his own datasets by downloading and analyzing materials on the internet to revert common power structures. For example 
+Web scraping is the technique of using computer programs to automatically visit links and aggregate data from the internet. It is the backbone for many of the current machine learning applications. The artist Sam Lavigne uses the practice of web scraping with goal of creating art with an emotional or critical message; a practice he calls 'Scrapism'.[^40]
+Instead of using and exposing datasets made for scientific research, Lavigne creates his own datasets by downloading and analyzing materials on the internet to revert common power structures. For example the online art work *New York Apartment* he produced together with Tega Brain for the Artport Collection of the Whitney Museum.[^41] In this work they collected all for-sale listings on multiple   
 
 [^1]: [@rosenblattPerceptronProbabilisticModel1958]
 [^2]: The Mark I was a electromechanical machine that used motor driven potentiometers to adjust the variable weights.
@@ -107,3 +107,4 @@ Instead of using and exposing datasets made for scientific research, Lavigne cre
 [^38]: [@karrasStyleBasedGeneratorArchitecture2019]
 [^39]: [@schaferThisPersonDoes2021]
 [^40]: [@lavigneScrapism]
+[^41]: [@lavigneNewYorkApartment]
