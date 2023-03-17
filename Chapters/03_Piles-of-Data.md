@@ -69,7 +69,24 @@ As a part of a growing group of artists exploring and exposing research datasets
 ## Scrapism
 
 Web scraping is the technique of using computer programs to automatically visit links and aggregate data from the internet. It is the backbone for many of the current machine learning applications. The artist Sam Lavigne uses the practice of web scraping with goal of creating art with an emotional or critical message; a practice he calls 'Scrapism'.[^40]
-Instead of using and exposing datasets made for scientific research, Lavigne creates his own datasets by downloading and analyzing materials on the internet to revert common power structures. For example the online art work *New York Apartment* he produced together with Tega Brain for the Artport Collection of the Whitney Museum.[^41] In this work they collected all for-sale listings on multiple
+Instead of using and exposing datasets made for scientific research, Lavigne creates his own datasets by downloading and analyzing materials on the internet to revert common power structures. For example the online art work *New York Apartment* he produced together with Tega Brain for the Artport Collection of the Whitney Museum.[^41] In this work they collected all for-sale listings on multiple real estate websites for New York City apartments and created a website that compiles all of them into one giant apartment listing. The value for this fictional apartment is over 43 billion USD and boasts 65,674 bedrooms and 55,588 bathrooms on around 3.4 million square meters. The website consists of multiple columns describing the listing with all of the clichéd language and staged photographs common in the real estate market. They extruded the floor plans into 3D models and placed them together next to each other, in a tower or pyramid formation so that you can explore this maze of apartments. The videos are cut up into thematic categories like “Welcome”, “Bedroom”, “Master” or “Pre-war” creating strange super cuts of panning and zooming shots of slick interiors.
+Although looking through this compilation is funny and entertaining, it reveals the absurd language of luxury commodities and reveals the inequality of who can afford to own housing in a city like New York.
+Another experiment by Sam Lavigne uses an open source hair detector to create a compilation of Mark Zuckerberg hair styles, in reaction to multiple people mocking the billionaire for his ‘terrible’ hair style.[^42] This project in particular surved me as an inspiration as it shows that using web scraping and machine learning technologies can sometimes just be for silly projects on the expense of billionaires funding this tech for surveillance and personal profits.
+
+![Sam Lavigne - Zuckerhair](lavigne_zuck-cut.jpg)
+
+## doggg.art
+
+Doggg.art is an exercise in _scrapism_ where I downloaded and transformed content from the social media giant instagram. Instagram has become the biggest tool for artists to find an audience and a community. Every possible niche can be found through the use hashtags like #dogart that collects drawings, photographs of personal and commercial dog related imagery. With around a million posts it is only one example for the immense creative output on the image platform. Facebook, the mother company of instagram, owns an abundant amount of image data which they analyze and use to optimize computational models. By posting on the platform a user "grant[s] a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of [their] content".[^44]
+I would describe doggg.art as a generative big dada collage consisting of over 30k images from Instagram tagged with #dogart. The images were processed using a machine learning algorithm called U^2-Net, which removed the background and other elements from the pictures. A website then randomly places the cutouts on a beige background slowly fading them in, creating an ever changing digital dog meadow. I see it as a collaborative work that combines pieces by 38326 artists together credited on a seperate page with all their unique usernames.[^43]
+The artwork was intended as a screensaver that reflects on on the aesthetics of the platform instagram and how our relationship with pets extends into this online network.
+
+![doggg.art exhibited at Die Digitale Düsseldorf exhibition “Digital Jokes”](doggg.art%20Digitale.jpeg)
+
+![A visitor looking through the names of dog artists](doggg.art%20Digitale%202.jpeg)
+
+## hidden
+
 
 [^1]: [@rosenblattPerceptronProbabilisticModel1958]
 [^2]: The Mark I was a electromechanical machine that used motor driven potentiometers to adjust the variable weights.
@@ -112,3 +129,6 @@ Instead of using and exposing datasets made for scientific research, Lavigne cre
 [^39]: [@schaferThisPersonDoes2021]
 [^40]: [@lavigneScrapism]
 [^41]: [@lavigneNewYorkApartment]
+[^42]: [@samlavigne[@sam_lavigne]JustDiscoveredOpen2020]
+[^43]: Complete list of artists can be found here https://doggg.art/artistlist.html
+[^44]: See [@NutzungsbedingungenInstagramHilfebereich]

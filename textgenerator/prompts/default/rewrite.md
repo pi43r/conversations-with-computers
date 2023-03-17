@@ -11,4 +11,4 @@ PromptInfo:
 content: 
 {{context}}
 prompt:
-paraphrase the content for coherency in a master thesis
+paraphrase the content for coherency
