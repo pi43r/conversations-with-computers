@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/03_Piles-of-Data.md",
+                "file": "Chapters/04_Stochastic-Meaning.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/03_Piles-of-Data.md",
+                "file": "Presentations/February 23.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,13 +131,19 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b7e141e6d2105a9d",
+  "active": "45ad91e532e3f80b",
   "lastOpenFiles": [
-    "Images/doggg.art Digitale 2.jpeg",
-    "Presentations/February 23.md",
-    "Chapters/03_Piles-of-Data.md",
-    "Images/doggg.art Digitale.jpeg",
     "textgenerator/prompts/default/rewrite.md",
+    "Chapters/04_Stochastic-Meaning.md",
+    "Chapters/03_Piles-of-Data.md",
+    "Chapters/01_Co-Intelligence.md",
+    "Chapters/02_Talking-to-Computers.md",
+    "Images/IMG_1853.jpg",
+    "Images/meanwhile_landscape.jpg",
+    "Presentations/February 23.md",
+    "Images/emptyphotos-IMG_2261-HDR 1.jpg",
+    "Images/doggg.art Digitale 2.jpeg",
+    "Images/doggg.art Digitale.jpeg",
     "Images/lavigne_zuck-cut.jpg",
     "textgenerator/prompts/default/rewrite 1.md",
     "textgenerator/prompts/default/getOutline.md",
@@ -153,12 +160,9 @@
     "Images/Fig3.png",
     "Images/Fig2.png",
     "Chapters/00_Hello-World.md",
-    "Chapters/02_Talking-to-Computers.md",
     "output/cwc.md",
-    "Chapters/01_Co-Intelligence.md",
     "Presentations/December.md",
     "Chapters/05_endoftext.md",
-    "Chapters/04_Stochastic-Meaning.md",
     "Chapters/06_Addendum.md"
   ]
 }

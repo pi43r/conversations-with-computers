@@ -1,7 +1,3 @@
----
-system: You are a master student writing your thesis in an art and technology department
----
-
 # Piles of Data
 
 ## Self-Learning Networks
@@ -75,18 +71,38 @@ Another experiment by Sam Lavigne uses an open source hair detector to create a 
 
 ![Sam Lavigne - Zuckerhair](lavigne_zuck-cut.jpg)
 
+## hidden.pictures
+
+When downloading things from the web, we often assume that everything is stored for ertenity. “The web never forgets” is a common phrase that is used to warn people before uploading sensitive and personal content online. This can be true for content that is widely shared or automatically scraped and stored on sites like archive.org, but for many files and links the web is brittle. Domain names expire and cut the link to the requested page. But even if the hypertext can be accessed they often contain links to files that do not exist on the server anymore, in the case of images the browser then decides to show a broken image icon and an empty rectangle.
+For the online artwork *hidden.pictures* (previously called *empty.photos*) I created a web crawler that visits random URLs and whenever it hits an image that did not load correctly it gets stored into a database. I collected thousands of broken image links together with their metadata that sometimes describes the image.[^43]
+I present the viewer with a collage of randomly placed image rectangles on a blank white website. A visitor can pan around in all directions finding the default rendering of their web browers for broken images, often showcasing a ripped paper icon on the top left corner. When hovering over one of the boxes the original url is shown on the bottom left corner of the page and whenever it existed the alt-tag pops up next to the cursor.
+These images from thousands of blogs, shops and forums show the forgotten and neglected part of the internet. It invites for the imagination about the internet that is not getting maintained and reveals an even bigger source of data that does not exist anymore.
+When looking at this through the lense of weighted networks and training data, we have to ask the question what these models are actually learning when so many things get missing on the net every day. On the other hand the models themselves become a blurry snapshot of the things they were able to gather, but might not exist in the future.
+
+![empty.photos exhibited at Best Off 2019](emptyphotos-IMG_2261-HDR%201.jpg)
+
 ## doggg.art
 
-Doggg.art is an exercise in _scrapism_ where I downloaded and transformed content from the social media giant instagram. Instagram has become the biggest tool for artists to find an audience and a community. Every possible niche can be found through the use hashtags like #dogart that collects drawings, photographs of personal and commercial dog related imagery. With around a million posts it is only one example for the immense creative output on the image platform. Facebook, the mother company of instagram, owns an abundant amount of image data which they analyze and use to optimize computational models. By posting on the platform a user "grant[s] a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of [their] content".[^44]
-I would describe doggg.art as a generative big dada collage consisting of over 30k images from Instagram tagged with #dogart. The images were processed using a machine learning algorithm called U^2-Net, which removed the background and other elements from the pictures. A website then randomly places the cutouts on a beige background slowly fading them in, creating an ever changing digital dog meadow. I see it as a collaborative work that combines pieces by 38326 artists together credited on a seperate page with all their unique usernames.[^43]
+In 2020 I created doggg.art, an exercise in _scrapism_ where I downloaded and transformed content from the social media giant instagram. Instagram has become the biggest tool for artists to find an audience and a community. Every possible niche can be found through the use hashtags like #dogart that collects drawings, photographs of personal and commercial dog related imagery. With around a million posts it is only one example for the immense creative output on the image platform. Facebook, the mother company of instagram, owns an abundant amount of image data which they analyze and use to optimize computational models. By posting on the platform a user "grant[s] a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of [their] content".[^44]
+I would describe doggg.art as a generative big dada collage consisting of over 30k images from Instagram tagged with #dogart. The images were processed using a machine learning algorithm called U^2-Net, which removed the background and other elements from the pictures. A website then randomly places the cutouts on a beige background slowly fading them in, creating an ever changing digital dog meadow. I see it as a collaborative work that combines pieces by 38326 artists together credited on a seperate page with all their unique usernames.[^45]
 The artwork was intended as a screensaver that reflects on on the aesthetics of the platform instagram and how our relationship with pets extends into this online network.
 
 ![doggg.art exhibited at Die Digitale Düsseldorf exhibition “Digital Jokes”](doggg.art%20Digitale.jpeg)
 
 ![A visitor looking through the names of dog artists](doggg.art%20Digitale%202.jpeg)
 
-## hidden
+## A study on the Characteristics of Douyin / Meanwhile in China
 
+Working with and about social networks has been a big part in my artistic work. In 2019 I was invited by UNESCO to participate in a residency in the city of Changsha, the capital of the Hunan region and “City of Media Arts” in central China. While I was there I tried to make sense of the information landscape around me and got hooked to the chinese clone of TikTok. 
+Douyin 抖音 became one of the most successful apps worldwide as the leading platform for creating and sharing short videos. Created by the Beijing based company Bytedance, it is one of the few Apps that got successful outside of the great firewall. To comply with chinese law Douyin is a completely separate App from TikTok. Even though the interface and logo looks the same, the content is completely different, not accessible from the international version.
+I asked S()fia Braga to join me as a collaborator, inspired by the work of *I stalk myself more than I should* where she captures Instagram stories, a feature designed to expose a video for a limited duration of 24 hours, and reappropriates them in a video installation. 
+The aim of our work was to explore and analyze the vast digital ecosystem of Douyin from different perspectives, using their recommendation algorithm to lead us to different aspects of chinese social media. Using screen recordings to capture hours of video footage of us scrolling through our feeds. These found images are then decontextualized without alteration to give visitors the space to reflect upon them, gain insight into a walled off platform and into the algorithms designed for user engagement.  
+We made two video installation, running an 8 hours of captured material, showing people dancing next to chinese police forces schowcasing their equipment. Sometimes we would show the blank interface showing blank search results. Search terms like Donald Trump result in videos that do not show the american president them self, indicating facial recognition being used for censorship.
+Additionally to the unaltered screen captured we created non-nonsensical graphs that invoke the feeling that the content is used for statistical analysis. The title *A study on the characteristics of Douyin* was taken from a sociological paper and gives the veneer of scientific legitimacy to the non-consensual stalking of capturing of our practice. In another exhibition at the Ars Electronica Festival in Linz the titled was changed to *Meanwhile in China* and the wall behind the video screen was covered with a collage of graphs and datapoints found online showcasing the exploding growth and user distribution on the platform. However the graphs themselves are stripped of any labeling, making them unreadable and useless as visualization.
+
+![A Study on the Characteristics of Douyin at Xie Zielong Photography Museum in Changsha](IMG_1853.jpg)
+
+![Meanwhile In China at Ars Electronica 2019](meanwhile_landscape.jpg)
 
 [^1]: [@rosenblattPerceptronProbabilisticModel1958]
 [^2]: The Mark I was a electromechanical machine that used motor driven potentiometers to adjust the variable weights.
@@ -130,5 +146,6 @@ The artwork was intended as a screensaver that reflects on on the aesthetics of 
 [^40]: [@lavigneScrapism]
 [^41]: [@lavigneNewYorkApartment]
 [^42]: [@samlavigne[@sam_lavigne]JustDiscoveredOpen2020]
-[^43]: Complete list of artists can be found here https://doggg.art/artistlist.html
+[^43]: See [@schaferMissingPictures]
 [^44]: See [@NutzungsbedingungenInstagramHilfebereich]
+[^45]: Complete list of artists can be found here https://doggg.art/artistlist.html
