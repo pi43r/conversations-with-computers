@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "instagram",
+                "query": "ELIZA",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/03_Piles-of-Data.md",
+                "file": "Chapters/04_Stochastic-Meaning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,12 +145,17 @@
   },
   "active": "e021da7db74e10bd",
   "lastOpenFiles": [
-    "Presentations/February 23.md",
-    "Chapters/03_Piles-of-Data.md",
-    "textgenerator/prompts/default/rewrite.md",
+    "Chapters/05_endoftext.md",
     "Chapters/04_Stochastic-Meaning.md",
-    "Chapters/01_Co-Intelligence.md",
+    "Chapters/03_Piles-of-Data.md",
+    "Chapters/00_Hello-World.md",
     "Chapters/02_Talking-to-Computers.md",
+    "Chapters/01_Co-Intelligence.md",
+    "Images/Recommended Hashtags 1.jpg",
+    "Images/Recommended Hashtags 0.jpg",
+    "Images/more of the same.png",
+    "textgenerator/prompts/default/rewrite.md",
+    "Presentations/February 23.md",
     "Images/IMG_1853.jpg",
     "Images/meanwhile_landscape.jpg",
     "Images/emptyphotos-IMG_2261-HDR 1.jpg",
@@ -169,13 +173,8 @@
     "textgenerator/prompts/default/getEmailPos.md",
     "textgenerator/prompts/default/getEmailNeg.md",
     "Images/Screen Shot 2023-03-15 at 20.50.49.png",
-    "Images/Screen Shot 2023-03-15 at 20.54.49.png",
-    "Images/Fig3.png",
-    "Images/Fig2.png",
-    "Chapters/00_Hello-World.md",
     "output/cwc.md",
     "Presentations/December.md",
-    "Chapters/05_endoftext.md",
     "Chapters/06_Addendum.md"
   ]
 }

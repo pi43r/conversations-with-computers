@@ -11,4 +11,4 @@ PromptInfo:
 content: 
 {{context}}
 prompt:
-paraphrase the content for coherency
+check and rewrite the content for coherency
