@@ -18,14 +18,14 @@
 	- Conversational Agents
 	- Leewa
 
-03_Piles of Data (noch nicht angefangen)
+03_Piles of Data (Lectoring)
 	- Webscraping
 	- Informed Consent
 	- The case of This Person Does Exist
 	- 11k Hands
-	- empty.photos
 	- scrapism: 
 		- doggg.art
+		- empty.photos
 		- A study on the Characteristics of Douyin
 		- Recommended Hashtags & More of the same
 
