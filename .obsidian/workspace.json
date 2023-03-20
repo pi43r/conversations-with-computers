@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ELIZA",
+                "query": "We",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
