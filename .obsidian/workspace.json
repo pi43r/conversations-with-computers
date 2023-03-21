@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/04_Stochastic-Meaning.md",
+                "file": "Chapters/00_Hello-World.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Chapters/01_Co-Intelligence.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tay",
+                "query": "%20",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/04_Stochastic-Meaning.md",
+                "file": "Chapters/03_Piles-of-Data.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,15 +180,24 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b7e141e6d2105a9d",
+  "active": "e021da7db74e10bd",
   "lastOpenFiles": [
-    "Chapters/02_Talking-to-Computers.md",
-    "Chapters/04_Stochastic-Meaning.md",
-    "Notes/weizenbaum.md",
-    "Chapters/05_endoftext.md",
-    "Chapters/03_Piles-of-Data.md",
     "Chapters/01_Co-Intelligence.md",
+    "Images/13CampingwithComputers.jpg",
+    "Notes/weizenbaum.md",
+    "Images/13 Camping with Computers.png",
+    "Images/13 Camping with Computers.jpg",
+    "Images/13 Camping with Computers_original.jpg",
+    "Images/13 Camping with Computers_new.jpg",
+    "skipbrokenimg.py",
+    "Chapters/02_Talking-to-Computers.md",
     "Chapters/00_Hello-World.md",
+    "output/all-cwc.pdf",
+    "Chapters/04_Stochastic-Meaning.md",
+    "Chapters/03_Piles-of-Data.md",
+    "output/all.html",
+    "all.html",
+    "Chapters/05_endoftext.md",
     "Images/Recommended Hashtags 1.jpg",
     "Images/Recommended Hashtags 0.jpg",
     "Images/more of the same.png",
@@ -194,10 +205,6 @@
     "Presentations/February 23.md",
     "Images/IMG_1853.jpg",
     "Images/meanwhile_landscape.jpg",
-    "Images/emptyphotos-IMG_2261-HDR 1.jpg",
-    "Images/doggg.art Digitale 2.jpeg",
-    "Images/doggg.art Digitale.jpeg",
-    "Images/lavigne_zuck-cut.jpg",
     "textgenerator/prompts/default/rewrite 1.md",
     "textgenerator/prompts/default/getOutline.md",
     "textgenerator/prompts/default/getIdeas.md",
@@ -208,7 +215,6 @@
     "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default/getEmailPos.md",
     "textgenerator/prompts/default/getEmailNeg.md",
-    "Images/Screen Shot 2023-03-15 at 20.50.49.png",
     "output/cwc.md",
     "Presentations/December.md",
     "Chapters/06_Addendum.md"

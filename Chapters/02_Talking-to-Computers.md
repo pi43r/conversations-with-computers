@@ -125,11 +125,11 @@ In my opinion the example of *Leewa* illustrates the collective efforts that go 
 
 [^10]: The robot puppy was featured on the TIME magazine cover with the title “Tech comes to Toyland”. Link: http://content.time.com/time/covers/europe/0,16641,20001211,00.html
 
-[^11]: | @shipmanAnimalConnectionHuman2010 
+[^11]: @shipmanAnimalConnectionHuman2010 
 
 [^12]: Sean Riddle requested the Furby source code from the US patent office and uploaded it on his webpage. Link: http://www.seanriddle.com/furbysource.pdf 
 
-[^13]: | @lukoseTextSpeechSynthesizerFormant2017
+[^13]: @lukoseTextSpeechSynthesizerFormant2017
 
 [^14]: To make the demo work, engineers had to use a prototype Mac that was more powerful than the retail version. It said: “Hello, I am Macintosh. It sure is great to get out of that bag!  Unaccustomed as I am to public speaking, I'd like to share with you a maxim I thought of the first time I met an IBM mainframe: Never trust a computer that you can't lift!  Obviously, I can talk, but right now I'd like to sit back and listen. So it is with considerable pride that I introduce a man who has been like a father to me... Steve Jobs!”. Link: https://www.folklore.org/StoryView.py?project=Macintosh&story=Intro_Demo.txt
 
@@ -137,13 +137,13 @@ In my opinion the example of *Leewa* illustrates the collective efforts that go 
 
 [^16]:  Interview by the Guardian with multiple voice actors for Siri. Link: https://www.theguardian.com/technology/2015/aug/12/siri-real-voices-apple-ios-assistant-jon-briggs-susan-bennett-karen-jacobsen
 
-[^17]:| @oordWaveNetGenerativeModel2016
+[^17]: @oordWaveNetGenerativeModel2016
 
 [^18]: Lyrebird changed their name to Descript. Link: https://www.descript.com/
 
-[^19]: | @PoliticiansDiscussingLyrebird
+[^19]:  @PoliticiansDiscussingLyrebird
 
-[^20]: Apparently fraudsters were able to use a synthetic voice to instruct a bank transfer of 220.000€. [@stuppFraudstersUsedAI2019]
+[^20]: Apparently fraudsters were able to use a synthetic voice to instruct a bank transfer of 220.000€. @stuppFraudstersUsedAI2019
 
 [^21]: In 2019 an app with the name DeepNude got public attention due to a Vice article and was taken down by the author shortly after. @coleThisHorrifyingApp2019
 

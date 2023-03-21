@@ -1,4 +1,5 @@
 \tableofcontents
+
 # Hello, World!
 
 The common first letters a programmer types into its digital computing machine is some form of ‘hello world’ along with braces, punctuation and words that the machine should interpret. In my favorite language JavaScript it can look as simple as this `console.log("Hello, World!")`.  After executing this short string of text in the browser, the computer will set of a series of events and likewise respond with ‘Hello, World!’ in the developer console.
@@ -71,7 +72,7 @@ I structured this thesis around 4 chapters, which combine historical, computatio
 
 [^13]: Referring to typical AI stock images. Alternative imagery is currently built by betterimagesofai.org. See: [@BetterImagesAI]
 
-[^14]: Twitter post by Francis Hunger. See: [@francishunger[@databaseculture]ArtificialIntelligenceAutomated2021]
+[^14]: Twitter post by Francis Hunger. See: [@francishungerArtificialIntelligenceAutomated2021]
 
 [^15]: Unhype AI. See: [@hungerTalkUnhypeAI2021]
 

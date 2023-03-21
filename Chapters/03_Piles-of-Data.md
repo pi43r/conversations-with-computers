@@ -166,7 +166,7 @@ In the end I wrote a small program that uploaded and posted a new generated imag
 [^40]: [@lavigneScrapism]
 [^41]: See [@XTRAMarkHansen] and [@ArsElectronicaArchiv]
 [^42]: [@lavigneNewYorkApartment]
-[^43]: [@samlavigne[@sam_lavigne]JustDiscoveredOpen2020]
+[^43]: [@samlavigneJustDiscoveredOpen2020]
 [^44]: See [@schaferMissingPictures]
 [^45]: See [@NutzungsbedingungenInstagramHilfebereich]
 [^46]: Complete list of artists can be found here https://doggg.art/artistlist.html

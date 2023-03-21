@@ -145,7 +145,7 @@ I worked on the visual identity and was inspired by the design of an old compute
 
 ![Canon Cat with extracted colors | 300](20211004_171321.jpg)
 
-![Example of a Poster | 300](13%20Camping%20with%20Computers.jpg)
+![Example of a Poster | 300](13CampingwithComputers.jpg)
 
 The connection between online and offline was most notable in the work of So Kanno with the title *Crawler*. It was a continuation of the remotely controlled toy robot, he developed during the camp and a body of work he calls *Avatars*[^16]. This time he modified an Apple Macbook, so that it can be controlled from the internet. On a custom laptop stand he attached wheels, so that a visitor to the website could roll around the exhibition space. Additionally the user interface was heavily customized, using notifications, web browsers and two separate webcams with face tracking to cover the faces of our visitors. 
 The *Crawler*  functioned as an autonomous object inside of the gallery space and could be seen as ‘an AI’ for video surveillance, because the actual people who control the device are hidden inside of this gray box. With this, it resembles the faux AI practice by the Colombian-owned startup Kiwi Campus, which builds a ‘self-driving’ delivery robot for US Universities. The Kiwibot is first filled by a regular delivery driver on a bicycle and then slowly rolls a few hundred meters to its destination under supervision of a human operator.[^17]
