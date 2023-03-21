@@ -58,7 +58,7 @@ This scripted denial of a capitalist logic ironically uses the same technique as
 
 The tedious process of mapping out all questions and creating answers for them is mostly done through creative writing, but also utilizes careful statistical analysis of the questions users send to the cloud.
 
-It is interesting how the term AI is used in the context of voice computer interfaces, because there is nothing “smart” about it, just a winding flowchart of if-else conditions. What might be clever is the nefarious way of how companies trick people into the belief of computer personalities, encouraging people to interact with the device like children playing with dolls. And when a company like Microsoft has experimented with a more sophisticated chatbot, like Tay[^40], it started to repeat the racist and misogynistic slurs of twitter users and consequently has to be heavily filtered. But more on this in a later chapter on stochastic text generation.
+It is interesting how the term AI is used in the context of voice computer interfaces, because there is nothing “smart” about it, just a winding flowchart of if-else conditions. What might be clever is the nefarious way of how companies trick people into the belief of computer personalities, encouraging people to interact with the device like children playing with dolls. And when a company like Microsoft has experimented with a more sophisticated chatbot, like Tay[^40], it started to repeat the racist and misogynistic slurs of twitter users and consequently has to be heavily filtered.
 
 ## Leewa
 
@@ -182,7 +182,7 @@ In my opinion the example of *Leewa* illustrates the collective efforts that go 
 
 [^39]: | @vlahosTalkMeAmazon2020 p.117
 
-[^40]: Tay was the name of a chat bot Microsoft intended to have a teenage personality and could be interacted with over multiple channels. Twitter trolls co-opted the bot with sexist, racist and antisemitic questions that the bot replied to with generic answers. They also made use of a repeat-after-me phrase to make it look like the bot is spewing hateful comments itself. After only 16 hours Microsoft deleted all accounts and the PR disaster was immense, with headlines happily personifying the AI that has learned to be racist. But no continuous learning algorithm was involved. Link to a blog post by Russel Cameron Thomas explaining the technology stack behind Tay:[ https://exploringpossibilityspace.blogspot.com/2016/03/microsoft-tayfail-smoking-gun-alice.html](https://exploringpossibilityspace.blogspot.com/2016/03/microsoft-tayfail-smoking-gun-alice.html)
+[^40]: Tay was the name of a chat bot Microsoft intended to have a teenage personality and could be interacted with over multiple channels. Twitter trolls co-opted the bot with sexist, racist and antisemitic questions that the bot replied to with generic answers. They also made use of a repeat-after-me phrase to make it look like the bot is spewing hateful comments itself. After only 16 hours Microsoft deleted all accounts and the PR disaster was immense, with headlines happily personifying the AI that has learned to be racist. But no continuous learning algorithm was involved. Link to a blog post by Russel Cameron Thomas explaining the technology stack behind Tay. [@ExploringPossibilitySpace]
 
 [^41]: | @GENDERDIVERSITYGastvortrag
 

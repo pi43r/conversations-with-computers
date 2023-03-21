@@ -78,9 +78,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fb843ae9f7083b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/02_Talking-to-Computers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tem",
+                "query": "Tay",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/weizenbaum.md",
+                "file": "Chapters/04_Stochastic-Meaning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,15 +178,15 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "17fe266ca4d9a0a1",
+  "active": "b7e141e6d2105a9d",
   "lastOpenFiles": [
+    "Chapters/02_Talking-to-Computers.md",
     "Chapters/04_Stochastic-Meaning.md",
     "Notes/weizenbaum.md",
     "Chapters/05_endoftext.md",
     "Chapters/03_Piles-of-Data.md",
     "Chapters/01_Co-Intelligence.md",
     "Chapters/00_Hello-World.md",
-    "Chapters/02_Talking-to-Computers.md",
     "Images/Recommended Hashtags 1.jpg",
     "Images/Recommended Hashtags 0.jpg",
     "Images/more of the same.png",
