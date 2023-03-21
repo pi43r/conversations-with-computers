@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "17fe266ca4d9a0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/weizenbaum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c9b74fccc0e63d9e",
             "type": "leaf",
             "state": {
@@ -54,8 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1bb9c5588aeb40d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/01_Co-Intelligence.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "We",
+                "query": "Tem",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +118,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/04_Stochastic-Meaning.md",
+                "file": "Notes/weizenbaum.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,14 +167,15 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e021da7db74e10bd",
+  "active": "17fe266ca4d9a0a1",
   "lastOpenFiles": [
-    "Chapters/05_endoftext.md",
     "Chapters/04_Stochastic-Meaning.md",
+    "Notes/weizenbaum.md",
+    "Chapters/05_endoftext.md",
     "Chapters/03_Piles-of-Data.md",
+    "Chapters/01_Co-Intelligence.md",
     "Chapters/00_Hello-World.md",
     "Chapters/02_Talking-to-Computers.md",
-    "Chapters/01_Co-Intelligence.md",
     "Images/Recommended Hashtags 1.jpg",
     "Images/Recommended Hashtags 0.jpg",
     "Images/more of the same.png",
