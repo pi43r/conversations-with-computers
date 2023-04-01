@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "%20",
+                "query": "Turing",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,7 +168,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4bccd895dc8046ad",
+  "active": "e021da7db74e10bd",
   "lastOpenFiles": [
     "Chapters/03_Piles-of-Data.md",
     "Chapters/01_Co-Intelligence.md",
