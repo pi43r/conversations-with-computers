@@ -20,7 +20,7 @@ Considering that gender is a social construct and not necessarily a binary choic
 Another aspect of the dataset stood out to me when I started to look through the images. These were not pictures in the traditional sense, their aesthetical value did not matter as they are simply a tool to to accomplish a task. They are not made ‘to look at’ instead these images of hands are produced for a computer to analyze. Harun Faroki called these types of images ‘operative’ in his three-part series *Machine/Eye* where he examined how military technologies like guided weapons produce images that serve only the utility of the machine. As Aud Sissel Hoel puts it: “operative images are devoid of social intent, that they are not meant for edification, and nor for contemplation.” [^13]
 But what happens when you contemplate on the hand dataset was remarkable to me. When I looked through the images quick enough I could not only see the motion of the test subject as the images were selected frames from a video, but I also started to imagine the person behind the hand and apply my own stereotypes and biases that far expanded the labels of the dataset. I could easily imagine the scene around the camera with a couple researchers who assembled a make-shift photo studio in the office of their lab. They greet the subject with a handshake, which is probably a fellow student, and explain the procedure quickly to get them to sign the paper that their anonymized personal data will be published for scientific research. Then the person puts both their hands under the camera spread their fingers and leave. 
 This dichotomy between the label and my own narrative inspired me to create a video piece featuring the unaltered dataset. I used the default mac computer speech synthesis to read out the labels corresponding to each hand, and sped it up to fit into a 26-minute-long video. As viewers witness the participants holding their hands into the camera and spreading their fingers, they are met with a monotone, beat-like soundtrack of repeating words like “fair” and “medium” and occasionally “nail polish”.[^14]
-![Example of a frame from 11k hands](Matthias%20Schäfer%20-%2011k%20hands%20[snJsKFxPlJ8%20-%20892x669%20-%203m35s].png)
+![Example of a frame from 11k hands](11khands.png)
 
 At the 36th Chaos Communication Congress I organized a workshop called “Palm Reading AI” where I invited visitors to read the hands of people from the 11k hands dataset. At first I only introduced them to palmistry using wikihow as a reference.[^15] Then I handed out some prints where a random hand from the dataset was depicted and participants had to fill in a couple of questions. Some questions were short guesses like age, gender, country of origin, for some other they had to come up with fictional stories with only the hand lines as a reference: what is the persons future? How was their childhood? How is their love life?
 After they filled in the form some people shared their stories and then I revealed where these hands came from and how computer scientists are using them to create models that try to predict their gender. Afterwards we had a discussion about the practice of creating large datasets and their ethical considerations. I had a longer talk with one participant that did not want to guess the age or gender of that person and I had told them that this was exactly the point of the workshop: to reflect on our own biases and stereotypes and how they translate into science.
@@ -46,7 +46,7 @@ To conclude the three common issues with CC licensed media is that they are not 
 A dataset using Creative Commons images that I examined more closely was *Flickr Faces HQ (FFHQ)*. In 2018 the research lab of Nvidia, one of the leading companies for visual computing, published a paper introducing a machine learning architecture called StyleGAN.[^33] They improved on generative adversarial networks (GAN) in such a way that it was possible to create controllable synthetic high-resolution images. In simple terms the system is able to abstract large amounts of images with a model that in turn outputs similar-looking pictures. In this case the model is able to generate realistic-looking photographs of human faces. 
 In comparison to other datasets *FFHQ* is fairly small with only 70,000 images. As existing datasets were too low in resolution a new corpus was created by scraping Creative Commons, Public Domain or U.S. Government Works licensed images through Flickr’s API. The dataset itself is published under a CC-BY-NC-SA license and the instructions for use and download are very clear, making it manageable for me in terms of size and effort to discover the underlying characteristics. The dataset consists only of photographic images as it was checked by Amazon Mechanical Turk workers to make sure that statues, paintings, or photos of photos were removed. Using the open-source library dlib, the raw images were automatically aligned and cropped around the face to create a uniform square ratio of 1024px. This library also identifies 68 points outlining the chin, eyebrows, eyes, nose and mouth which are included in the metadata. So the final dataset used for training the GAN consists of a multitude of faces whe the eye and mouth positions are always in the same spot.
 
-![Screenshot of This Person Does Exist](Screen%20Shot%202023-03-15%20at%2020.50.49.png)
+![Screenshot of This Person Does Exist](Screen_Shot_2023-03-15_at_20.50.49.png)
 
 One year after Nvidia released its StyleGAN paper the software developer Phillip Wang published the website *thispersondoesnotexist.com* which shows the capabilities of the generative model to create realistic looking photographs of people.[^34] The site quickly took off and alarmed people about potential impact of AI systems in generating cheap synthetic media.  
 As a counter-narrative to the AI image creator, I wanted to showcase the people who were used to train this system. In 2020 I moved the cropped and aligned face images to my server and built my own website with the name *this-person-does-exist.com* which displays the faces from the training set alongside their metadata.[^35] Looking at the individuals faces facilitates an interpersonal connection with the unknown person and evokes a feeling for the images that were used to train the generative model. At the same time it shows the creepy and strange practice of AI researchers using personal images as raw data.
@@ -80,7 +80,7 @@ I present the viewer with a collage of randomly placed image rectangles on a bla
 These images from thousands of blogs, shops and forums show the forgotten and neglected part of the internet. It invites for the imagination about the internet that is not getting maintained and reveals an even bigger source of data that does not exist anymore.
 When looking at this through the lense of weighted networks and training data, we have to ask the question what these models are actually learning when so many things get missing on the net every day. On the other hand the models themselves become a blurry snapshot of the things they were able to gather, but might not exist in the future.
 
-![empty.photos exhibited at Best Off 2019](emptyphotos-IMG_2261-HDR%201.jpg)
+![empty.photos exhibited at Best Off 2019](emptyphotos-IMG_2261-HDR_1.jpg)
 
 ## doggg.art
 
@@ -88,9 +88,9 @@ In 2020 I created doggg.art, an exercise in _scrapism_ where I downloaded and tr
 I would describe doggg.art as a generative big dada collage consisting of over 30k images from Instagram tagged with #dogart. The images were processed using a machine learning algorithm called U^2-Net, which removed the background and other elements from the pictures. A website then randomly places the cutouts on a beige background slowly fading them in, creating an ever changing digital dog meadow. I see it as a collaborative work that combines pieces by 38326 artists together credited on a seperate page with all their unique usernames.[^46]
 The artwork was intended as a screensaver that reflects on on the aesthetics of the platform Instagram and how our relationship with pets extends into this online network.
 
-![doggg.art exhibited at Die Digitale Düsseldorf exhibition “Digital Jokes”](doggg.art%20Digitale.jpeg)
+![doggg.art exhibited at Die Digitale Düsseldorf exhibition “Digital Jokes”](doggg.art_Digitale.jpeg)
 
-![A visitor looking through the names of dog artists](doggg.art%20Digitale%202.jpeg)
+![A visitor looking through the names of dog artists](doggg.art_Digitale_2.jpeg)
 
 ## A study on the Characteristics of Douyin / Meanwhile in China
 
@@ -116,10 +116,10 @@ In the following year 2021 I started a new performance titled *more of the same*
 In the end I wrote a small program that uploaded and posted a new generated image with the caption “more of the same” for 100 days. 
 
 
-![Screenshot of more of the same | 200](more%20of%20the%20same.png)
+![Screenshot of more of the same | 200](more_of_the_same.png)
 
-![Book cover of Recommended Hashtags | 200](Recommended%20Hashtags%200.jpg)
-![First page of Recommended Hashtags | 200](Recommended%20Hashtags%201.jpg)
+![Book cover of Recommended Hashtags | 200](Recommended_Hashtags_0.jpg)
+![First page of Recommended Hashtags | 200](Recommended_Hashtags_1.jpg)
 
 
 
