@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Turing",
+                "query": "parrot",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,16 +168,16 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e021da7db74e10bd",
+  "active": "4bccd895dc8046ad",
   "lastOpenFiles": [
-    "Chapters/03_Piles-of-Data.md",
     "Chapters/01_Co-Intelligence.md",
+    "Chapters/04_Stochastic-Meaning.md",
+    "Chapters/03_Piles-of-Data.md",
     "Chapters/02_Talking-to-Computers.md",
     "Presentations/February 23.md",
     "Notes/weizenbaum.md",
     "textgenerator/prompts/default/rewrite.md",
     "Chapters/05_endoftext.md",
-    "Chapters/04_Stochastic-Meaning.md",
     "Chapters/06_Addendum.md",
     "output/small_cwc-pre.pdf",
     "output/compressed_cwc.pdf",

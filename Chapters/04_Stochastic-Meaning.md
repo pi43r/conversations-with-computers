@@ -48,9 +48,20 @@ One of the major advantages of transformers is their ability to handle long sequ
 Using only the self-attention mechanism also means that the process is highly parallelizable as each step can calculate all tokens and their context simultaneously, rather than sequentially calculating each token. This also means that the context window that these systems can attend to is pre-defined during the conditioning phase and is generally limited by the amount of GPU memory available.
 Conditioning the system described in the paper on 36 million English and French sentence pairs took 3.5 days on 8 GPUs. This was considered fast in 2017 compared to alternative RNN and CNN based models. So both, the ability to weigh in long contexts of sequential data and efficiently train on high-end graphics cards made the Transformer architecture interesting for many applications, from translation, to text generation and even image generation. 
 
-## Too dangerous to be released
+## Too Dangerous To Release
 
-What Transformers are capable appears to scale with the amount of input data. It seemed that the more data you use the better the system generalizes on a given task and the more robust the output becomes. Testing the limits of this, the company OpenAI 
+What Transformers are capable of appears to scale with the amount of input data. It seems that the more data you use the better the system generalizes on a given task and the better the output becomes. Testing the limits of this theory the non-profit research company OpenAI[^7] created GPT in 2018, which only uses the decoder network of the Transformer architecture which makes it possible to use ‘unsupervised’ (not labeled) text data as a source. The first dataset was an open book corpus of ~7000 unreleased fiction novels with a size of 4.5GB.[^8]
+In February 2019 attention turned towards OpenAI for withholding the release of their newest iteration GPT-2 which is 10 times larger than the first version.[^9] This was unprecedented as the standard for the AI research community was to open source the training data, models and source code, so that other researchers can reproduce the results, find biases and fail cases of the program. The Guardian titled “New AI fake text generator may be too dangerous to release, say creators”[^10] which sparked the imagination of rogue AI robots of the general public, creating both fear and fascination and a heated debate about the societal impact of Large Language Models (LLMs) on society. Conveniently it also created a lot of free PR for OpenAI (now closed?) who saw this experiment in releasing their models successively as a case study for even more powerful models in the future.
+
+The capabilities of GPT-2 were indeed novel and impressive, as the system can generate text which is both syntactically correct and (mostly) coherent in the output it produces. Most notably, the largest Model with 1.5 billion parameters is large enough that it can be used for many different tasks like question answering, reading comprehension, summarization, and translation without the need to for specific labeled training data. By simply typing a few examples for how you want the system to behave, it can complete the rest with plausible results in both style and subject.
+As the system is conditioned on 40GB of text scraped from the internet by downloading outgoing links from reddit which received at least 3 upvotes from other users, it is especially good in creating news-like output. Which also makes it into a tool specifically suited to easily create fake news and spam, which is where the concern of OpenAI mainly lies. The potential for misuse of such a powerful language model is high, and can have serious consequences on society as a whole if they do not know that such tools even exist.
+
+Soon after the announcement the open source community started to rebuild the system based on the previous paper and released OpenGPT-2 in August 2019, conditioned on a similar dataset.[^11] However, building such a system is incredibly cost intensive using a large amount of computing power for weeks and months. 
+OpenAI released their own larger models with the remark that they did not see a strong evidence of misuse. For their newer generations GPT-3 and further, the company became even more secretive about their model architecture and training data, only giving access to their models through a developer API. One reason is that the models became so huge that that just running them for inference needs a large computing cluster. 
+
+## Stochastic Parrots
+
+
 
 
 - Prayers to GPT
@@ -63,3 +74,8 @@ What Transformers are capable appears to scale with the amount of input data. It
 [^4]: See @JabberwackyThoughtsArtificial2006 & @Cleverbot
 [^5]: @jacobSoftwareTricksPeople
 [^6]: [@vaswaniAttentionAllYou2017]
+[^7]: OpenAI has since created a capped profit subsidiary based on investements by large corporations such as Microsoft.
+[^8]: See @bandyAddressingDocumentationDebt
+[^9]: @openaiBetterLanguageModels
+[^10]: @hernNewAIFake2019
+[^11]: @cohenOpenGPT2WeReplicated2019
