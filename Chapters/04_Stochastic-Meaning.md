@@ -57,9 +57,18 @@ The capabilities of GPT-2 were indeed novel and impressive, as the system can ge
 As the system is conditioned on 40GB of text scraped from the internet by downloading outgoing links from reddit which received at least 3 upvotes from other users, it is especially good in creating news-like output. Which also makes it into a tool specifically suited to easily create fake news and spam, which is where the concern of OpenAI mainly lies. The potential for misuse of such a powerful language model is high, and can have serious consequences on society as a whole if they do not know that such tools even exist.
 
 Soon after the announcement the open source community started to rebuild the system based on the previous paper and released OpenGPT-2 in August 2019, conditioned on a similar dataset.[^11] However, building such a system is incredibly cost intensive using a large amount of computing power for weeks and months. 
-OpenAI released their own larger models with the remark that they did not see a strong evidence of misuse. For their newer generations GPT-3 and further, the company became even more secretive about their model architecture and training data, only giving access to their models through a developer API.[^12] One reason they provided is the need for a large computing cluster, only available to larger institutions, just to run inference on these truly Large Language Models which again saw a size increase by orders of magnitude in terms of parameters.[^13]
+OpenAI released their own larger models with the remark that they did not see a strong evidence of misuse. For their newer generations GPT-3 and further, the company became even more secretive about their model architecture and training data, only giving access to their models through a developer API.[^12] One reason they provided is the need for a computing clusters, only available to larger institutions and corporations, just to run inference on these very large language models which again saw a size increase by orders of magnitude in terms of parameters.[^13]
 
 ## Stochastic Parrots
+
+In late 2020 the AI ethics researcher Timnit Gebru was fired from Google over concerns of a yet unreleased paper she co-authored with other researchers from the company and the external computational linguist Emily M. Bender.[^14] The paper discussed the potential harms of large language models, including their environmental impact, the biases they can perpetuate, and the power dynamics created by their ownership and control. It does not address Google or other companies developing ever larger transformers directly, but it does raise concerns about where attention and money is directed to in the field of NLP and tries to give possible alternatives creating a more thoughtful approach of creating language models that consider marginalized people.[^15]
+
+As the name implies large language rely on a massive amount of data collected from internet resources, which comes with the caveat that texts available on the internet do not equally represent all parts of society equally. Languages from the global south are often underrepresented, and user generated text in places like reddit or wikipedia are disproportionately written by young male authors which leads to inherent biases in the language models developed using this data. These biases can not simply be filtered by automated classifiers as the training data grows and a larger training set does not equal more diverse data.
+Additionally, the compute necessary to condition such large language models emits an enormous amount of carbon emissions, further amplifying climate change, which affects marginalized communities much harder.  
+
+Gebru's firing sparked a wave of criticism and concern from the AI research community, with many calling for greater transparency and accountability from tech companies developing and deploying AI systems. The incident also highlighted broader concerns about the lack of diversity and inclusion in the field of AI, particularly in terms of race and gender.
+
+
 
 
 
@@ -81,3 +90,5 @@ OpenAI released their own larger models with the remark that they did not see a 
 [^11]: @cohenOpenGPT2WeReplicated2019
 [^12]: @OpenAIAPI
 [^13]: @OpenAIGPT3Language2020
+[^14]: @simonitePaperThatLed
+[^15]: @benderDangersStochasticParrots2021
