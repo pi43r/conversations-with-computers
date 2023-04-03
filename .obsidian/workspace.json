@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parrot",
+                "query": "name implies",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4bccd895dc8046ad",
+  "active": "e021da7db74e10bd",
   "lastOpenFiles": [
     "Chapters/01_Co-Intelligence.md",
     "Chapters/04_Stochastic-Meaning.md",
