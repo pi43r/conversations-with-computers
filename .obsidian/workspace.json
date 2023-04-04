@@ -6,6 +6,7 @@
       {
         "id": "fb25724d320cbcaf",
         "type": "tabs",
+        "dimension": 67.1334431630972,
         "children": [
           {
             "id": "b7e141e6d2105a9d",
@@ -13,38 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/05_endoftext.md",
+                "file": "Chapters/04_Stochastic-Meaning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "17fe266ca4d9a0a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/weizenbaum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45ad91e532e3f80b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentations/February 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bccd895dc8046ad",
+            "id": "074cf90a1c4e3efc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +56,26 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "9bc224388096bf72",
+        "type": "tabs",
+        "dimension": 32.8665568369028,
+        "children": [
+          {
+            "id": "74e8197813acecc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chiro Giaco.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/00_Hello-World.md",
+                "file": "Chapters/04_Stochastic-Meaning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,21 +162,24 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4bccd895dc8046ad",
+  "active": "b7e141e6d2105a9d",
   "lastOpenFiles": [
+    "Notes/Chiro Giaco.md",
     "Chapters/04_Stochastic-Meaning.md",
+    "Chapters/00_Hello-World.md",
+    "Chapters/05_endoftext.md",
+    "Notes/weizenbaum.md",
+    "Presentations/February 23.md",
+    "chicago-fullnote-bibliography-with-ibid.csl",
+    "Notes/@wangDefiningArtificialIntelligence2019.md",
     "Chapters/01_Co-Intelligence.md",
     "Chapters/03_Piles-of-Data.md",
     "Chapters/02_Talking-to-Computers.md",
-    "Presentations/February 23.md",
-    "Notes/weizenbaum.md",
     "textgenerator/prompts/default/rewrite.md",
-    "Chapters/05_endoftext.md",
     "Chapters/06_Addendum.md",
     "output/small_cwc-pre.pdf",
     "output/compressed_cwc.pdf",
     "output/pre-cwc.pdf",
-    "Chapters/00_Hello-World.md",
     "output/all-cwc.html",
     "Images/emptyphotos-IMG_2261-HDR_1.jpg",
     "Images/doggg.art_Digitale_2.jpeg",

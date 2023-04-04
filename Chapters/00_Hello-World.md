@@ -76,9 +76,9 @@ I structured this thesis around four chapters, which combine historical, computa
 
 [^10]: @millerArtistMachineWorld2019, p.122
 
-[^11]: Mordvintsev was inspired by a previous paper exploring the generative potential of CNNs from Karen Simonyan: Simonyan, Vedaldi, and Zisserman 2014.
+[^11]: Mordvintsev was inspired by a previous paper exploring the generative potential of CNNs: @simonyanVeryDeepConvolutional2015
 
-[^12]: Translated from the article ‘AAA - Art, Algorithmen, Artificial Intelligence’ at Kunstforum Bd. 278. See @weibelAAA
+[^12]: Translated from @weibelAAA
 
 [^13]: Referring to typical AI stock images. Alternative imagery is currently gathered by betterimagesofai.org. See @BetterImagesAI
 
