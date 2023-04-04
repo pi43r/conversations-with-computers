@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/04_Stochastic-Meaning.md",
+                "file": "Chapters/00_Hello-World.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "name implies",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +118,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/04_Stochastic-Meaning.md",
+                "file": "Chapters/00_Hello-World.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -168,10 +167,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e021da7db74e10bd",
+  "active": "4bccd895dc8046ad",
   "lastOpenFiles": [
-    "Chapters/01_Co-Intelligence.md",
     "Chapters/04_Stochastic-Meaning.md",
+    "Chapters/01_Co-Intelligence.md",
     "Chapters/03_Piles-of-Data.md",
     "Chapters/02_Talking-to-Computers.md",
     "Presentations/February 23.md",
