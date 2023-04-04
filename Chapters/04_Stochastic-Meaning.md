@@ -78,21 +78,26 @@ But who is accountable for harmful synthetic text? The use of automated algorith
 
 ## The Chiromancer
 
-In early 2020, I had a discussion with my colleague Giacomo Piazzi about the increasing capabilities of language models like GPT-2 to generate arbitrary text. We talked about a previous project of mine on a hand dataset and pondered about the magical thinking behind LLMs as conscious beings. Eventually, we decided to combine these concepts by creating a hand-reading machine that creates the illusion of being able to predict the future.
+In early 2020, I had a discussion with my colleague Giacomo Piazzi about the increasing capabilities of language models like GPT-2 to generate arbitrary text. We talked about a previous project of mine on a hand dataset and pondered about the magical thinking behind LLMs as conscious beings. Eventually, we decided to combine these concepts by creating a palm reading machine that creates the illusion of being able to predict the future.
 
 Inspired by Eighteenth-century coin operated fortune-telling machines, we wanted to upgrade this  concept to the current age of technology which operates as a black box by using state-of-the-art language models. By using the hand and it’s reference to common touch gestures between humans and machines, we hoped to further amplify the trust in our system. Relying on human biometric data in order to make predictions was another subtle comment on the state of AI and a way to individualize each fortune.
 
-We use computers and AI models to help us make predictions about the future all the time. Be it weather and climate models, algorithmic trading on the stock market, or more personal systems such as news feeds or search engines. Often enough we have to take their output at face value and adjust our lives accordingly. This is not dissimilar from ancient practices in astrology, tarot or hand reading. When people conduct a search on the internet, for example about their current health problem, they sit in front of their glowing divination machine, hoping that the energy flowing through transnational cables bring them the correct answer. The information they receive is (hopefully) more often correct compared to a clairvoyant who might conduct a crystal ball to see into the future. Of course, the internet is a great place to reach out to many different kinds of automated and real practitioners of esoteric knowledge, too. 
+We use computers and AI models to help us make predictions about the future all the time. Be it weather and climate models, algorithUsingmic trading on the stock market, or more personal systems such as news feeds or search engines. Often enough we have to take their output at face value and adjust our lives accordingly. This is not dissimilar from ancient practices in astrology, tarot or hand reading. When people conduct a search on the internet, for example about their current health problem, they sit in front of their glowing divination machine, hoping that the energy flowing through transnational cables bring them the correct answer. The information they receive is (hopefully) more often correct compared to a clairvoyant who might conduct a crystal ball to see into the future. Of course, the internet is a great place to reach out to many different kinds of automated and real practitioners of esoteric knowledge, too. 
 
-In order to fine-tune our pretrained Transformer model we needed to find a data source that was large enough to prevent the model from overfitting and regurgitating the training set. I started off by searching on Reddit for  
+We wanted to use GPT-2 as a base to generate convincing palm readings which comes in different parameter sizes 117M, 345M, 774M and 1.5B. Though, at the time of our first experiments, the biggest one was not yet available. The smaller models could be run on cheap or free cloud infrastructure with sufficient GPU memory. Trying to steer the next word prediction to something that we want, involves writing a creative prompt from which the model appends the next likely word tokens. After a couple of failed attempts and writing ever larger prose, it became apparent that using the model with just a few examples of the output we expect will not be stable enough. The likelihood of getting random gibberish was just to high and we needed to recalibrate the model weights itself. 
+
+In order to finetune our pretrained transformer model we needed to find a data source that was large enough to prevent the model from overfitting and regurgitating the training set. We started by searching on Reddit for palmistry related subforums and found /r/PalmReading/ where users sometimes upload a picture of their hand in the pursuit that someone deciphers it. It seemed perfect but unfortunately almost none of them got a response and if they did it was very short. Similar groups on Facebook existed which seemed to serve more of a sales funnel to a private reading. Searching on YouTube, there were a few highly active accounts that read the hands of famous or private people as examples. Fortunately the video platform generates automatic subtitles which are easy to download and after putting them all together we had around 4MB of text. The data scientist Max Woolf open sourced a simple wrapper that made it incredibly simple to run the finetuning loop.[^19] After one night of conditioning on our simple YouTube dataset we got some output that was really similar to our source material. But as there was no punctuation or any other syntactic elements it also just resembled a waterfall a random sentences, including the occasional “subscribe to my channel”.
+
+We needed a different approach. I was trying to ask on 
+
 
 
 [^1]: @weizenbaumComputerPowerHuman1976
-[^2]: Ibid.
+[^2]: @weizenbaumComputerPowerHuman1976
 [^3]: @hofstadterFluidConceptsCreative1995, p. 157
 [^4]: See @JabberwackyThoughtsArtificial2006 & @Cleverbot
 [^5]: @jacobSoftwareTricksPeople
-[^6]: [@vaswaniAttentionAllYou2017]
+[^6]: @vaswaniAttentionAllYou2017a
 [^7]: OpenAI has since created a capped profit subsidiary based on investments by large corporations such as Microsoft.
 [^8]: See @bandyAddressingDocumentationDebt
 [^9]: @openaiBetterLanguageModels
@@ -102,6 +107,7 @@ In order to fine-tune our pretrained Transformer model we needed to find a data 
 [^13]: @OpenAIGPT3Language2020
 [^14]: @simonitePaperThatLed
 [^15]: @benderDangersStochasticParrots2021
-[^16]: ibid. p. 615
+[^16]: @benderDangersStochasticParrots2021 p. 615
 [^17]: @breretonBingAICan2023
 [^18]: @xiangHeWouldStill2023
+[^19]: @woolfGpt2simple2023
