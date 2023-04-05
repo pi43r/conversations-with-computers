@@ -29,7 +29,7 @@
 		- A study on the Characteristics of Douyin
 		- Recommended Hashtags & More of the same
 
-04_Stochastic Meaning (noch nicht angefangen)
+04_Stochastic Meaning (lectoring)
 	- Predicting Text (transformers)
 	- The Chiromancer
 	- Prayers to GPT

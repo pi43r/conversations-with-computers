@@ -2,8 +2,7 @@
 
 	What I had not realized is that extremely short exposures
 	to a relatively simple computer program could induce powerful
-	delusional thinking in quite normal people.
-[^1]
+	delusional thinking in quite normal people. [^1]
 
 ## Symbolic Language
 
@@ -101,11 +100,11 @@ We could not find enough high quality palm reading case studies on the web, so w
 After our fortunetelling model was finished, we needed a hardware body to make the illusion complete. The Chiromancer, which is just a fancier way of saying ‘Palmist’, has a stack of 3 layers: On the top, a flatbed scanner with which our users will mainly interact with. In the middle the processing unit using a fully equipped desktop computer. And at the bottom an old dot-matrix printer that serves both as the output and the voice of the device. 
 Giacomo designed a mysterious black box using anodized aluminum beams and sleek black acrylic sheets to encase its components. Despite the fact that all of its components are exposed, the machine is unintelligible, and the only indication that it is functioning is through the movement of the GPU fan and a few pulsing orange LEDs. The cubic structure is standing on a black and silver flight case, ordinarily used to transport equipment for stage shows, again a reference and a modernization to the touring fortunetelling automata from the last century.
 
-Since 2021 we exhibited The Chiromancer in several exhibitions around Europe. Out of all places, it’s debut was in a shopping mall in Salzburg. The exhibition titled “Digital Square”, made possible by Manuela Naveau and Fabricio Lamoncha, was a showcase of students’ works crossing the boundaries of traditional art spaces and engaging with a wider public.[^20] In this trial, we were able to observe if our machine, as alien as it might seem, is able to attract and engage with people. To our surprise, it was a hit! People were fascinated by the concept of a fortunetelling machine that uses technology to read their palms. Many visitors even returned multiple times to try it out again.
+Since 2021 we exhibited The Chiromancer in several exhibitions around Europe. Out of all places, it’s debut was in a shopping mall in Salzburg. The exhibition titled “Digital Square”, made possible by Manuela Naveau and Fabricio Lamoncha, was a showcase of students’ works crossing the boundaries of traditional art spaces and engaging with a wider public.[^20] In this trial, we were able to observe if our machine, as alien as it might seem, is able to attract and engage with people. People were fascinated by the concept of a fortunetelling machine that uses technology to read their palms and the critical aspects about AI systems and our reliance on their predictions was a good talking point after the initial spectacle.
 
-After Salzburg, we took The Chiromancer to various art and technology events, receiving positive feedback and interest from both art enthusiasts and tech experts. We even had the opportunity to showcase it at the Ars Electronica Festival in Linz, Austria, where we received an Honorary Mention in the Interactive Art category.
 
-Overall, The Chiromancer was a successful project that bridged the gap between traditional fortunetelling and modern technology. It allowed us to explore the possibilities of combining art and technology in a unique way, while also engaging with audiences from different backgrounds. We hope to continue developing similar projects that challenge preconceived notions of what art and technology can be.
+![Sample Print of The Chiromancer | 300](chiro-IMG_2848.jpg)
+## 
 
 
 
