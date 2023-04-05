@@ -13,56 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/04_Stochastic-Meaning.md",
+                "file": "Chapters/05_endoftext.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a89aced8155f8690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentations/February 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "074cf90a1c4e3efc",
+            "id": "d17c75809c310b38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Chapters/00_Hello-World.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bb9c5588aeb40d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/01_Co-Intelligence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fb843ae9f7083b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/02_Talking-to-Computers.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -125,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/04_Stochastic-Meaning.md",
+                "file": "Chapters/05_endoftext.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,19 +120,19 @@
   },
   "active": "b7e141e6d2105a9d",
   "lastOpenFiles": [
-    "Images/chiro-IMG_2848.jpg",
+    "Chapters/00_Hello-World.md",
+    "Chapters/05_endoftext.md",
+    "Chapters/01_Co-Intelligence.md",
+    "Chapters/03_Piles-of-Data.md",
     "Presentations/February 23.md",
     "Chapters/04_Stochastic-Meaning.md",
+    "Chapters/02_Talking-to-Computers.md",
+    "Images/chiro-IMG_2848.jpg",
     "Notes/weizenbaum.md",
     "Notes/Chiro Giaco.md",
     "output/Chapters/04_Stochastic-Meaning.md.html",
-    "Chapters/00_Hello-World.md",
-    "Chapters/05_endoftext.md",
     "chicago-fullnote-bibliography-with-ibid.csl",
     "Notes/@wangDefiningArtificialIntelligence2019.md",
-    "Chapters/01_Co-Intelligence.md",
-    "Chapters/03_Piles-of-Data.md",
-    "Chapters/02_Talking-to-Computers.md",
     "textgenerator/prompts/default/rewrite.md",
     "Chapters/06_Addendum.md",
     "output/small_cwc-pre.pdf",
@@ -184,7 +148,6 @@
     "Images/Screen_Shot_2023-03-15_at_20.50.49.png",
     "Images/Screenshot_2021-12-14_at_20-37-23_Eternal_Internet_Brotherhood_–_Eternal_Internet_Brotherhood.png",
     "Images/Screenshot_2021-12-14_at_20-07-47_11k_Hands.png",
-    "Images/Recommended_Hashtags_1.jpg",
     "skipbrokenimg.py",
     "output/all-cwc.pdf",
     "output/all.html",

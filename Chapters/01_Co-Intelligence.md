@@ -1,7 +1,6 @@
 # **Co-Intelligence**
 
-> Ubuntu: I am, because you are
-[^1]
+> Ubuntu: I am, because you are [^1]
 
 The cognitive scientist Abeba Birhane takes the South African humanist philosophy of _Ubuntu_ as an argument against a western tradition of the _self_ as autonomous beings.[^2] According to _Ubuntu_ a person becomes a person, only through the relationships with others. The personality is shaped by the interactions with each other and is fluidly shifting between different states. I am a different person, when talking to my mother, my friends and strangers on the street. At the same time, my upbringing and cultural influences define my own self-image. Birhane traces back the flaws in western theories of the mind to René Descartes ‘cogito ergo sum’ – I think, therefore I am. In his famous meditation the French philosopher tried to strip back all things of uncertainty to arrive at the foundation of inner thought as proof of existence. In turn this individualistic ‘I’ and the method of logical reasoning have become a successful story in western sciences. The idea of a separate mind and body was already present in Plato’s dualism, and the scientific method of breaking down complex natural phenomenons into simplified quantifiable parts is at least as old. In the past 200 years scientists, philosophers and theologists defined the ‘body-mind problem’, coming up with theories of how the immaterial ‘soul’ interacts with the fleshy human body: Why are we conscious of the world around us, ourselves and others?
 
@@ -15,7 +14,7 @@ In order to understand human cognition and intelligence, we need to explore the 
 By embedding current machine learning algorithms back into the social structure I hope to gain experimental insight on how these new forms of collective computations are used as a creative medium. In the following I will present my experiences working within Co-Intelligent systems in different constellations.
 
 
-## **Metaconversations with Computers**
+## Metaconversations with Computers
 ![Metaconversations, Miro Flowchart](Flowchart---Metaconversation-Piece-stitch.jpg.png)
 
 In October 2020 I participated in *Freeport 1: Anatomies of a black box*[^6] and was part of a group with Gabriela Gordillo, Mario Romera and Fabian Frei in which we started a conversation about computers that ended in simulating our own conversations.
@@ -67,7 +66,7 @@ Mr: green, black, yellow, red, green, yellow, black, red
 Mr: these
 ```
 
-## **Silicon Friend Camp**
+## Silicon Friend Camp
 
 The Silicon Friend Camp was a 5-day working retreat in Gosau, Upper Austria, for artists and researchers working on Artificial Intelligence. The summer camp was organized by servus.at with funding from LINZimPULS. Together with the curator Davide Bevilacqua, we started to develop the program in summer 2020. The artist Rosi Grillmair joined as facilitator and program supervisor in early 2021.
 
