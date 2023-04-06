@@ -118,8 +118,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b7e141e6d2105a9d",
+  "active": "494a9bbe796de145",
   "lastOpenFiles": [
+    "output/all-cwc.pdf",
     "Chapters/00_Hello-World.md",
     "Chapters/05_endoftext.md",
     "Chapters/01_Co-Intelligence.md",
@@ -149,7 +150,6 @@
     "Images/Screenshot_2021-12-14_at_20-37-23_Eternal_Internet_Brotherhood_–_Eternal_Internet_Brotherhood.png",
     "Images/Screenshot_2021-12-14_at_20-07-47_11k_Hands.png",
     "skipbrokenimg.py",
-    "output/all-cwc.pdf",
     "output/all.html",
     "all.html",
     "textgenerator/prompts/default/rewrite 1.md",
