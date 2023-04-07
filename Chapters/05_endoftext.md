@@ -10,9 +10,9 @@ The myth of the self-sufficient AI agent, capable of learning and improving on i
 
 >“The myth of technological and political and social inevitability is a powerful tranquilizer of the conscience. Its service is to remove responsibility from the shoulders of everyone who truly believes in it. But, in fact, there *are* actors!” [^1]
 
-Weizenbaum’s comment is not only a demand for greater responsibility to those in tech industries and to look for the humans involved in actually making the decisions, he also reminds us that *we* are actors. We all have choices and responsibilities in order to shape the future of how we use computers and what we use them for. We are not, and should not, see ourselves as victims of computational progress.
+Weizenbaum’s comment is not only a demand for greater responsibility to those in tech industries and to look for the humans involved in actually making the decisions, he also reminds us that *we* are actors. We all have choices and responsibilities in order to shape the future of how we use computers and what we use them for. We are not, and should not, see ourselves just as victims of computational progress.
 
-Projects like the *Silicon Friend Camp* are a way for a communal and playful interaction, not only with machines, but also with each other. Outside from the capitalistic logic of making something ‘useful’ and enhancing productivity. 
+Projects like the *Silicon Friend Camp* are a way for a communal and playful interaction, not only with machines, but mainly with one another. It is a way to create collectives that digest and discuss both the technological and social implications of computer systems; it fosters an environment where people can learn from each other, share ideas, and collaborate on projects that are not driven by profit or market demand. The projects developed there deal with different subjects from the environment, other animals, virtual avatars, to or our legacy in digital data, reflecting on much broader perspectives beyond technology. Together we were able to create a collective voice, quite literally. The camp made me realize again, that 
 
 
 ## Contributors

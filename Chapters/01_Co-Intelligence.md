@@ -215,8 +215,7 @@ Finally *1-800-MYGRAVE* by Erica Jewel and Dasha Ilina is an installation in the
 ![1-800-MYGRAVE installation view](Exhibition(21).jpg)
 
 
-The open call for the camp had the goal “to enable embodied networks through the development of new forms of computational intelligence.”[^20] Looking back to the exhibition and the camp after over a year I see a multitude of connections. While the works are separated by space and author they often address the same thing from a different angle. We explored anthropomorphous robots by embodying a virtual friend inside of a plastic toy, but most closely we looked into the process of capturing the world through digital computers and how we relate to and interpret our data bodies. 
-Maybe real AI is the friends we made along the way.[^21]
+The open call for the camp had the goal “to enable embodied networks through the development of new forms of computational intelligence.”[^20] Looking back to the exhibition and the camp over a year later, I see a multitude of connections. While the works are separated by space and author they often address the same thing from a different angle. For example we explored anthropomorphous robots by embodying a virtual friend inside a plastic toy, but most closely we looked into the processes of capturing the world through digital computers and how we relate to our data bodies. I’ve come to the conclusion that maybe real AI is the friends we made along the way.[^21]
 
 ---
 
