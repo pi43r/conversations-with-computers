@@ -1,3 +1,4 @@
+
 \tableofcontents
 
 # Hello, World!
@@ -50,15 +51,17 @@ Contrary to articles and sci-fi novels, I will not use the personification of �
 
 ## Getting Started
 
-[[Revision Needed]]
+I structured this thesis around four chapters, which combine historical, computational, and collective knowledge. Throughout each chapter, I include examples of artwork by me or others that either relate to the topic or support the argument being made.
 
-I structured this thesis around four chapters, which combine historical, computational, and collective knowledge. Starting with a history of talking machines, from Wolfgang von Kempelen’s speech automatons to digital assistants today, not forgetting that the first computers were women performing calculations. The literal act of speaking to computers sets the base of defining that we are talking through computers with other humans. The second chapter deals with the building blocks for complex statistical modeling in AI systems. To make such systems possible, researchers need to create large datasets, often using ethically questionable techniques aggregating data from internet users. I will look closely into the StyleGAN dataset, as it serves a dual purpose, because the model defined another turning point for artists to generate synthetic media. The same is true for GPT-2, a model that can generate coherent looking text based on large amounts of scraped websites and books. In the third chapter I will explore the transformer architecture and how artists are using it to make (non-)sense automatic writing. Lastly I am revisiting collective experiences that I have been organizing with other artists. I had the great pleasure to work with the net culture initiative servus.at to organize the *Silicon Friend Camp* in the Austrian mountains, where we invited 17 artists and researchers for a week long retreat, focusing on human computer conversations. The camp resulted in the exhibition *Camping with Computers* and an online symposium on *Conversations with Computers*.
+First, I am revisiting collective experiences that I have organized with other artists, like the *Silicon Friend Camp* in the Austrian mountains. This week-long retreat brought together 17 artists and researchers to focus on human-computer conversations and evolved into an exhibition and a symposium. 
 
-**Bitte hier erwähnen, dass Arbeiten von anderen Kunstschaffenden in die verschiedenen Kapitel theoretisch eingewebt wurden, da sie dort beispielhaft deine thesen untermauern…**
+From there, I delve into the history of talking machines, from Wolfgang von Kempelen's speech automatons to today's digital assistants, and the social changes that come with them. Talking to computers sets the foundation for my definition that these interactions are not with, but through technology with other humans. 
 
-**Außerdem bitte hier abschließend erwähnen, dass in dieser theoretischen Masterarbeit nur jene Arbeiten von dir präsentiert werden, die direkt mit diesem Inhalt in Verbindung stehen. Alle weiteren Arbeiten, die während deiner Zeit an der Kunstuni entstanden, bitte kurz beschrieben in den Anhang stellen… Danke!**
+The next chapter explores the building blocks for complex statistical modeling in AI systems. Researchers require large datasets, often gathered through ethically questionable means by aggregating data from internet users. A closer look is taken into the StyleGAN dataset as the model that emerged from it was a turning point in synthetic image creation.
 
----
+Similarly, GPT-2 generates seemingly coherent text based on scraped websites and books. So the last chapter focuses on the underpinning architecture of the model and its ability to exploit the human drive to find meaning in symbols. I conclude with The Chiromancer, an artwork that explores how we put trust, hopes, and wishes into seemingly cold machines.
+
+  ---
 
 [^1]: The C Programming Language Book defined many standards of programming languages today and how technical descriptions are written. While it focuses on C and the UNIX system, I find this advice from *Chapter 1.1 Getting Started* particularly interesting “On other systems, the rules will be different; check with a local expert.” as it describes the social necessity of learning computers specifically.
 
