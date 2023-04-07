@@ -1,12 +1,4 @@
 {
-  "obsidian-footnotes:insert-footnote": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "`"
-    }
-  ],
   "obsidian-citation-plugin:insert-markdown-citation": [
     {
       "modifiers": [
@@ -25,5 +17,13 @@
       "key": "J"
     }
   ],
-  "theme:use-dark": []
+  "theme:use-dark": [],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ]
 }
