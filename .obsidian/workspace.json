@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecc238ebd819c488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/03_Piles-of-Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/02_Talking-to-Computers.md",
+                "file": "Chapters/03_Piles-of-Data.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,11 +143,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9bbc31e51aa37793",
+  "active": "ecc238ebd819c488",
   "lastOpenFiles": [
-    "Chapters/01_Co-Intelligence.md",
-    "Chapters/02_Talking-to-Computers.md",
     "Chapters/04_Stochastic-Meaning.md",
+    "Chapters/02_Talking-to-Computers.md",
+    "Chapters/01_Co-Intelligence.md",
     "Chapters/00_Hello-World.md",
     "Chapters/05_endoftext.md",
     "Chapters/03_Piles-of-Data.md",

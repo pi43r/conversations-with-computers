@@ -146,11 +146,11 @@ In my opinion, the example of *Leewa* illustrates the collective efforts that go
 [^30]: Study on Gender and Dialect Bias in YouTube’s Automatic Captions that shows a higher error rate for women and non-American speakers. See @tatmanGenderDialectBias2017]; Facebook’s AI research department created a dataset of people with different skin tones, gender, and age to evaluate speech recognition models for biases and found significant differences between lighter and darker skin tones. See @liuMeasuringFairnessSpeech2021
 [^31]: @amodeiDeepSpeechEndtoEnd2015
 [^32]: The first Alexa recording in a court case was used after the defendant agreed to hand over his data. See @sampathkumarAmazonEchoCould2017
-[^33]: See[ https://commonvoice.mozilla.org/de](https://commonvoice.mozilla.org/de)
-[^34]: See https://librivox.org/ and @panayotovLibrispeechASRCorpus2015
+[^33]: See [commonvoice.mozilla.org](https://commonvoice.mozilla.org/de)
+[^34]: See [librivox.org/](https://librivox.org/) and @panayotovLibrispeechASRCorpus2015
 [^35]: See @godfreyjohnj.Switchboard1Release1993
 [^36]: The title “I’d blush if I could” is also the response Siri gives to the insult “You’re a bitch”
-[^37]: See @lessioMakingSADHome2020; and on the portfolio website @lessioSADHome
+[^37]: See @lessioMakingSADHome2020; and on the portfolio website [nadinelessio.com](https://nadinelessio.com/sadhome/)
 [^38]: @vlahosTalkMeAmazon2020
 [^39]: @vlahosTalkMeAmazon2020, p.117
 [^40]: Tay was the name of a chatbot Microsoft intended to have a teenage personality and could be interacted with over multiple channels. Twitter trolls co-opted the bot with sexist, racist, and antisemitic questions that the bot replied to with generic answers. They also used a repeat-after-me phrase to make it look like the bot was spewing hateful comments. After only 16 hours, Microsoft deleted all accounts, and the PR disaster was immense, with headlines happily personifying the AI that has learned to be racist. But no continuous learning algorithm was involved, as a blog post by Russel Cameron Thomas in which he explains the technology stack behind Tay. See @ExploringPossibilitySpace
