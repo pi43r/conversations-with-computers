@@ -217,6 +217,7 @@ Finally *1-800-MYGRAVE* by Erica Jewel and Dasha Ilina is an installation in the
 
 The open call for the camp had the goal “to enable embodied networks through the development of new forms of computational intelligence.”[^20] Looking back to the exhibition and the camp over a year later, I see a multitude of connections. While the works are separated by space and author they often address the same thing from a different angle. For example we explored anthropomorphous robots by embodying a virtual friend inside a plastic toy, but most closely we looked into the processes of capturing the world through digital computers and how we relate to our data bodies. I’ve come to the conclusion that maybe real AI is the friends we made along the way.[^21]
 
+—
 ---
 
 [^1]: The term Ubuntu originates from southern Africa and is used to describe a humanist philosophy according to which persons are interconnected. It is often used in phrases such as the Zulu ‘Umuntu ngumuntu ngabantu’, which translates to ‘A person is a person through other persons’. The term for personhood (ubuntu) itself is not clearly defined and has different meanings in different areas. @gadeWhatUbuntuDifferent2012 
