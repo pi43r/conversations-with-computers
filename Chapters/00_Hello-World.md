@@ -51,45 +51,30 @@ Contrary to articles and sci-fi novels, I will not use the personification of �
 
 ## Getting Started
 
-I structured this thesis around four chapters, which combine historical, computational, and collective knowledge. Throughout each chapter, I include examples of artwork by me or others that either relate to the topic or support the argument being made.
+I structured this thesis around four chapters, combining historical, computational, and collective knowledge. Throughout each chapter, I include examples of artworks by me or others that either relate to the topic or support the argument.
 
-First, I am revisiting collective experiences that I have organized with other artists, like the *Silicon Friend Camp* in the Austrian mountains. This week-long retreat brought together 17 artists and researchers to focus on human-computer conversations and evolved into an exhibition and a symposium. 
+First, I am revisiting collective experiences I have organized with other artists, like the _Silicon Friend Camp_ in the Austrian mountains. This week-long retreat brought together 17 artists and researchers to focus on human-computer conversations and evolved into an exhibition and a symposium.
 
-From there, I delve into the history of talking machines, from Wolfgang von Kempelen's speech automatons to today's digital assistants, and the social changes that come with them. Talking to computers sets the foundation for my definition that these interactions are not with, but through technology with other humans. 
+From there, I delve into the history of talking machines, from Wolfgang von Kempelen's speech automatons to today's digital assistants and the social changes that come with them. Talking to computers sets the foundation for my definition that these interactions are not with, but through technology, with other humans.
 
 The next chapter explores the building blocks for complex statistical modeling in AI systems. Researchers require large datasets, often gathered through ethically questionable means by aggregating data from internet users. A closer look is taken into the StyleGAN dataset as the model that emerged from it was a turning point in synthetic image creation.
 
 Similarly, GPT-2 generates seemingly coherent text based on scraped websites and books. So the last chapter focuses on the underpinning architecture of the model and its ability to exploit the human drive to find meaning in symbols. I conclude with The Chiromancer, an artwork that explores how we put trust, hopes, and wishes into seemingly cold machines.
 
-  ---
+---
 
 [^1]: The C Programming Language Book defined many standards of programming languages today and how technical descriptions are written. While it focuses on C and the UNIX system, I find this advice from *Chapter 1.1 Getting Started* particularly interesting “On other systems, the rules will be different; check with a local expert.” as it describes the social necessity of learning computers specifically.
-
 [^2]: See @InceptionismGoingDeeper2015
-
 [^3]: The initial classifier was conditioned on ImageNet, which contains many images of dog breeds. Therefore DeepDream is biased to generate textures of dog faces.
-
 [^5]: See @ImageNet
-
 [^7]: Mike Tyka has compiled a list of projects, released within a month of publishing the source code. See @tykaDeepdreamInceptionismRecap
-
-[^8]: A collection of tools and papers for feature visualization is collected at the GitHub repository tensorflow/lucid. Note that Chris Olah and Alex Mordvintsev are contributors. Even more examples and explanations are collected in the interpretable machine learning book by the statistician Christoph Molnar, who also notes that “Feature visualizations give unique insight into the working of neural networks”, but the “visualizations can convey the illusion that we understand what the neural network is doing”. @molnar10LearnedFeaturesa
-
-[^9]: Interview with Alexander Mordvintsev by artnome. See @baileyDeepDreamCreatorUnveils
-
+[^8]: A collection of tools and papers for feature visualization is collected at the GitHub repository tensorflow/lucid. Note that Chris Olah and Alex Mordvintsev are contributors. Even more examples and explanations are collected in the interpretable machine learning book by the statistician Christoph Molnar, who also notes that “Feature visualizations give unique insight into the working of neural networks”, but the “visualizations can convey the illusion that we understand what the neural network is doing”. @molnar10LearnedFeatures
+[^9]: Interview with Alexander Mordvintsev by artnome. See @baileyDeepDreamCreatorUnveils2018
 [^10]: @millerArtistMachineWorld2019, p.122
-
-[^11]: Mordvintsev was inspired by a previous paper exploring the generative potential of CNNs: @simonyanVeryDeepConvolutional2015
-
-[^12]: Translated from @weibelAAA
-
-[^13]: Referring to typical AI stock images. Alternative imagery is currently gathered by betterimagesofai.org. See @BetterImagesAI
-
-[^14]: Twitter post by Francis Hunger. See @francishungerArtificialIntelligenceAutomated2021
-
-[^15]: See @hungerTalkUnhypeAI2021
-
-[^16]: In behaviorist psychology Ivan Pavlov’s experiments with dogs is known as ‘classical conditioning’ and B.F. Skinner who experimented on rats and pigeons using lever machines is called ‘operant conditioning’. 
-
+[^11]: Mordvintsev was inspired by a previous paper exploring the generative potential of CNNs from Karen Simonyan: Simonyan, Vedaldi, and Zisserman 2014.
+[^12]: Translated from the article ‘AAA - Art, Algorithmen, Artificial Intelligence’ at Kunstforum Bd. 278. See: @weibelAAA
+[^13]: Referring to typical AI stock images. Alternative imagery is currently built by betterimagesofai.org. See: @BetterImagesAI
+[^14]: Twitter post by Francis Hunger. See: @francishungerArtificialIntelligenceAutomated2021
+[^15]: Unhype AI. See: @hungerTalkUnhypeAI2021
+[^16]: In behaviorist psychology, Ivan Pavlov’s experiments with dogs are known as ‘classical conditioning’. Using lever machines, B.F. Skinners experiments on rats and pigeons are called ‘operant conditioning’. 
 [^17]: @wangDefiningArtificialIntelligence2019
-

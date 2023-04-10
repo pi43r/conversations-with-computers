@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7e141e6d2105a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/05_endoftext.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9ac621a4d24fa9c9",
             "type": "leaf",
             "state": {
@@ -27,18 +15,6 @@
               "state": {
                 "file": "Chapters/04_Stochastic-Meaning.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d17c75809c310b38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/00_Hello-World.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -55,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/05_endoftext.md",
+                "file": "Chapters/01_Co-Intelligence.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,14 +119,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b7e141e6d2105a9d",
+  "active": "f7c977aa2e16d9ee",
   "lastOpenFiles": [
     "Chapters/04_Stochastic-Meaning.md",
+    "Chapters/00_Hello-World.md",
+    "Chapters/05_endoftext.md",
     "Chapters/03_Piles-of-Data.md",
     "Chapters/02_Talking-to-Computers.md",
     "Chapters/01_Co-Intelligence.md",
-    "Chapters/00_Hello-World.md",
-    "Chapters/05_endoftext.md",
     "output/all-cwc.pdf",
     "Presentations/February 23.md",
     "Images/chiro-IMG_2848.jpg",

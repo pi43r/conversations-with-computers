@@ -1,7 +1,7 @@
 ---
 documentclass: scrbook
 bibliography: ["./zotero.bib"]
-csl: "chicago-fullnote-bibliography-with-ibid.csl"
+# csl: "chicago-fullnote-bibliography-with-ibid.csl"
 table-of-contents: true
 link-citations: true
 title: "Conversations with Computers"
