@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/06_Addendum.md",
+                "file": "Chapters/04_Stochastic-Meaning.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/06_Addendum.md",
+                "file": "Chapters/04_Stochastic-Meaning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,6 +169,7 @@
   },
   "active": "28374a100678b7a7",
   "lastOpenFiles": [
+    "Chapters/06_Addendum.md",
     "Chapters/05_endoftext.md",
     "Chapters/03_Piles-of-Data.md",
     "Chapters/02_Talking-to-Computers.md",
@@ -191,7 +192,6 @@
     "output/all-cwc-compressed.pdf",
     "output/lu8840323ki2mv.tmp",
     "output/Chapters/05_endoftext.md.html",
-    "Chapters/06_Addendum.md",
     "Chapters/00_Hello-World.md",
     "Presentations/February 23.md",
     "Notes/weizenbaum.md",
