@@ -59,22 +59,22 @@ From there, I delve into the history of talking machines, from Wolfgang von Kemp
 
 The next chapter explores the building blocks for complex statistical modeling in AI systems. Researchers require large datasets, often gathered through ethically questionable means by aggregating data from internet users. A closer look is taken into the StyleGAN dataset as the model that emerged from it was a turning point in synthetic image creation.
 
-Similarly, GPT-2 generates seemingly coherent text based on scraped websites and books. So the last chapter focuses on the underpinning architecture of the model and its ability to exploit the human drive to find meaning in symbols. I conclude with The Chiromancer, an artwork that explores how we put trust, hopes, and wishes into seemingly cold machines.
+Similarly, GPT-2 generates seemingly coherent text based on scraped websites and books. So the last chapter focuses on the underpinning architecture of the model and its ability to exploit the human drive to find meaning in symbols. I conclude with The Chiromancer, an artwork that explores how we place trust, hopes, and wishes into our cold silicon companions.
 
 ---
 
 [^1]: The C Programming Language Book defined many standards of programming languages today and how technical descriptions are written. While it focuses on C and the UNIX system, I find this advice from *Chapter 1.1 Getting Started* particularly interesting “On other systems, the rules will be different; check with a local expert.” as it describes the social necessity of learning computers specifically.
-[^2]: See @InceptionismGoingDeeper2015
+[^2]: See @InceptionismGoingDeeper2015.
 [^3]: The initial classifier was conditioned on ImageNet, which contains many images of dog breeds. Therefore DeepDream is biased to generate textures of dog faces.
-[^5]: See @ImageNet
-[^7]: Mike Tyka has compiled a list of projects, released within a month of publishing the source code. See @tykaDeepdreamInceptionismRecap
-[^8]: A collection of tools and papers for feature visualization is collected at the GitHub repository tensorflow/lucid. Note that Chris Olah and Alex Mordvintsev are contributors. Even more examples and explanations are collected in the interpretable machine learning book by the statistician Christoph Molnar, who also notes that “Feature visualizations give unique insight into the working of neural networks”, but the “visualizations can convey the illusion that we understand what the neural network is doing”. @molnar10LearnedFeatures
-[^9]: Interview with Alexander Mordvintsev by artnome. See @baileyDeepDreamCreatorUnveils2018
-[^10]: @millerArtistMachineWorld2019, p.122
-[^11]: Mordvintsev was inspired by a previous paper exploring the generative potential of CNNs from Karen Simonyan: Simonyan, Vedaldi, and Zisserman 2014.
-[^12]: Translated from the article ‘AAA - Art, Algorithmen, Artificial Intelligence’ at Kunstforum Bd. 278. See: @weibelAAA
-[^13]: Referring to typical AI stock images. Alternative imagery is currently built by betterimagesofai.org. See: @BetterImagesAI
-[^14]: Twitter post by Francis Hunger. See: @francishungerArtificialIntelligenceAutomated2021
-[^15]: Unhype AI. See: @hungerTalkUnhypeAI2021
+[^5]: See @ImageNet.
+[^7]: See @tykaDeepdreamInceptionismRecap for a list of projects released within a month after publishing the source code of DeepDream. 
+[^8]: See @molnar10LearnedFeatures for more examples and explanations in the interpretable machine learning book. He notes that “Feature visualizations give unique insight into the working of neural networks”, but the “visualizations can convey the illusion that we understand what the neural network is doing”. 
+[^9]: See @baileyDeepDreamCreatorUnveils2018.
+[^10]: @millerArtistMachineWorld2019, p.122.
+[^11]: Mordvintsev was inspired by a previous paper exploring the generative potential of CNNs: *Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps* by Simonyan et al. (2014).
+[^12]: See @weibelAAA.
+[^13]: See @BetterImagesAI for alternative imagery about AI. 
+[^14]: See @francishungerArtificialIntelligenceAutomated2021
+[^15]: See @hungerTalkUnhypeAI2021
 [^16]: In behaviorist psychology, Ivan Pavlov’s experiments with dogs are known as ‘classical conditioning’. Using lever machines, B.F. Skinners experiments on rats and pigeons are called ‘operant conditioning’. 
 [^17]: @wangDefiningArtificialIntelligence2019
