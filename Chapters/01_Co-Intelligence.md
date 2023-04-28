@@ -219,8 +219,9 @@ The open call for the camp had the goal “to enable embodied networks through t
 
 ## Reflection
 
-In this chapter I briefly touched on the idea of an individual and how humans—in contrast to computer systems—are situated in and grow through inter-relational connections. Machines are not designed to create meaning through relationships, we are. I picked two projects in which I, with a group of others, explored how computers are changing our social environment and how they fit between our conversations. Ironically, we are using all kinds of technological augmentations to communicate with each other about the machines that enable to do so. The artworks and experiments that we created through our conversations are often critical of the technology they highlight and address a public through the artifacts and stories we tell.
-In the next chapters I will look 
+In this chapter I briefly touched on the idea of an individual and how humans—in contrast to computer systems—are situated in and grow through inter-relational connections. Machines are not designed to create meaning through relationships, we are. I picked two projects in which I, with a group of others, explored how computers are changing our social environment and how they fit in between our conversations. Ironically, we are using all kinds of technological augmentations to communicate with each other about the machines that we are using. The artworks and experiments that we created through our conversations are often critical of the technology they highlight and address another public through the artifacts and stories we tell.
+
+Moving forward I will dive deeper into the technological aspects that enable machines to be perceived as agents. In the following chapter I will specifically focus on speech as it is one of the most fundamental forms of communication and explain how its recognition and synthesis were incorporated into the computer.
 
 ---
 

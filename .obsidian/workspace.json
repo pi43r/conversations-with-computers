@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d0089f8485c17c05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "textgenerator/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9bbc31e51aa37793",
             "type": "leaf",
             "state": {
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/01_Co-Intelligence.md",
+                "file": "Chapters/02_Talking-to-Computers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,10 +167,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f7c977aa2e16d9ee",
+  "active": "9bbc31e51aa37793",
   "lastOpenFiles": [
-    "Chapters/02_Talking-to-Computers.md",
+    "textgenerator/Untitled.md",
     "Chapters/01_Co-Intelligence.md",
+    "Chapters/02_Talking-to-Computers.md",
     "Chapters/00_Hello-World.md",
     "Chapters/06_Addendum.md",
     "Chapters/04_Stochastic-Meaning.md",
