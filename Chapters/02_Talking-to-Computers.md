@@ -120,7 +120,7 @@ In my opinion, the example of *Leewa* illustrates the collective efforts that go
 ## Reflection
 
 This chapter started from an ancient story which told of mechanical servants to help their master Hephaestus. A myth of the dream to breathe life into objects, of which we have evolved to empathize with as this is our default behavior. I looked at the journey it took us to imitate and understand the vocal patterns we have created to communicate. Starting from von Kempelen’s and Faber’s attempts to build mechanical devices capable of creating basic phonemes, which eventually led to the successful synthesis of voices using electricity. Initially, these artificial voices were incorporated into toys that could react to children's speech. However, as technology advanced and computer programs became more sophisticated, artificial voices became more ubiquitous, interacting with everyone. Finally, I highlighted the production of our own communal voice model and how we created a doll body that acts as performer; albeit being remotely controlled.
-But how come that just some years ago speech recognition was only working when you imitated a crude computer voice, but today it picks up your voice even in a noisy environment?
+But how come that just some years ago speech recognition was only working when users imitated the crude computer voices but today it picks up your voice even in a noisy environment?
 In the next chapter I will go into the details of weighted networks and how they became feasible by downloading massive datasets from the internet and utilizing enormous amounts of computing power.
 
 ---
