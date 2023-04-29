@@ -217,6 +217,8 @@ Finally *1-800-MYGRAVE* by Erica Jewel and Dasha Ilina is an installation in the
 
 The open call for the camp had the goal “to enable embodied networks through the development of new forms of computational intelligence.”[^19] Looking back to the exhibition and the camp over a year later, I see many connections. While the works are separated by space and author, they often address the same thing from a different angle. For example, we explored anthropomorphous robots by embodying a virtual friend inside a plastic toy. Still, most closely, we looked into the processes of capturing the world through digital computers and how we relate to our data bodies. I’ve come to the conclusion that maybe real AI is the friends we made along the way.
 
+![Photo by Hess Jeon taken before our first dinner at the Silicon Friend Camp](IMAG0038+0039.jpg)
+
 ## Reflection
 
 In this chapter I briefly touched on the idea of an individual and how humans—in contrast to computer systems—are situated in and grow through inter-relational connections. Machines are not designed to create meaning through relationships, we are. I picked two projects in which I, with a group of others, explored how computers are changing our social environment and how they fit in between our conversations. Ironically, we are using all kinds of technological augmentations to communicate with each other about the machines that we are using. The artworks and experiments that we created through our conversations are often critical of the technology they highlight and address another public through the artifacts and stories we tell.

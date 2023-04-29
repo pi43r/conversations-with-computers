@@ -4,7 +4,6 @@
 
 ## Self-Learning Networks
 
-  
 
 The idea behind Artificial Neural Networks has a long-standing history. Using our understanding of the brain as a blueprint for mathematical operations dates back to the 1950s when the psychologist Frank Rosenblatt developed the *perceptron*.[^1] Inspired by nerve cells and their connections (synapses), the perceptron takes multiple input values, sums them up, and outputs a 0 or 1 depending if a predefined threshold is reached. This system can be ‘trained’ by using positive and negative reinforcement to define the weights for each connection. With an apparatus, the Mark-I Perceptron,[^2] that uses photoreceptors to turn light into ‘bits’ (today we would say pixels), the perceptron could ‘sense’ shapes in the form of a binary matrix and distinguish between circles, squares, and triangles. He proposed that a network of perceptrons could possibly even recognize faces and objects. Even though he developed the perceptron in 1964, Frank Rosenblatt never saw his invention take off.[^3] 
 

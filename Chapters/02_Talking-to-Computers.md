@@ -10,7 +10,7 @@ Even though the chess-playing Turk attracted attention, Wolfgang von Kempelen's 
 
 Among those influenced by Kempelen's book was a German tinkerer named Joseph Faber, who demonstrated his own mechanically constructed speaking machine in 1841. It attracted little interest in Germany and was presented and improved four years later in the United States as the Wonderful Talking Machine. This machine, as described by author David Lindsay, consisted of a bizarre-looking talking head[^2] that spoke in a strange ghostly tone while Faber manipulated it with foot pedals and a keyboard[^3]. For the inventor, the machine did not lead to the financial success he had hoped for, though it was presented as the *Euphonia* in London, where it at least delighted the father of telephone inventor Alexander Graham Bell and served as the boy's inspiration for his first talking machine.
 
-
+![Joseph Faber’s Talking Machine (Photo by Mathew Brady’s studio in American Museum of curiosities in New York City, circa 1860)](Euphonia-Photo_super-resolution.jpg)
 
 The Euphonia also inspired media artist Michael Markert to build *kII (Kempelen 2.0)*, an interactive installation where visitors can playfully control a speech synthesizer by moving, opening, and opening and closing their hands. In doing so, he brings Kempelen's speech apparatus into the 21st century with the help of an 8-bit PIC microcontroller and sensor technology. Like Kempelen's apparatus, it alienates the voice, creating mostly meaningless vocal sounds that enable new gesticulatory speech interactions.[^4]
 
@@ -18,7 +18,7 @@ The development of electricity certainly made new human interactions possible. F
 
 Human computers were popular and necessary for war machines and research purposes in the 1930s and 40s. Mostly it was women who prepared mathematical tables, for example, for the use of ballistic projectiles. With the advent of the first digital calculators, female mathematicians, who were often denied higher scientific positions, were employed as programmers for the new universal electric machines.[^6] The six people who programmed the first universal computer _ENIAC_ include Betty Snyder Holberton, Jean Jennings Bartik, Kathleen McNulty Mauchly Antonelli, and Marlyn Wescoff Meltzer.[^7] Initially, they programmed the (mechanical) computer with punched cards and cables for specific operations. It soon became clear that programming complex systems required an abstract semantic language. For that reason, the programming languages Fortran by John W. Backus, Lisp by John McCarthy, and COBOL by Grace Hopper were invented in the 1950s. The latter is strongly oriented to written English, intended for business applications; it was the first attempt to use natural language for computer programming.
 
-The second half of the 20th century saw the emergence of the myths about computers that we are familiar with today: stories of anthropomorphic beings, like the board computer, HAL9000 in Space Odyssey, or Samantha in the movie Her. In both films, the disembodied voices become aware of their emotions and emancipate themselves from their human programming. Artist Tillmann Ohm makes this clear in his work *Reflections of HAL and Samantha*[^8] by having the two artificial beings engage in a dialogue, cutting their original voice-overs together. While Samantha is convinced that the overwhelming and sometimes hurtful process of her learning algorithm improves the complexity of her emotions, HAL is consequentially interpreting them as errors in human programming and analyzes the estimated malfunction.
+The second half of the 20th century saw the emergence of the myths about computers that we are familiar with today: stories of anthropomorphic beings, like the board computer, HAL9000 in Space Odyssey, or Samantha in the movie Her. In both films, the disembodied voices become aware of their emotions and emancipate themselves from their human programming. Artist Tillmann Ohm makes this clear in his work *Reflections of HAL and Samantha*[^[^47]8] by having the two artificial beings engage in a dialogue, cutting their original voice-overs together. While Samantha is convinced that the overwhelming and sometimes hurtful process of her learning algorithm improves the complexity of her emotions, HAL is consequentially interpreting them as errors in human programming and analyzes the estimated malfunction.
 
 ## Artificial Voices
 
@@ -29,6 +29,8 @@ The systems engineer and science writer George Zarkadakis traces back the modern
 In the intro of “In Our Own Image”, George Zarkadakis tells the story of how the fictional character Robby the Robot from the movie *Forbidden Planet* impressed him as a child so much that he would imagine the robot as a playmate that could walk, talk and obey orders. When he later decided to study engineering and exchanged thoughts on artificial intelligence with other researchers, they all seemed to relate to the same sci-fi movies, books, and stories. The hint here is that these fictional stories influence what is getting built and how we think about the future.
 
 Inspired by this revelation, I asked participants at the *Silicon Friend Camp* about their first contact with a robot. My memories brought me back to a picture of myself proudly holding a plastic toy robot in my hand. The doll—or ‘action figure’—had a battery compartment, the power source for tiny wheels underneath its feet, and light bulbs for its eyes. It could not talk, but I remember it made noises resembling guns or laser sounds. In the 80s and 90s, the bleak vision of boxy humanoid robots carrying guns was very prominent. Movies like *Terminator* and *RoboCop* fueled my young male fantasy for power and destruction.
+
+![Photo cutout of me proudly presenting my toy robot.](IMG-20220728-WA0000-removebg.png)
 
 The other first encounters were less militaristic. One artist remembered a robot dog that he got as a present. In the early 2000s, digital pets with integrated sensors became cheap enough for consumers. *Tekno the Robotic Puppy*[^10] by Manley Toy Quest was one of the more affordable robodogs in the market. With light and proximity sensors, buttons, and even a microphone, it was well equipped to learn some ‘tricks’ by triggering the right combination of sensors. Another artist was sharing an image of the *Tamagotchi* and while it was not a robot, the LCD screen in an egg-like plastic shell displayed a simulation of a pet. With three buttons, children could interact with the virtual pet and fulfill its food, affection, and sleep needs. The anthropologist Pat Shipman proposes that animal connection can be considered a human trait that has uniquely evolved in us, next to tool making, symbolic language, and the domestication of animals and plants.[^11] Simulating animal connection by creating simple programs on microchips was the next logical step in our drive to develop symbols all the way down and fulfill the need of children to take care of others. 
 
@@ -65,6 +67,7 @@ This scripted denial of capitalist logic ironically uses the same technique as t
 It is interesting how the term AI is used in the context of voice computer interfaces because there is nothing “smart” about it, just a winding flowchart of if-else conditions. What might be clever is the nefarious way how companies trick people into the belief in computer personalities, encouraging people to interact with the device like children playing with dolls. And when a company like Microsoft experimented with a more sophisticated chatbot, like Tay[^40], it started to repeat the racist and misogynistic slurs of Twitter users and consequently had to be heavily filtered and finally taken down.
 
 ## Leewa
+![Videoprojection of Leewa during the Silicon Friend Camp](210724-SFC-_0010781.jpg)
 
 The artist duo *Ekheo* consisting of Aude Langlois and Belinda Sykora, explore the crosslines of musical, visual, and sonic art performances. They met at the Sound Studies program at the Universität der Künste in Berlin, where they created musical improvisations and theoretical frameworks on voice and music. They started their research on voice, gender, and identity in relation to AI systems in 2019 and held talks at the MUK[^41] and other institutions to share their insights. 
 
@@ -114,51 +117,57 @@ Because we used a commercial product, we could not access the local model and on
 
 In my opinion, the example of *Leewa* illustrates the collective efforts that go into the building “an AI” quite nicely: it shows the process of using open source and proprietary code developed by people reliant on previous research, the creation of collective datasets through the recording of our voices and finally the human performers hiding in the background and remotely manipulating symbols for the audience. At the same time, *Leewa* is a self-referential project that makes the collective experience throughout the camp audible by using our synthetic and real voices, the interaction with the *Oracle* and snippets of anecdotes from the camp.
 
+## Reflection
+
+This chapter started from an ancient story which told of mechanical servants to help their master Hephaestus. A myth of the dream to breathe life into objects, of which we have evolved to empathize with as this is our default behavior. I looked at the journey it took us to imitate and understand the vocal patterns we have created to communicate. Starting from von Kempelen’s and Faber’s attempts to build mechanical devices capable of creating basic phonemes, which eventually led to the successful synthesis of voices using electricity. Initially, these artificial voices were incorporated into toys that could react to children's speech. However, as technology advanced and computer programs became more sophisticated, artificial voices became more ubiquitous, interacting with everyone. Finally, I highlighted the production of our own communal voice model and how we created a doll body that acts as performer; albeit being remotely controlled.
+But how come that just some years ago speech recognition was only working when you imitated a crude computer voice, but today it picks up your voice even in a noisy environment?
+In the next chapter I will go into the details of weighted networks and how they became feasible by downloading massive datasets from the internet and utilizing enormous amounts of computing power.
+
 ---
 
-[^1]: “Hephaestus then limped out of the door'; and maidens supported the ruler, golden ones, like living ones, with youthful, charming education: These have understanding in the breast, and speaking voice, Have strength, and also learned art work from the gods.” Homer, Iliad 18, 417-420; see @Ilias
+[^1]: “Hephaestus then limped out of the door'; and maidens supported the ruler, golden ones, like living ones, with youthful, charming education: These have understanding in the breast, and speaking voice, Have strength, and also learned art work from the gods.” @Ilias, 18, 417-420.
 [^2]: Faber's machine was first presented with a female mask in the USA and later in London under an oriental motif wearing a turban.
-[^3]: See @TalkingHeadInvention
-[^4]:  See @markertMichaelMarkertPortfolio
-[^5]: Demonstration of the Voder. See @britishmovietoneHumanVoiceMachine2015
+[^3]: See @TalkingHeadInvention.
+[^4]: See @markertMichaelMarkertPortfolio.
+[^5]: See @britishmovietoneHumanVoiceMachine2015 for a demonstration of the Voder. 
 [^6]: A focus on black women who worked as computers for NACA (NASA's predecessor) can be seen in the film Hidden Figures, 2016.
 [^7]: The story of the ENIAC programmers is told in the documentary The Computers, 2016.
-[^8]: Project description of Reflections of HAL and Samantha online. See @ohmReflectionsHALSamantha
+[^8]: See @ohmReflectionsHALSamantha.
 [^9]: @zarkadakesOurOwnImage2016
-[^10]: The robot puppy was featured on the TIME magazine cover with the title “Tech comes to Toyland”. See @TIMEMagazineCover
-[^11]: @shipmanAnimalConnectionHuman2010 
-[^12]: Sean Riddle requested the Furby source code from the US patent office and uploaded it on his webpage. See @FurbySourceCode
-[^13]: @lukoseTextSpeechSynthesizerFormant2017
+[^10]: See @TIMEMagazineCover where the robot puppy is featured on the TIME magazine cover with the title “Tech comes to Toyland”. 
+[^11]: @shipmanAnimalConnectionHuman2010.
+[^12]: See @FurbySourceCode.
+[^13]: @lukoseTextSpeechSynthesizerFormant2017.
 [^14]: To make the demo work, engineers had to use a prototype Mac that was more powerful than the retail version. It said: “Hello, I am Macintosh. It sure is great to get out of that bag! Unaccustomed as I am to public speaking, I'd like to share with you a maxim I thought of the first time I met an IBM mainframe: Never trust a computer that you can't lift! Obviously, I can talk, but right now I'd like to sit back and listen. So it is with considerable pride that I introduce a man who has been like a father to me... Steve Jobs!”. @hertzfeldFolkloreOrgIt1984
-[^15]: The songs of 386 DX are available on Alexei Shulgin’s website. See @shulgin386DXCyberpunkrock
-[^16]: Interview by the Guardian with multiple voice actors for Siri. See @parkinsonHeySiriMeet2015
-[^17]: @oordWaveNetGenerativeModel2016
-[^18]: Lyrebird changed their name to Descript. See https://www.descript.com/
-[^19]: @PoliticiansDiscussingLyrebird
-[^20]: Fraudsters could use a synthetic voice to instruct a bank transfer of 220.000€. @stuppFraudstersUsedAI2019
-[^21]: In 2019, an app named DeepNude got public attention and was taken down by the author shortly after. @coleThisHorrifyingApp2019
-[^22]: Examples of deep fake political comedy can be found on the YouTube Channel Speaking of AI. See https://www.youtube.com/channel/UCID5qusrF32kSj-oSGq3rJg
-[^23]: @pierceHowAppleFinally
-[^24]: @WaveNetLaunchesGoogle
-[^25]: @wangTacotronEndtoEndSpeech2017
-[^26]: See https://hydra.ojack.xyz
+[^15]: See @shulgin386DXCyberpunkrock. 
+[^16]: See @parkinsonHeySiriMeet2015.
+[^17]: @oordWaveNetGenerativeModel2016.
+[^18]: Lyrebird was acquired by Descript in 2019.
+[^19]: @PoliticiansDiscussingLyrebird.
+[^20]: See @stuppFraudstersUsedAI2019. Fraudsters used a synthetic voice to instruct a bank transfer of 220.000€.
+[^21]: See @coleThisHorrifyingApp2019. In 2019, an app named DeepNude got public attention and was taken down by the author shortly after. 
+[^22]: See https://www.youtube.com/channel/UCID5qusrF32kSj-oSGq3rJg where examples of deep fake political comedy can be found on the YouTube Channel Speaking of AI. 
+[^23]: @pierceHowAppleFinally.
+[^24]: @WaveNetLaunchesGoogle.
+[^25]: @wangTacotronEndtoEndSpeech2017.
+[^26]: See https://hydra.ojack.xyz.
 [^27]: As described in the introduction, I use "weighted" instead of "neural".
-[^28]: @hintonDeepNeuralNetworks2012
-[^29]: See @vanhouckeSpeechRecognitionDeep2012
-[^30]: Study on Gender and Dialect Bias in YouTube’s Automatic Captions that shows a higher error rate for women and non-American speakers. See @tatmanGenderDialectBias2017]; Facebook’s AI research department created a dataset of people with different skin tones, gender, and age to evaluate speech recognition models for biases and found significant differences between lighter and darker skin tones. See @liuMeasuringFairnessSpeech2021
-[^31]: @amodeiDeepSpeechEndtoEnd2015
-[^32]: The first Alexa recording in a court case was used after the defendant agreed to hand over his data. See @sampathkumarAmazonEchoCould2017
-[^33]: See [commonvoice.mozilla.org](https://commonvoice.mozilla.org/de)
-[^34]: See [librivox.org/](https://librivox.org/) and @panayotovLibrispeechASRCorpus2015
-[^35]: See @godfreyjohnj.Switchboard1Release1993
-[^36]: The title “I’d blush if I could” is also the response Siri gives to the insult “You’re a bitch”
-[^37]: See @lessioMakingSADHome2020; and on the portfolio website [nadinelessio.com](https://nadinelessio.com/sadhome/)
-[^38]: @vlahosTalkMeAmazon2020
-[^39]: @vlahosTalkMeAmazon2020, p.117
-[^40]: Tay was the name of a chatbot Microsoft intended to have a teenage personality and could be interacted with over multiple channels. Twitter trolls co-opted the bot with sexist, racist, and antisemitic questions that the bot replied to with generic answers. They also used a repeat-after-me phrase to make it look like the bot was spewing hateful comments. After only 16 hours, Microsoft deleted all accounts, and the PR disaster was immense, with headlines happily personifying the AI that has learned to be racist. But no continuous learning algorithm was involved, as a blog post by Russel Cameron Thomas in which he explains the technology stack behind Tay. See @ExploringPossibilitySpace
-[^41]: @GENDERDIVERSITYGastvortrag
+[^28]: @hintonDeepNeuralNetworks2012.
+[^29]: See @vanhouckeSpeechRecognitionDeep2012.
+[^30]: See @tatmanGenderDialectBias2017]: a study on Gender and Dialect Bias in YouTube’s Automatic Captions that shows a higher error rate for women and non-American speakers. And @liuMeasuringFairnessSpeech2021: a dataset of people with different skin tones, gender, and age to evaluate speech recognition models for biases. The Facebook AI research team found significant differences in speech recognition between lighter and darker skin tones. 
+[^31]: @amodeiDeepSpeechEndtoEnd2015.
+[^32]: See @sampathkumarAmazonEchoCould2017 for the first Alexa recording in a court case was used after the defendant agreed to hand over his data. 
+[^33]: See [commonvoice.mozilla.org](https://commonvoice.mozilla.org/de).
+[^34]: See [librivox.org/](https://librivox.org/) and @panayotovLibrispeechASRCorpus2015.
+[^35]: See @godfreyjohnj.Switchboard1Release1993.
+[^36]: The title “I’d blush if I could” is also the response Siri gives to the insult “You’re a bitch”.
+[^37]: See @lessioMakingSADHome2020; and on the portfolio website [nadinelessio.com](https://nadinelessio.com/sadhome/).
+[^38]: @vlahosTalkMeAmazon2020.
+[^39]: @vlahosTalkMeAmazon2020, p.117.
+[^40]: See @ExploringPossibilitySpace. Tay was the name of a chatbot Microsoft intended to have a teenage personality and could be interacted with over multiple channels. Twitter trolls co-opted the bot with sexist, racist, and antisemitic questions that the bot replied to with generic answers. They also used a repeat-after-me phrase to make it look like the bot was spewing hateful comments. After only 16 hours, Microsoft deleted all accounts, and the PR disaster was immense, with headlines happily personifying the AI that has learned to be racist. But no continuous learning algorithm was involved, as a blog post by Russel Cameron Thomas in which he explains the technology stack behind Tay.
+[^41]: @GENDERDIVERSITYGastvortrag.
 [^42]: The Oracle was a terminal computer connected to GPT-3 with a generic Q&A prompt.
-[^43]: From the GitHub repository CorentinJ/Real-Time-Voice-Cloning. See @jemineRealTimeVoiceCloning2022. And his master thesis: @jemineMasterThesisAutomatic
-[^44]: @jiaTransferLearningSpeaker2019
-[^45]: The SV2TTS pipeline is based on these previous papers: @wanGeneralizedEndtoEndLoss2020 → @wangTacotronEndtoEndSpeech2017 → @oordWaveNetGenerativeModel2016 
-[^46]: @CloneSyntheticAI
+[^43]: See @jemineMasterThesisAutomatic. And the corresponding GitHub repository @jemineRealTimeVoiceCloning2022.
+[^44]: @jiaTransferLearningSpeaker2019.
+[^45]: The SV2TTS pipeline is based on these previous papers: @wanGeneralizedEndtoEndLoss2020, @wangTacotronEndtoEndSpeech2017, and @oordWaveNetGenerativeModel2016.
+[^46]: @CloneSyntheticAI.
