@@ -25,20 +25,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "textgenerator/Untitled.md",
+                "file": "Chapters/03_Piles-of-Data.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9bbc31e51aa37793",
+            "id": "23488c00a7023a0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/02_Talking-to-Computers.md",
-                "mode": "source",
+                "file": "Chapters/04_Stochastic-Meaning.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/02_Talking-to-Computers.md",
+                "file": "Chapters/03_Piles-of-Data.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,11 +167,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9bbc31e51aa37793",
+  "active": "d0089f8485c17c05",
   "lastOpenFiles": [
+    "Chapters/04_Stochastic-Meaning.md",
     "Chapters/03_Piles-of-Data.md",
     "Chapters/02_Talking-to-Computers.md",
     "textgenerator/Untitled.md",
+    "Bibliography.md",
     "Chapters/01_Co-Intelligence.md",
     "Images/210724-SFC-_0010781.jpg",
     "Images/IMAG0038+0039.jpg",
@@ -182,7 +184,6 @@
     "Images/Euphonia-Photo_super-resolution.jpg",
     "Chapters/00_Hello-World.md",
     "Chapters/06_Addendum.md",
-    "Chapters/04_Stochastic-Meaning.md",
     "Chapters/05_endoftext.md",
     "Images/разговоры_с_компьютерами18.jpg",
     "Images/thispersondoesexist.png",

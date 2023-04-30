@@ -17,8 +17,6 @@ The other roadblock for deep, weighted networks is ‘overfitting’: in the cas
 
 In conclusion, the conceptual framework of how weighted networks (artificial neural nets, perceptrons, or cognitrons) work was mostly established in the past century. Their performance today comes from increased computing power and more extensive training sets. In fact, datasets have become larger and larger, and we haven’t seen the limits of what weighted networks are capable of. They seem to be mainly limited by data and computation.
 
-In the following chapter, I will examine how large training sets are constructed in an academic and artistic context with a closer look at the ethical issues and responsibilities regarding privacy, consent, representation, and ownership.
-
 ## Making Data
 
 My first encounter with a large dataset in the field of computer vision was in late 2017 when I found *11k Hands*.[^10] As the name suggests, it is a dataset of 11076 human hands compiled by the researcher Mahmoud Afifi for gender recognition and biometric identification. The images show the hands of 190 individuals, in both their palm and dorsal orientation, placed on a white background with uniform lighting. Each image is accompanied by the following metadata: age, binary gender, skin color on a scale of “very fair”, “fair”, “medium”, and “dark”, left or right hand, palm or dorsal, if it has nail polish and if there are “irregularities”. A statistical analysis of the dataset shows that it contains more female than male hands, mainly people in their 20s and a majority of “medium” and “fair” skin tones. The gender bias is addressed in the paper and mitigated by filtering the training set to equal male and female hands. They report that the CNN conditioned on this dataset had, on average, 87% accuracy in recognizing the correct gender on an image of the palm and 90% accuracy for the dorsal side.
@@ -29,7 +27,7 @@ The paper by Afifi et al. does not make such horrendous claims about the persona
 
 Another aspect of the dataset stood out to me when I started to look through the images. These are not pictures in the traditional sense. Their aesthetic value does not matter because they are simply tools to accomplish a task. They are not made ‘to look at’; instead, these images of hands are produced for a computer to analyze. Harun Faroki called these types of images ‘operative’ in his three-part series *Machine/Eye* where he examined how military technologies like guided weapons produce images that serve only the utility of the machine. As Aud Sissel Hoel puts it: “operative images are devoid of social intent, that they are not meant for edification, and nor for contemplation.” [^13]
 
-But what happens when you contemplate the hand dataset was remarkable to me. When I looked through the images quickly, I could not only see the motion of the test subject as the photos were selected frames from a video, but I also started to imagine the person behind the hand and apply my subjective stereotypes and biases that far expanded the labels of the dataset. I could imagine the scene around the camera with a couple of researchers who assembled a make-shift photo studio in the office of their lab. They greet the subject with a handshake, maybe a fellow student, and explain the procedure quickly to get them to sign the paper that their anonymized personal data will be published for scientific research. Then the person puts both hands under the camera, spreads their fingers, and leaves. 
+Upon contemplating the hand dataset, I was struck by its remarkable features. When I looked through the images quickly, I could not only see the motion of the test subject as the photos were selected frames from a video, but I also started to imagine the person behind the hand and apply my subjective stereotypes and biases which far expanded the labels of the dataset. I could imagine the scene around the camera with a couple of researchers who assembled a make-shift photo studio in the office of their lab. They greet the subject with a handshake, maybe a fellow student, and explain the procedure quickly to get them to sign the paper that their anonymized personal data will be published for scientific research. Then the person puts both hands under the camera, spreads their fingers, and leaves. 
 
 This dichotomy between the label and my narrative inspired me to create a video piece featuring the unaltered dataset. I used the default Mac computer speech synthesis to read the labels corresponding to each hand and sped it up to fit into a 26-minute-long video. As viewers witness the participants holding their hands into the camera and spreading their fingers, they are met with a monotone, beat-like soundtrack of repeating words like “fair” and “medium” and occasionally “nail polish”.[^14]
 
@@ -37,7 +35,7 @@ This dichotomy between the label and my narrative inspired me to create a video 
 
   
 
-At the 36th Chaos Communication Congress, I organized a workshop called “Palm Reading AI”, inviting visitors to read people's hands from the 11k hands dataset. At first, I only introduced them to palmistry using wikiHow as a reference.[^15] Then I handed out some prints where a random hand from the dataset was depicted, and participants had to answer a couple of questions. Some questions were short guesses like age, gender, and country of origin; for others, they had to come up with fictional stories with only the hand lines as a reference: what is the persons future? How was their childhood? How is their love life?
+At the 36th Chaos Communication Congress, I organized a workshop called “Palm Reading AI”, inviting visitors to read people's palms from the 11k hands dataset. At first, I only introduced them to palmistry using wikiHow as a reference.[^15] Then I handed out some prints where a random hand from the dataset was depicted, and participants had to answer a couple of questions. Some questions were short guesses like age, gender, and country of origin; for others, they had to come up with fictional stories with only the hand lines as a reference: what is the persons future? How was their childhood? How is their love life?
 
 After they filled in the form, some people shared their stories, and then I revealed where these hands came from and how computer scientists are using them to create models that try to predict their gender. Afterward, we discussed the practice of creating large datasets and their ethical considerations. I had a long talk with one participant that did not want to guess the age or gender of that person, and I told them that this was precisely the point of the workshop: to reflect on our own biases and stereotypes and how they translate into science.
 
@@ -176,104 +174,114 @@ Ultimately, I wrote a small program that uploaded and posted a newly generated i
 ![Book cover of Recommended Hashtags | 200](Recommended_Hashtags_0.jpg)
 ![First page of Recommended Hashtags | 200](Recommended_Hashtags_1.jpg)
 
+## Reflection
+
+As the idea behind computer programs that simulate the human brain goes back to the 1950s and not much has changed in the basic architecture of such systems, a few other things had to come together to make weighted networks perform so well. One crucial aspect was scale, which allowed researchers to access vast amounts of digital data uploaded and indexed on platforms and search engines. Another factor was the ability to programmatically exploit workers for minimal tasks like labeling images. Lastly, the utilization of parallel processing on graphics cards played a significant role in processing large datasets for an extended amount of time.
+I shared my personal experience how I got in contact with operational images through the viewing of 11,000 hands. What kind of privacy considerations are neglected in scientific research and how creative commons licenses are used to deflect responsibility. As an example I looked through the Flickr faces that served as a dataset for new synthetic image models. I also examined two art forms that emerged from these technological changes: Dataset Art, the re-framing of scientific datasets exposing them to a wider public, and Scrapism, the practice of downloading assets from the internet for artistic purposes. I placed some of my works that fit into these categories and gave examples by other artists, such as Adam Harvey, Kate Crawford & Trevor Paglen or Sam Lavigne. These projects all map the shift of how the internet transformed from a place to a corpus.
+
+How the models derived from online data are reflecting us and how we find meaning in their outputs will be the focus of the next chapter where I will take a closer look into text models. 
+
+The concept of computer programs simulating the human brain has been around since the 1950s, but not much has changed in the basic architecture of such systems. However, there were a few necessary components that had to come together to make weighted networks perform so well. 
+
+I also shared my personal experience with operational images by viewing 11,000 hands and discussed how privacy considerations are often neglected in scientific research. I highlighted how creative commons licenses are used to deflect responsibility and examined two art forms that emerged from these technological changes: Dataset Art and Scrapism. Dataset Art involves re-framing scientific datasets to expose them to a wider public, while Scrapism involves downloading assets from the internet for artistic purposes.
+
+The next chapter will focus on how models derived from online data reflect us and how we find meaning in their outputs, specifically text models.
 
 ---
 
 
-[^1]: @rosenblattPerceptronProbabilisticModel1958
+[^1]: @rosenblattPerceptronProbabilisticModel1958.
 
 [^2]: The Mark I was an electromechanical machine that used motor-driven potentiometers to adjust the variable weights.
 
 [^3]: Frank Rosenblatt died in a boating accident in 1971. A couple of years prior, Marvin Minsky heavily criticized the mathematics behind perceptrons and advocated for a symbolic approach. These events might have led to a lack of funding in the ‘connectionist’ AI research field and ultimately to a general disinterest when the symbolic approach could not keep its exaggerated promises.
 
-[^4]: @mitchellArtificialIntelligenceGuide2019, p. 114
+[^4]: @mitchellArtificialIntelligenceGuide2019, p. 114.
 
-[^5]: @fukushimaCognitronSelforganizingMultilayered1975
+[^5]: @fukushimaCognitronSelforganizingMultilayered1975.
 
-[^6]: @fukushimaNeocognitronHierarchicalNeural1988
+[^6]: @fukushimaNeocognitronHierarchicalNeural1988.
 
-[^7]: @tappertWhoFatherDeep2019
+[^7]: @tappertWhoFatherDeep2019.
 
-[^8]: @krizhevskyImageNetClassificationDeep2017
+[^8]: @krizhevskyImageNetClassificationDeep2017.
 
-[^9]: “One epoch takes 35 GPU minutes but more than 35 CPU hours.” @ciresanFlexibleHighPerformance
+[^9]: “One epoch takes 35 GPU minutes but more than 35 CPU hours.” @ciresanFlexibleHighPerformance.
 
-[^10]: @afifi11KHandsGender2018; data and source code are available at @afifi11kHands
+[^10]: @afifi11KHandsGender2018; data and source code are available at @afifi11kHands.
 
-[^11]: In 2018, Parker et al. jokingly tested the Galls theory using 21st-century scientific methods and MRI data. @dempsey-jonesNeuroscientistsPutDubious2018
+[^11]: See @dempsey-jonesNeuroscientistsPutDubious2018. In 2018, Parker et al. jokingly tested the Galls theory using 21st-century scientific methods and MRI data. 
 
 [^12]: I didn’t test the system as I don’t know how to run MatLab code, but I can imagine that the slightly better results on the dorsal hand result from nail polish only being applied on female hands. 
 
-[^13]: @hoelOperativeImagesInroads2018
+[^13]: @hoelOperativeImagesInroads2018.
 
-[^14]: See @matthiasschafer11kHands2018
+[^14]: See @matthiasschafer11kHands2018.
 
-[^15]: @HowReadPalms
+[^15]: @HowReadPalms.
 
-[^16]: One particularly famous example is the work by Michael Kosinski and Yiluna Wang. Their flawed study tried to predict if a person is gay by scraping dating sites and training a classifier on these images. See @murphyWhyStanfordResearchers2017
+[^16]: See @murphyWhyStanfordResearchers2017. A particularly famous example by Michael Kosinski and Yiluna Wang. Their flawed study tried to predict if a person is gay by scraping dating sites and training a classifier on these images.
 
-[^17]: ImageNet started with 3,2 million images and aimed to collect 50 million by the end of 2011. @dengImageNetLargeScaleHierarchical2009
+[^17]: See @dengImageNetLargeScaleHierarchical2009. ImageNet started with 3,2 million images and aimed to collect 50 million by the end of 2011. 
+[^18]: @gershgornDataThatTransformed2017.
 
-[^18]: @gershgornDataThatTransformed2017
+[^19]: @haraDataDrivenAnalysisWorkers2017.
 
-[^19]: @haraDataDrivenAnalysisWorkers2017
+[^20]: See @TechnicallyResponsibleKnowledge.
 
-[^20]: See @TechnicallyResponsibleKnowledge
+[^21]: See @KATECRAWFORDTREVOR.
 
-[^21]: See @KATECRAWFORDTREVOR
+[^22]: @ExcavatingAI.
 
-[^22]: @ExcavatingAI 
+[^23]: See @ImageNetRouletteTrevor.
 
-[^23]: See @ImageNetRouletteTrevor
+[^24]: @reaHowImageNetRoulette2019.
 
-[^24]: @reaHowImageNetRoulette2019
+[^25]: See @harveyExposingAi.
 
-[^25]: See @harveyExposingAi
+[^26]: @2ndUnconstrainedFace.
 
-[^26]: @2ndUnconstrainedFace
+[^27]: See @CreativeCommonsBiometrics for a more extensive analysis on the exploitation of CC media.
 
-[^27]: See a more extensive analysis on the exploitation of CC media by A. Harvey: @CreativeCommonsBiometrics
+[^28]: @CreativeCommonsBiometrics.
 
-[^28]: @CreativeCommonsBiometrics
+[^29]: YFCC100M only contains links and metadata to images and videos under CC license on Flickr.
 
-[^29]: YFCC100M only contains links and metadata to images and videos under CC license on Flickr
+[^30]: @harveyExposingAiMegaFace.
 
-[^30]: @harveyExposingAiMegaFace
+[^31]: @hillHowPhotosYour2019.
 
-[^31]: @hillHowPhotosYour2019
+[^32]: The Open Future Foundation is a think tank that actively tries to influence European digital policy debates. See @OpenFutureOpen.
 
-[^32]: The Open Future Foundation is a think tank that actively tries to influence European digital policy debates. See @OpenFutureOpen
+[^33]: @karrasStyleBasedGeneratorArchitecture2019.
 
-[^33]: @karrasStyleBasedGeneratorArchitecture2019
+[^34]: See @ThisPersonDoes2019. At the time of this writing, the URL redirects to stability.ai, but there is an archived version. 
+[^35]: See @schaferThisPersonDoes2021.
 
-[^34]: At the time of this writing, the URL redirects to stability.ai, but there is an archived version. See @ThisPersonDoes2019
+[^36]: @FFHQDatasetSearch.
 
-[^35]: See @schaferThisPersonDoes2021
+[^37]: See ‘FFHQ Dataset’ at @CreativeCommonsBiometrics.
 
-[^36]: @FFHQDatasetSearch
+[^38]: @karrasStyleBasedGeneratorArchitecture2019.
 
-[^37]: See ‘FFHQ Dataset’ at @CreativeCommonsBiometrics
+[^39]: @schaferThisPersonDoes2021.
 
-[^38]: @karrasStyleBasedGeneratorArchitecture2019
+[^40]: @lavigneScrapism.
 
-[^39]: @schaferThisPersonDoes2021
+[^41]: See @XTRAMarkHansen and @ArsElectronicaArchiv.
 
-[^40]: @lavigneScrapism
+[^42]: @lavigneNewYorkApartment.
 
-[^41]: See @XTRAMarkHansen and @ArsElectronicaArchiv
+[^43]: @samlavigneJustDiscoveredOpen2020.
 
-[^42]: @lavigneNewYorkApartment
+[^44]: See @schaferMissingPictures.
 
-[^43]: @samlavigneJustDiscoveredOpen2020
+[^45]: See @NutzungsbedingungenInstagramHilfebereich.
 
-[^44]: See @schaferMissingPictures
+[^46]: Complete list of artists can be found here [doggg.art/artistlist.html](https://doggg.art/artistlist.html).
 
-[^45]: See @NutzungsbedingungenInstagramHilfebereich
+[^47]: See @chakelianJourneyManyFaces2021.
 
-[^46]: Complete list of artists can be found here [doggg.art/artistlist.html](https://doggg.art/artistlist.html)
+[^48]: See @InternetYamiIchi.
 
-[^47]: See @chakelianJourneyManyFaces2021
-
-[^48]: See @InternetYamiIchi
-
-[^49]: See @karrasAnalyzingImprovingImage2020
+[^49]: See @karrasAnalyzingImprovingImage2020.
