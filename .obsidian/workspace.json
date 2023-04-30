@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/05_endoftext.md",
+                "file": "Chapters/04_Stochastic-Meaning.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/06_Addendum.md",
+                "file": "Chapters/06_contributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/05_endoftext.md",
+                "file": "Chapters/04_Stochastic-Meaning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,8 +169,9 @@
   },
   "active": "d0089f8485c17c05",
   "lastOpenFiles": [
-    "Chapters/04_Stochastic-Meaning.md",
+    "Chapters/06_contributions.md",
     "Chapters/05_endoftext.md",
+    "Chapters/04_Stochastic-Meaning.md",
     "Chapters/03_Piles-of-Data.md",
     "Chapters/02_Talking-to-Computers.md",
     "textgenerator/Untitled.md",
@@ -184,7 +185,6 @@
     "Images/original/Euphonia-Photo_super-resolution.jpg",
     "Images/Euphonia-Photo_super-resolution.jpg",
     "Chapters/00_Hello-World.md",
-    "Chapters/06_Addendum.md",
     "Images/разговоры_с_компьютерами18.jpg",
     "Images/thispersondoesexist.png",
     "Images/Screen_Shot_2023-03-15_at_20.54.49.png",

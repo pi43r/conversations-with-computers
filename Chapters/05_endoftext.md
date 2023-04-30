@@ -16,16 +16,6 @@ Projects like the *Silicon Friend Camp* are a way for communal and playful inter
 
 Both the technological and social aspects have informed my body of work, and I hope to continue my journey into *artificial social networks*, as I have come to see these strange artifacts compressing the human experience into data points. I would have liked to write more about some things, like the intricacies of coding languages and the humor of their esoteric counterparts or the vast exploitation of labor orchestrated by computers. But for now, it is time to terminate the program and spend some time with my friends.<|endoftext|>[^2]
 
-## Contribution
 
-Thank you to my supervisors *Manuela Naveau*, *Christa Sommerer* and *Laurent Mignonneau*.
-
-A special thanks to *Davide Bevilacqua* and the *Servus.at* association for making the *Silicon Friend Camp*, exhibition, and symposium possible.
-
-Thank you to *Bani Budassin* who invited me to write for Temes des Disseny, which formed my thoughts around Dataset Art. 
-
-And, of course, to all my new and old friends, contemporaries, and collaborators.
-I am because you are.
-
-[^1]: @weizenbaumComputerPowerHuman1976, p. 241
-[^2]: GPT uses this token to give the model a reference when a piece of text is finished and new one beginnings. In this thesis, I selectively used the models GPT-3 and GPT-3.5 (and its variant ChatGPT) to rephrase parts of my text, find synonyms, and get inspiration when I’m stuck or correct my writing. It often created very uninspiring and generic output, but sometimes I could find precisely the right phrase or word. It also helped me validate some of the technical language I struggled with. As I am also using spellcheckers and search engines, I do not consider this unethical or plagiarism, but I might have accidentally quoted someone without attribution by using this technology.
+[^1]: @weizenbaumComputerPowerHuman1976, p. 241.
+[^2]: GPT uses this token to give the model a reference when a piece of text is finished and a new one begins. In this thesis, I selectively used the models GPT-3 and GPT-3.5 (ChatGPT) to rephrase parts of my text, find synonyms, get inspiration when I’m stuck or correct my writing. It often created very uninspiring and generic output, but sometimes I could find precisely the right phrase or word. It also helped me validate some of the technical language I struggled with. As I am also using spellcheckers and search engines, I do not consider this unethical or plagiarism, but I recognize that I might have accidentally quoted someone without attribution by using this technology.
