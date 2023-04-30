@@ -11,8 +11,8 @@ linkReferences: true
 nameInLink: true
 colorlinks: true
 papersize: a4
-dpi: 72
-resource-path: ["./small/"] #Change this for full resolution images
+dpi: 300
+resource-path: ["./Images/original/"] #Change this for full resolution images
 header-includes: |
   \usepackage{enotez}
   \usepackage[multidot]{grffile}

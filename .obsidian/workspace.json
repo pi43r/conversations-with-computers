@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/04_Stochastic-Meaning.md",
+                "file": "Chapters/06_contributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/04_Stochastic-Meaning.md",
+                "file": "Chapters/06_contributions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,11 +167,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d0089f8485c17c05",
+  "active": "494a9bbe796de145",
   "lastOpenFiles": [
+    "Images/original/the-chiromancer_HQ_5.jpg",
+    "Images/original/the-chiromancer_HQ_2.jpg",
+    "Images/original/DSC01314.jpg",
+    "Chapters/04_Stochastic-Meaning.md",
+    "Images/the-chiromancer_HQ_5.jpg",
+    "Images/the-chiromancer_HQ_2.jpg",
+    "Images/DSC01314.jpg",
     "Chapters/06_contributions.md",
     "Chapters/05_endoftext.md",
-    "Chapters/04_Stochastic-Meaning.md",
     "Chapters/03_Piles-of-Data.md",
     "Chapters/02_Talking-to-Computers.md",
     "textgenerator/Untitled.md",
@@ -183,12 +189,7 @@
     "Images/IMG-20220728-WA0000-removebg.png",
     "Images/proud-robot",
     "Images/original/Euphonia-Photo_super-resolution.jpg",
-    "Images/Euphonia-Photo_super-resolution.jpg",
     "Chapters/00_Hello-World.md",
-    "Images/разговоры_с_компьютерами18.jpg",
-    "Images/thispersondoesexist.png",
-    "Images/Screen_Shot_2023-03-15_at_20.54.49.png",
-    "Images/Screen_Shot_2023-03-15_at_20.50.49.png",
     "Images/original",
     "output/all-cwc.pdf",
     "small",
@@ -213,7 +214,6 @@
     "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default/getEmailPos.md",
     "textgenerator/prompts/default/getEmailNeg.md",
-    "output/cwc.md",
-    "Presentations/December.md"
+    "output/cwc.md"
   ]
 }
