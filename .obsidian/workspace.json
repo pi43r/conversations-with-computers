@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/04_Stochastic-Meaning.md",
+                "file": "Chapters/05_endoftext.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/04_Stochastic-Meaning.md",
+                "file": "Chapters/05_endoftext.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,8 +169,8 @@
   },
   "active": "d0089f8485c17c05",
   "lastOpenFiles": [
-    "Chapters/05_endoftext.md",
     "Chapters/04_Stochastic-Meaning.md",
+    "Chapters/05_endoftext.md",
     "Chapters/03_Piles-of-Data.md",
     "Chapters/02_Talking-to-Computers.md",
     "textgenerator/Untitled.md",
