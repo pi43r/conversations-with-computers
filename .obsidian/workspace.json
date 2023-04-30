@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "d0089f8485c17c05",
+            "id": "2006c783b1e011ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/06_contributions.md",
+                "file": "Chapters/02_Talking-to-Computers.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Chapters/04_Stochastic-Meaning.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/06_contributions.md",
+                "file": "Chapters/05_endoftext.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "aa826788e6703207",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/06_contributions.md",
+                "file": "Chapters/00_Hello-World.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,41 +167,41 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "494a9bbe796de145",
+  "active": "28374a100678b7a7",
   "lastOpenFiles": [
+    "output/paged/style/interface.css",
+    "output/paged/style",
+    "output/paged/interface.css",
+    "Chapters/01_Co-Intelligence.md",
+    "Chapters/03_Piles-of-Data.md",
+    "Chapters/05_endoftext.md",
+    "Chapters/06_contributions.md",
+    "Chapters/04_Stochastic-Meaning.md",
+    "Chapters/02_Talking-to-Computers.md",
+    "output/paged/index.html",
+    "output/paged",
     "Images/original/the-chiromancer_HQ_5.jpg",
     "Images/original/the-chiromancer_HQ_2.jpg",
     "Images/original/DSC01314.jpg",
-    "Chapters/04_Stochastic-Meaning.md",
     "Images/the-chiromancer_HQ_5.jpg",
     "Images/the-chiromancer_HQ_2.jpg",
     "Images/DSC01314.jpg",
-    "Chapters/06_contributions.md",
-    "Chapters/05_endoftext.md",
-    "Chapters/03_Piles-of-Data.md",
-    "Chapters/02_Talking-to-Computers.md",
     "textgenerator/Untitled.md",
     "Bibliography.md",
-    "Chapters/01_Co-Intelligence.md",
     "Images/210724-SFC-_0010781.jpg",
     "Images/IMAG0038+0039.jpg",
     "Images/original/IMG-20220728-WA0000-removebg.png",
     "Images/IMG-20220728-WA0000-removebg.png",
     "Images/proud-robot",
-    "Images/original/Euphonia-Photo_super-resolution.jpg",
     "Chapters/00_Hello-World.md",
     "Images/original",
     "output/all-cwc.pdf",
     "small",
     "Images/small",
     "output/all-cwc-compressed.pdf",
-    "output/lu8840323ki2mv.tmp",
-    "output/Chapters/05_endoftext.md.html",
     "Presentations/February 23.md",
     "Notes/weizenbaum.md",
     "Notes/Chiro Giaco.md",
-    "output/Chapters/04_Stochastic-Meaning.md.html",
-    "chicago-fullnote-bibliography-with-ibid.csl",
     "Notes/@wangDefiningArtificialIntelligence2019.md",
     "textgenerator/prompts/default/rewrite.md",
     "textgenerator/prompts/default/rewrite 1.md",

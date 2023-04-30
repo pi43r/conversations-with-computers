@@ -185,7 +185,7 @@ How the models derived from online data are reflecting us and how we find meanin
 ---
 
 
-[^1]: @rosenblattPerceptronProbabilisticModel1958.
+[^1]: @rosenblattPerceptronProbabilisticModel1958 .
 
 [^2]: The Mark I was an electromechanical machine that used motor-driven potentiometers to adjust the variable weights.
 
@@ -193,83 +193,84 @@ How the models derived from online data are reflecting us and how we find meanin
 
 [^4]: @mitchellArtificialIntelligenceGuide2019, p. 114.
 
-[^5]: @fukushimaCognitronSelforganizingMultilayered1975.
+[^5]: @fukushimaCognitronSelforganizingMultilayered1975 .
 
-[^6]: @fukushimaNeocognitronHierarchicalNeural1988.
+[^6]: @fukushimaNeocognitronHierarchicalNeural1988 .
 
-[^7]: @tappertWhoFatherDeep2019.
+[^7]: @tappertWhoFatherDeep2019 .
 
-[^8]: @krizhevskyImageNetClassificationDeep2017.
+[^8]: @krizhevskyImageNetClassificationDeep2017 .
 
-[^9]: “One epoch takes 35 GPU minutes but more than 35 CPU hours.” @ciresanFlexibleHighPerformance.
+[^9]: “One epoch takes 35 GPU minutes but more than 35 CPU hours.” @ciresanFlexibleHighPerformance2011.
 
 [^10]: @afifi11KHandsGender2018; data and source code are available at @afifi11kHands.
 
-[^11]: See @dempsey-jonesNeuroscientistsPutDubious2018. In 2018, Parker et al. jokingly tested the Galls theory using 21st-century scientific methods and MRI data. 
+[^11]: See @dempsey-jonesNeuroscientistsPutDubious2018. Parker et al. jokingly tested the Galls theory using 21st-century scientific methods and MRI data. 
 
 [^12]: I didn’t test the system as I don’t know how to run MatLab code, but I can imagine that the slightly better results on the dorsal hand result from nail polish only being applied on female hands. 
 
-[^13]: @hoelOperativeImagesInroads2018.
+[^13]: @hoelOperativeImagesInroads2018 .
 
-[^14]: See @matthiasschafer11kHands2018.
+[^14]: See @schafer11kHands2018 .
 
-[^15]: @HowReadPalms.
+[^15]: @HowReadPalms .
 
 [^16]: See @murphyWhyStanfordResearchers2017. A particularly famous example by Michael Kosinski and Yiluna Wang. Their flawed study tried to predict if a person is gay by scraping dating sites and training a classifier on these images.
 
 [^17]: See @dengImageNetLargeScaleHierarchical2009. ImageNet started with 3,2 million images and aimed to collect 50 million by the end of 2011. 
-[^18]: @gershgornDataThatTransformed2017.
 
-[^19]: @haraDataDrivenAnalysisWorkers2017.
+[^18]: @gershgornDataThatTransformed2017 .
+
+[^19]: @haraDataDrivenAnalysisWorkers2017 .
 
 [^20]: See @TechnicallyResponsibleKnowledge.
 
 [^21]: See @KATECRAWFORDTREVOR.
 
-[^22]: @ExcavatingAI.
+[^22]: @ExcavatingAI .
 
 [^23]: See @ImageNetRouletteTrevor.
 
-[^24]: @reaHowImageNetRoulette2019.
+[^24]: @reaHowImageNetRoulette2019 .
 
-[^25]: See @harveyExposingAi.
+[^25]: See @harveyExposingAi2021.
 
-[^26]: @2ndUnconstrainedFace.
+[^26]: @2ndUnconstrainedFace .
 
-[^27]: See @CreativeCommonsBiometrics for a more extensive analysis on the exploitation of CC media.
+[^27]: See @harveyCreativeCommonsBiometrics2022 for a more extensive analysis on the exploitation of CC media.
 
-[^28]: @CreativeCommonsBiometrics.
+[^28]: @harveyCreativeCommonsBiometrics2022 .
 
 [^29]: YFCC100M only contains links and metadata to images and videos under CC license on Flickr.
 
-[^30]: @harveyExposingAiMegaFace.
+[^30]: @harveyExposingAiMegaFace2021 .
 
-[^31]: @hillHowPhotosYour2019.
+[^31]: @hillHowPhotosYour2019 .
 
 [^32]: The Open Future Foundation is a think tank that actively tries to influence European digital policy debates. See @OpenFutureOpen.
 
-[^33]: @karrasStyleBasedGeneratorArchitecture2019.
+[^33]: @karrasStyleBasedGeneratorArchitecture2019
 
 [^34]: See @ThisPersonDoes2019. At the time of this writing, the URL redirects to stability.ai, but there is an archived version. 
 [^35]: See @schaferThisPersonDoes2021.
 
-[^36]: @FFHQDatasetSearch.
+[^36]: @FFHQDatasetSearch .
 
-[^37]: See ‘FFHQ Dataset’ at @CreativeCommonsBiometrics.
+[^37]: See ‘FFHQ Dataset’ at @harveyCreativeCommonsBiometrics2022.
 
-[^38]: @karrasStyleBasedGeneratorArchitecture2019.
+[^38]: @karrasStyleBasedGeneratorArchitecture2019 .
 
-[^39]: @schaferThisPersonDoes2021.
+[^39]: @schaferThisPersonDoes2021 .
 
-[^40]: @lavigneScrapism.
+[^40]: @lavigneScrapism .
 
 [^41]: See @XTRAMarkHansen and @ArsElectronicaArchiv.
 
-[^42]: @lavigneNewYorkApartment.
+[^42]: @lavigneNewYorkApartment .
 
-[^43]: @samlavigneJustDiscoveredOpen2020.
+[^43]: @samlavigneJustDiscoveredOpen2020 .
 
-[^44]: See @schaferMissingPictures.
+[^44]: @schaferMissingPictures2018 .
 
 [^45]: See @NutzungsbedingungenInstagramHilfebereich.
 

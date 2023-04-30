@@ -126,25 +126,25 @@ At the same time, The Chiromancer also raises questions about the ethics of usin
 
 ---
 
-[^1]: @weizenbaumComputerPowerHuman1976.
-[^2]: @weizenbaumComputerPowerHuman1976.
+[^1]: @weizenbaumComputerPowerHuman1976
+[^2]: @weizenbaumComputerPowerHuman1976
 [^3]: @hofstadterFluidConceptsCreative1995, p. 157.
 [^4]: See @JabberwackyThoughtsArtificial2006 & @Cleverbot.
-[^5]: @jacobSoftwareTricksPeople.
+[^5]: @jacobSoftwareTricksPeople2011
 [^6]: In the original paper “Computing Machinery and Intelligence” from 1950 Alan Turing was more specific and actually proposed for the computer to imitate the gendered role of a woman.
-[^7]: @vaswaniAttentionAllYou2017.
+[^7]: @vaswaniAttentionAllYou2017
 [^8]: OpenAI has since created a capped profit subsidiary based on investments by large corporations such as Microsoft.
-[^9]: See @bandyAddressingDocumentationDebt.
-[^10]: @openaiBetterLanguageModels.
-[^11]: @hernNewAIFake2019.
-[^12]: @cohenOpenGPT2WeReplicated2019.
-[^13]: @OpenAIAPI.
-[^14]: @OpenAIGPT3Language2020.
-[^15]: @simonitePaperThatLed.
-[^16]: @benderDangersStochasticParrots2021.
+[^9]: See @bandyAddressingDocumentationDebt2021
+[^10]: @openaiBetterLanguageModels2019
+[^11]: @hernNewAIFake2019
+[^12]: @cohenOpenGPT2WeReplicated2019
+[^13]: @OpenAIAPI2020
+[^14]: @OpenAIGPT3Language2020
+[^15]: @simonitePaperThatLed2020
+[^16]: @benderDangersStochasticParrots2021
 [^17]: @benderDangersStochasticParrots2021 p. 615.
-[^18]: @breretonBingAICan2023.
-[^19]: @xiangHeWouldStill2023.
-[^20]: @woolfGpt2simple2023.
+[^18]: @breretonBingAICan2023
+[^19]: @xiangHeWouldStill2023
+[^20]: @woolfGpt2simple2023
 [^21]: The computer uses lower-end gaming hardware with an Nvidia GTX 1660 Super GPU that has 6GB VRAM. Enough to run the medium sized models of GPT-2. 
-[^22]: @DIGITALSQUARE.
+[^22]: @DIGITALSQUARE2021
