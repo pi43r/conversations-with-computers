@@ -169,6 +169,8 @@
   },
   "active": "28374a100678b7a7",
   "lastOpenFiles": [
+    "output/paged/js/full-page.js",
+    "output/paged/js/csstree.min.js",
     "output/paged/css/pagedjs/interface/recto-verso.css",
     "output/paged/css/pagedjs/interface/interface.css",
     "output/paged/css/pagedjs/interface/baseline.css",
@@ -188,8 +190,6 @@
     "output/paged/img/Screenshot_2021-12-14_at_20-07-47_11k_Hands.png",
     "output/paged/img/Screenshot_20210721-201648_Instagram.jpg",
     "output/paged/img/Recommended_Hashtags_1.jpg",
-    "output/paged/img",
-    "output/paged/style/pagedjs/interface/recto-verso.css",
     "Chapters/01_Co-Intelligence.md",
     "Chapters/03_Piles-of-Data.md",
     "Chapters/05_endoftext.md",

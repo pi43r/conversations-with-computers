@@ -1,7 +1,7 @@
 ---
 documentclass: scrbook
 bibliography: ["./zotero.bib"]
-csl: "chicago-fullnote-bibliography-with-ibid.csl"
+# csl: "chicago-fullnote-bibliography-with-ibid.csl"
 table-of-contents: true
 link-citations: true
 title: "Conversations with Computers"
@@ -10,7 +10,7 @@ reference-location: document
 linkReferences: true
 nameInLink: true
 colorlinks: true
-papersize: a4
+papersize: b5
 dpi: 300
 resource-path: ["./Images/original/"] #Change this for full resolution images
 header-includes: |
