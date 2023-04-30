@@ -107,26 +107,30 @@ Since 2021 we have exhibited The Chiromancer in several exhibitions around Europ
 
 ![Sample Print of The Chiromancer | 300](chiro-IMG_2848.jpg)
 
+## Reflection
+
+
+
 ---
 
-[^1]: @weizenbaumComputerPowerHuman1976
-[^2]: @weizenbaumComputerPowerHuman1976
-[^3]: @hofstadterFluidConceptsCreative1995, p. 157
-[^4]: See @JabberwackyThoughtsArtificial2006 & @Cleverbot
-[^5]: @jacobSoftwareTricksPeople
-[^6]: @vaswaniAttentionAllYou2017
+[^1]: @weizenbaumComputerPowerHuman1976.
+[^2]: @weizenbaumComputerPowerHuman1976.
+[^3]: @hofstadterFluidConceptsCreative1995, p. 157.
+[^4]: See @JabberwackyThoughtsArtificial2006 & @Cleverbot.
+[^5]: @jacobSoftwareTricksPeople.
+[^6]: @vaswaniAttentionAllYou2017.
 [^7]: OpenAI has since created a capped profit subsidiary based on investments by large corporations such as Microsoft.
-[^8]: See @bandyAddressingDocumentationDebt
-[^9]: @openaiBetterLanguageModels
-[^10]: @hernNewAIFake2019
-[^11]: @cohenOpenGPT2WeReplicated2019
-[^12]: @OpenAIAPI
-[^13]: @OpenAIGPT3Language2020
-[^14]: @simonitePaperThatLed
-[^15]: @benderDangersStochasticParrots2021
-[^16]: @benderDangersStochasticParrots2021 p. 615
-[^17]: @breretonBingAICan2023
-[^18]: @xiangHeWouldStill2023
-[^19]: @woolfGpt2simple2023
+[^8]: See @bandyAddressingDocumentationDebt.
+[^9]: @openaiBetterLanguageModels.
+[^10]: @hernNewAIFake2019.
+[^11]: @cohenOpenGPT2WeReplicated2019.
+[^12]: @OpenAIAPI.
+[^13]: @OpenAIGPT3Language2020.
+[^14]: @simonitePaperThatLed.
+[^15]: @benderDangersStochasticParrots2021.
+[^16]: @benderDangersStochasticParrots2021 p. 615.
+[^17]: @breretonBingAICan2023.
+[^18]: @xiangHeWouldStill2023.
+[^19]: @woolfGpt2simple2023.
 [^20]: The computer uses lower-end gaming hardware with an Nvidia GTX 1660 Super GPU that has 6GB VRAM. Enough to run the medium sized models of GPT-2. 
-[^21]: @DIGITALSQUARE
+[^21]: @DIGITALSQUARE.
