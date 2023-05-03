@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/00_Hello-World.md",
+                "file": "Chapters/02_Talking-to-Computers.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 307.5086555480957
   },
   "right": {
     "id": "aa826788e6703207",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/00_Hello-World.md",
+                "file": "Chapters/02_Talking-to-Computers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,6 +169,8 @@
   },
   "active": "28374a100678b7a7",
   "lastOpenFiles": [
+    "output/paged/originals/webrefs.html",
+    "Chapters/00_Hello-World.md",
     "apa.csl",
     "output/paged/originals/all-cwc.html",
     "output/paged/originals/all.html",
@@ -189,9 +191,7 @@
     "output/paged/fonts/Aspekta/AspektaVF.woff2",
     "output/paged/fonts/Aspekta/AspektaVF.ttf",
     "output/paged/fonts/Aspekta",
-    "output/paged/fonts/variable/font-face.css",
     "Chapters/01_Co-Intelligence.md",
-    "Chapters/00_Hello-World.md",
     "Chapters/03_Piles-of-Data.md",
     "Chapters/05_endoftext.md",
     "Chapters/06_contributions.md",
