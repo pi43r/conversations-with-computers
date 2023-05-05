@@ -165,6 +165,8 @@
   },
   "active": "28374a100678b7a7",
   "lastOpenFiles": [
+    "output/CWC_final-300dpi.pdf",
+    "output/paged/img/BG.svg",
     "Chapters/02_Talking-to-Computers.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -188,7 +190,6 @@
     "Images/original/DSC01744-preview_web.jpg",
     "output/paged/img/Leewa-perform.jpg",
     "Images/original/Leewa-perform.jpg",
-    "Images/original/DSC01754-preview_web.jpg",
     "Chapters/01_Co-Intelligence.md",
     "Chapters/03_Piles-of-Data.md",
     "Chapters/05_endoftext.md",
@@ -209,7 +210,6 @@
     "textgenerator/prompts/default/simplify.md",
     "textgenerator/prompts/default/getTitles.md",
     "textgenerator/prompts/default/getTags.md",
-    "textgenerator/prompts/default/getEmailPos.md",
-    "textgenerator/prompts/default/getEmailNeg.md"
+    "textgenerator/prompts/default/getEmailPos.md"
   ]
 }
