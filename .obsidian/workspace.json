@@ -59,8 +59,12 @@
             "id": "28374a100678b7a7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/05_endoftext.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -69,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/05_endoftext.md",
+                "file": "Abstract.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -113,13 +117,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "86662a52d3fc4570",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 307.5086555480957,
-    "collapsed": true
+    "width": 307.5086555480957
   },
   "right": {
     "id": "aa826788e6703207",
@@ -135,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Abstract.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,8 +175,22 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "28374a100678b7a7",
+  "active": "31720295f131406b",
   "lastOpenFiles": [
+    "Chapters/05_endoftext.md",
+    "Abstract.md",
+    "Chapters/06_contributions.md",
+    "Chapters/00_Hello-World.md",
+    "Presentations/February 23.md",
+    "Presentations/Meeting November.md",
+    "Presentations/December.script.md",
+    "Presentations/December.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "endnotes.md",
+    "Research Questions.md",
+    "Revision Needed.md",
+    "Table of Contents.md",
     "output/cwc-printer-final02.pdf",
     "output/cwc-screen-final02.pdf",
     "output/cwc-ebook-final02.pdf",
@@ -176,11 +202,7 @@
     "output/CWC_final-300dpi.pdf",
     "output/paged/img/BG.svg",
     "Chapters/02_Talking-to-Computers.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "output/Conversations with Computers - final 02 + cover.pdf",
-    "output/Conversations with Computers - final 02.pdf",
-    "Chapters/00_Hello-World.md",
     "output/paged/img/leewa-perform-2.jpg",
     "Images/original/leewa-perform-2.jpg",
     "Images/original/DSC01757-preview_web.jpg",
@@ -192,24 +214,14 @@
     "Images/original/Leewa-perform.jpg",
     "Chapters/01_Co-Intelligence.md",
     "Chapters/03_Piles-of-Data.md",
-    "Chapters/05_endoftext.md",
-    "Chapters/06_contributions.md",
     "Chapters/04_Stochastic-Meaning.md",
     "textgenerator/Untitled.md",
     "Bibliography.md",
-    "Presentations/February 23.md",
     "Notes/weizenbaum.md",
     "Notes/Chiro Giaco.md",
     "Notes/@wangDefiningArtificialIntelligence2019.md",
     "textgenerator/prompts/default/rewrite.md",
     "textgenerator/prompts/default/rewrite 1.md",
-    "textgenerator/prompts/default/getOutline.md",
-    "textgenerator/prompts/default/getIdeas.md",
-    "textgenerator/prompts/default/getParagraph.md",
-    "textgenerator/prompts/default/summarize.md",
-    "textgenerator/prompts/default/simplify.md",
-    "textgenerator/prompts/default/getTitles.md",
-    "textgenerator/prompts/default/getTags.md",
-    "textgenerator/prompts/default/getEmailPos.md"
+    "textgenerator/prompts/default/getOutline.md"
   ]
 }

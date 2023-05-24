@@ -1,6 +1,6 @@
 # Contributions
 
-Thank you to my supervisors *Manuela Naveau*, *Christa Sommerer* and *Laurent Mignonneau*.
+Thank you to my supervisors *Manuela Naveau*, *Christa Sommerer*, *Laurent Mignonneau*, and Fabricio Lamoncha.
 
 A special thanks to *Davide Bevilacqua* and the *Servus.at* association for making the *Silicon Friend Camp*, exhibition, and symposium possible.
 
