@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/03_Piles-of-Data.md",
+                "file": "Chapters/00_Hello-World.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,10 +177,12 @@
   },
   "active": "31720295f131406b",
   "lastOpenFiles": [
-    "Chapters/05_endoftext.md",
+    "Chapters/02_Talking-to-Computers.md",
     "Abstract.md",
-    "Chapters/06_contributions.md",
+    "Chapters/05_endoftext.md",
     "Chapters/00_Hello-World.md",
+    "Chapters/03_Piles-of-Data.md",
+    "Chapters/06_contributions.md",
     "Presentations/February 23.md",
     "Presentations/Meeting November.md",
     "Presentations/December.script.md",
@@ -201,7 +203,6 @@
     "output/CWC_final-72dpi.pdf",
     "output/CWC_final-300dpi.pdf",
     "output/paged/img/BG.svg",
-    "Chapters/02_Talking-to-Computers.md",
     "output/Conversations with Computers - final 02 + cover.pdf",
     "output/paged/img/leewa-perform-2.jpg",
     "Images/original/leewa-perform-2.jpg",
@@ -213,7 +214,6 @@
     "output/paged/img/Leewa-perform.jpg",
     "Images/original/Leewa-perform.jpg",
     "Chapters/01_Co-Intelligence.md",
-    "Chapters/03_Piles-of-Data.md",
     "Chapters/04_Stochastic-Meaning.md",
     "textgenerator/Untitled.md",
     "Bibliography.md",
