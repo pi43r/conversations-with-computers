@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/02_Talking-to-Computers.md",
+                "file": "Chapters/04_Stochastic-Meaning.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/02_Talking-to-Computers.md",
+                "file": "Chapters/04_Stochastic-Meaning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,11 +177,11 @@
   },
   "active": "31720295f131406b",
   "lastOpenFiles": [
+    "Chapters/03_Piles-of-Data.md",
+    "Chapters/02_Talking-to-Computers.md",
     "Chapters/01_Co-Intelligence.md",
     "Chapters/00_Hello-World.md",
-    "Chapters/03_Piles-of-Data.md",
     "Chapters/04_Stochastic-Meaning.md",
-    "Chapters/02_Talking-to-Computers.md",
     "Abstract.md",
     "Chapters/05_endoftext.md",
     "Chapters/06_contributions.md",
